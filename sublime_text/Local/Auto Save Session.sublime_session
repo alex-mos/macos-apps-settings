@@ -1,0 +1,396 @@
+{
+	"folder_history":
+	[
+		"/Users/aleksandr.mospan/Library/Application Support/Sublime Text",
+		"/Users/aleksandr.mospan/projects/optozorax.github.io",
+		"/Users/aleksandr.mospan/work/semrush/heatmap-image-maker",
+		"/Users/aleksandr.mospan"
+	],
+	"last_version": 4126,
+	"last_window_id": 71,
+	"log_indexing": false,
+	"next_update_check": 1653644439,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 1387.0,
+		"new_window_maximized": false,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"prefere",
+						"Preferences: Settings"
+					],
+					[
+						"sync se",
+						"Sync Settings: Upload"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/aleksandr.mospan/settings/readme.md",
+				"/Users/aleksandr.mospan/settings/.gitignore",
+				"/Users/aleksandr.mospan/Library/Application Support/Sublime Text/Local/Auto Save Session.sublime_session",
+				"/Users/aleksandr.mospan/Downloads/Universal-Layout-master/CHANGELOG.md",
+				"/Users/aleksandr.mospan/Dropbox/Показания всех счетчиков — шаблон отчёта.txt",
+				"/Users/aleksandr.mospan/projects/qemu/start-arch.sh",
+				"/Users/aleksandr.mospan/work/semrush/heatmap-image-maker/package.json",
+				"/untitled.html",
+				"/Users/aleksandr.mospan/Downloads/configs/user_password",
+				"/Users/aleksandr.mospan/Downloads/configs/2fa_config",
+				"/Users/aleksandr.mospan/Library/Application Support/Sublime Text/Packages/User/SyncSettings.sublime-settings",
+				"/Users/aleksandr.mospan/Dropbox/links.txt",
+				"/Users/aleksandr.mospan/.zshrc",
+				"/Users/aleksandr.mospan/.zprofile",
+				"/Users/aleksandr.mospan/Downloads/3Y3JYQKT4M/3Y3JYQKT4M - for 2018.2 or later.txt"
+			],
+			"find":
+			{
+				"height": 29.0
+			},
+			"find_in_files":
+			{
+				"height": 107.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 422.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 2560.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"package",
+						"Package Control: Remove Package"
+					],
+					[
+						"pac",
+						"Preferences: Browse Packages"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"prefere",
+						"Preferences: Settings"
+					],
+					[
+						"sync se",
+						"Sync Settings: Upload"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/aleksandr.mospan/settings/readme.md",
+				"/Users/aleksandr.mospan/settings/.gitignore",
+				"/Users/aleksandr.mospan/Library/Application Support/Sublime Text/Local/Auto Save Session.sublime_session",
+				"/Users/aleksandr.mospan/Downloads/Universal-Layout-master/CHANGELOG.md",
+				"/Users/aleksandr.mospan/Dropbox/Показания всех счетчиков — шаблон отчёта.txt",
+				"/Users/aleksandr.mospan/projects/qemu/start-arch.sh",
+				"/Users/aleksandr.mospan/work/semrush/heatmap-image-maker/package.json",
+				"/untitled.html",
+				"/Users/aleksandr.mospan/Downloads/configs/user_password",
+				"/Users/aleksandr.mospan/Downloads/configs/2fa_config",
+				"/Users/aleksandr.mospan/Library/Application Support/Sublime Text/Packages/User/SyncSettings.sublime-settings",
+				"/Users/aleksandr.mospan/Dropbox/links.txt",
+				"/Users/aleksandr.mospan/.zshrc",
+				"/Users/aleksandr.mospan/.zprofile",
+				"/Users/aleksandr.mospan/Downloads/3Y3JYQKT4M/3Y3JYQKT4M - for 2018.2 or later.txt"
+			],
+			"find":
+			{
+				"height": 29.0
+			},
+			"find_in_files":
+			{
+				"height": 107.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "YnBsaXN0MDDUAQIDBAUGBx5YJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlctsICQoLDA0ODxAREhMUFRYXGBcaGxwdXxAZX05TV2luZG93UmVzaXplR2VuZXJhdGlvbl8QEF9OU1dpbmRvd0xheW91dHNbTlNDbGFzc05hbWVbTlNTdHlsZU1hc2tXTlNJc0tleV5OU1dpbmRvd051bWJlclhOU0lzTWFpbl1OU1dpbmRvd0ZyYW1lXxAQTlNGaXJzdFJlc3BvbmRlcldOU1RpdGxlXxATTlNXaW5kb3dXb3Jrc3BhY2VJRBAAgAWAAxAPCREKUQmAAYAAgAKABK8QDx8gISIjJC0zNDU7QkNER1UkbnVsbF8QJi01MTcgOTgyIDI1NjAgMTQxNSAtNTE3IDk4MiAyNTYwIDE0MTUgWHVudGl0bGVkWFBYV2luZG93XxAkRTI1NjlGQUEtMUM4OS00RjczLUI1RjMtMjhDODY4NUExMjND0yUmJygqLFdOUy5rZXlzWk5TLm9iamVjdHNWJGNsYXNzoSmABqErgAqADtMuLycwMTJfEBhOU1NjcmVlbkxheW91dFVVSURTdHJpbmdfEBJOU1NjcmVlbkxheW91dFNpemWAB4AIgAlfECQ3RDcyNTBENC1GN0ZGLTRDRTUtQUExMS03RUFERDNBMkJFNzBcezI1NjAsIDE0NDB90jY3ODlaJGNsYXNzbmFtZVgkY2xhc3Nlc15OU1NjcmVlbkxheW91dKI4OlhOU09iamVjdNQ8PSc+PxNAQV8QH05TV2luZG93TGF5b3V0U2NyZWVuTGF5b3V0RnJhbWVfEB5OU1dpbmRvd0xheW91dFJlc2l6ZUdlbmVyYXRpb25fEBlOU1dpbmRvd0xheW91dFdpbmRvd0ZyYW1lgAyADYALXxAbe3stNTE3LCA5ODJ9LCB7MjU2MCwgMTQxNX19XxAbe3stNTE3LCA5ODJ9LCB7MjU2MCwgMTQxNX190jY3RUZeTlNXaW5kb3dMYXlvdXSiRTrSNjdISVxOU0RpY3Rpb25hcnmiSDoACAARABoAJAApADIANwBJAGAAfACPAJsApwCvAL4AxwDVAOgA8AEGAQgBCgEMAQ4BDwESARMBFQEXARkBGwEtATMBXAFlAW4BlQGcAaQBrwG2AbgBugG8Ab4BwAHHAeIB9wH5AfsB/QIkAjECNgJBAkoCWQJcAmUCbgKQArECzQLPAtEC0wLxAw8DFAMjAyYDKwM4AAAAAAAAAgEAAAAAAAAASgAAAAAAAAAAAAAAAAAAAzs",
+			"project": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 422.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 71,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
