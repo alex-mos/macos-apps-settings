@@ -7,7 +7,7 @@
 		"/Users/aleksandr.mospan"
 	],
 	"last_version": 4126,
-	"last_window_id": 70,
+	"last_window_id": 71,
 	"log_indexing": false,
 	"next_update_check": 1653644439,
 	"settings":
@@ -33,6 +33,14 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"package",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"pac",
+						"Preferences: Browse Packages"
+					],
 					[
 						"key",
 						"Preferences: Key Bindings"
@@ -70,6 +78,7 @@
 			},
 			"file_history":
 			[
+				"/Users/aleksandr.mospan/settings/sublime_text/.gitignore",
 				"/Users/aleksandr.mospan/settings/readme.md",
 				"/Users/aleksandr.mospan/settings/.gitignore",
 				"/Users/aleksandr.mospan/Library/Application Support/Sublime Text/Local/Auto Save Session.sublime_session",
