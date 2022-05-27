@@ -1,0 +1,22 @@
+{
+	"auto_complete": false,
+	"auto_match_enabled": false,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		".git",
+		"node_modules"
+	],
+	"font_face": "JetBrains Mono",
+	"font_size": 14,
+	"hot_exit": "disabled",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"save_on_focus_lost": true,
+	"tab_size": 2,
+	"theme": "Default Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+}
