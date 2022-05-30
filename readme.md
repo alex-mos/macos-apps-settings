@@ -1,12 +1,12 @@
-Create symlinks for
+# Create symlinks for
 
-Sublime Text
+## Sublime Text
 ```
 rm -rf ~/Library/Application\ Support/Sublime\ Text
 ln -s ~/settings/sublime_text ~/Library/Application\ Support/Sublime\ Text
 ```
 
-zsh
+## zsh
 ```
 rm ~/.zshrc
 ln -s ~/settings/.zshrc ~/.zshrc
