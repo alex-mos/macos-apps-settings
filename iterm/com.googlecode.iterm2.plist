@@ -129,6 +129,10 @@
 	<false/>
 	<key>HideActivityIndicator</key>
 	<true/>
+	<key>HideScrollbar</key>
+	<true/>
+	<key>HideTab</key>
+	<true/>
 	<key>HideTabNumber</key>
 	<true/>
 	<key>HotkeyMigratedFromSingleToMulti</key>
@@ -525,10 +529,12 @@
 	<key>SoundForEsc</key>
 	<false/>
 	<key>SplitPaneDimmingAmount</key>
-	<real>0.24551444933252428</real>
+	<real>0.40037602396844657</real>
 	<key>SwitchWindowModifier</key>
 	<integer>9</integer>
 	<key>TripleClickSelectsFullWrappedLines</key>
+	<false/>
+	<key>UseBorder</key>
 	<false/>
 	<key>VisualIndicatorForEsc</key>
 	<false/>
