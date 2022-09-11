@@ -1,15 +1,21 @@
 {
 	"folder_history":
 	[
+		"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/Resources",
+		"/Users/aleksandr.mospan/projects/minimal-ansi-layout/clean-full-ansi",
+		"/Users/aleksandr.mospan/projects/sublime-scheme-writer",
+		"/Users/aleksandr.mospan",
+		"/Users/aleksandr.mospan/projects/Universal-Layout",
+		"/Users/aleksandr.mospan/projects/crawl",
+		"/Users/aleksandr.mospan/projects/umoria",
 		"/Users/aleksandr.mospan/Library/Application Support/Sublime Text",
 		"/Users/aleksandr.mospan/projects/optozorax.github.io",
-		"/Users/aleksandr.mospan/work/semrush/heatmap-image-maker",
-		"/Users/aleksandr.mospan"
+		"/Users/aleksandr.mospan/work/semrush/heatmap-image-maker"
 	],
 	"last_version": 4126,
-	"last_window_id": 71,
+	"last_window_id": 158,
 	"log_indexing": false,
-	"next_update_check": 1653644439,
+	"next_update_check": 1662973008,
 	"settings":
 	{
 		"new_window_full_screen": false,
@@ -34,6 +40,66 @@
 				"selected_items":
 				[
 					[
+						"pro",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"prof",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"to",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"profile",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"plain",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"toggle",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"prefe",
+						"Preferences: Settings"
+					],
+					[
+						"profi",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"pre",
+						"Preferences: Settings"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"profiles",
+						"Profiles: Create"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"the",
+						"UI: Select Theme"
+					],
+					[
+						"ui",
+						"UI: Select Theme"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
 						"package",
 						"Package Control: Upgrade Package"
 					],
@@ -52,10 +118,6 @@
 					[
 						"sync se",
 						"Sync Settings: Upload"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
 					]
 				],
 				"width": 0.0
@@ -78,30 +140,76 @@
 			},
 			"file_history":
 			[
+				"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/Resources/English - clean-full-ansi.keylayout",
+				"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/Resources/Russian - clean-full-ansi.keylayout",
+				"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/version.plist",
+				"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/Info.plist",
+				"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/Resources/en.lproj/InfoPlist.strings",
+				"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/Resources/ru.lproj/InfoPlist.strings",
+				"/Users/aleksandr.mospan/projects/clean-ansi-layout/install.sh",
+				"/Users/aleksandr.mospan/projects/minimal-ansi-layout/readme.md",
+				"/Users/aleksandr.mospan/projects/minimal-ansi-layout/build.sh",
+				"/Users/aleksandr.mospan/projects/minimal-ansi-layout/install.sh",
+				"/Users/aleksandr.mospan/Dropbox/logs/11.09.2022",
+				"/Users/aleksandr.mospan/Dropbox/logs/10.09.2022",
+				"/Users/aleksandr.mospan/.config/karabiner/karabiner.json",
+				"/Users/aleksandr.mospan/Downloads/configs/user_password",
+				"/Users/aleksandr.mospan/projects/Universal-Layout/Universal.bundle/Contents/Info.plist",
+				"/Users/aleksandr.mospan/projects/Universal-Layout/Universal.bundle/Contents/Resources/ru.lproj/InfoPlist.strings",
+				"/Users/aleksandr.mospan/projects/minimal-ansi-layout/minimal-ansi-en.keylayout",
+				"/Users/aleksandr.mospan/Dropbox/logs/01.09.2022",
+				"/Users/aleksandr.mospan/Dropbox/logs/31.08.2022.txt",
+				"/Users/aleksandr.mospan/Downloads/sublime_settings_backup.json",
+				"/Users/aleksandr.mospan/Downloads/задачи для синка фронтендеров",
+				"/Users/aleksandr.mospan/Downloads/df_osx/data/init/init.txt",
+				"/Users/aleksandr.mospan/Downloads/df_osx/command line.txt",
+				"/Users/aleksandr.mospan/Downloads/Инструкция по ссылкам в блоге от команды маркетинг",
+				"/Users/aleksandr.mospan/Downloads/http:::localhost:8000:how-to-delete-or-update-goog",
+				"/Users/aleksandr.mospan/Downloads/untitled.js",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/7-sum-of-numbers.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/8-cockroach-speed.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/__test__/7-sum-of-numbers.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/__test__/8-cockroach-speed.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/__test__/7-sum-of-numbers.spec.js",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/__test__/8_paperwork.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/8_paperwork.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/__test__/test.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/__test__/mazeRunner.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/6_mazeRunner.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/getSize.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/getSize.js",
+				"/Users/aleksandr.mospan/projects/exp/ts/package.json",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/__test__/6_vasyaClerk.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/__test__/8_clock.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/6_vasyaClerk.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/8_clock.ts",
+				"/Users/aleksandr.mospan/.gitignore",
+				"/Users/aleksandr.mospan/Downloads/redirect-test.html",
+				"/Users/aleksandr.mospan/Dropbox/Показания всех счетчиков — шаблон отчёта.txt",
+				"/Users/aleksandr.mospan/.zshrc",
+				"/Users/aleksandr.mospan/settings/.gitignore",
+				"/Users/aleksandr.mospan/Downloads/список документов для подачи в немецкое посольство.txt",
+				"/Users/aleksandr.mospan/Downloads/void.ovpn",
 				"/Users/aleksandr.mospan/settings/sublime_text/.gitignore",
 				"/Users/aleksandr.mospan/settings/readme.md",
-				"/Users/aleksandr.mospan/settings/.gitignore",
 				"/Users/aleksandr.mospan/Library/Application Support/Sublime Text/Local/Auto Save Session.sublime_session",
 				"/Users/aleksandr.mospan/Downloads/Universal-Layout-master/CHANGELOG.md",
-				"/Users/aleksandr.mospan/Dropbox/Показания всех счетчиков — шаблон отчёта.txt",
 				"/Users/aleksandr.mospan/projects/qemu/start-arch.sh",
 				"/Users/aleksandr.mospan/work/semrush/heatmap-image-maker/package.json",
 				"/untitled.html",
-				"/Users/aleksandr.mospan/Downloads/configs/user_password",
 				"/Users/aleksandr.mospan/Downloads/configs/2fa_config",
 				"/Users/aleksandr.mospan/Library/Application Support/Sublime Text/Packages/User/SyncSettings.sublime-settings",
 				"/Users/aleksandr.mospan/Dropbox/links.txt",
-				"/Users/aleksandr.mospan/.zshrc",
 				"/Users/aleksandr.mospan/.zprofile",
 				"/Users/aleksandr.mospan/Downloads/3Y3JYQKT4M/3Y3JYQKT4M - for 2018.2 or later.txt"
 			],
 			"find":
 			{
-				"height": 29.0
+				"height": 43.0
 			},
 			"find_in_files":
 			{
-				"height": 107.0,
+				"height": 109.0,
 				"where_history":
 				[
 				]
@@ -129,7 +237,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 29.0
+				"height": 31.0
 			},
 			"input":
 			{
@@ -143,7 +251,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 54.0
+				"height": 58.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -152,6 +260,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"",
+						"/How To Delete or Update Google Reviews"
+					]
 				],
 				"width": 0.0
 			},

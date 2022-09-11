@@ -1,7 +1,7 @@
 {
 	"auto_complete": false,
 	"auto_match_enabled": false,
-	"color_scheme": "Monokai.sublime-color-scheme",
+	"color_scheme": "Writer.sublime-color-scheme",
 	"fold_buttons": false,
 	"folder_exclude_patterns":
 	[

@@ -8,4 +8,6 @@
   { "keys": ["super+d"], "command": "duplicate_line" },
   { "keys": ["super+l"], "command": "eslint" },
   { "keys": ["super+t"], "command": "" },
+  { "keys": ["super+k", "super+u"], "command": "" },
+  { "keys": ["super+k", "super+l"], "command": "" },
 ]
