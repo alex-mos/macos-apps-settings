@@ -1,6 +1,8 @@
 {
 	"folder_history":
 	[
+		"/Users/aleksandr.mospan/projects/clean-ansi-layout",
+		"/Users/aleksandr.mospan/.config/karabiner",
 		"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/Resources",
 		"/Users/aleksandr.mospan/projects/minimal-ansi-layout/clean-full-ansi",
 		"/Users/aleksandr.mospan/projects/sublime-scheme-writer",
@@ -13,9 +15,9 @@
 		"/Users/aleksandr.mospan/work/semrush/heatmap-image-maker"
 	],
 	"last_version": 4126,
-	"last_window_id": 158,
+	"last_window_id": 175,
 	"log_indexing": false,
-	"next_update_check": 1662973008,
+	"next_update_check": 1663577808,
 	"settings":
 	{
 		"new_window_full_screen": false,
@@ -140,10 +142,23 @@
 			},
 			"file_history":
 			[
-				"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/Resources/English - clean-full-ansi.keylayout",
-				"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/Resources/Russian - clean-full-ansi.keylayout",
-				"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/version.plist",
+				"/Users/aleksandr.mospan/settings/karabiner/karabiner.json",
+				"/Users/aleksandr.mospan/Downloads/retro_follow_up.txt",
+				"/Users/aleksandr.mospan/Dropbox/logs/15.09.2022",
 				"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/Info.plist",
+				"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/Resources/English - clean-full-ansi.keylayout",
+				"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/English - clean-full-ansi.keylayout",
+				"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/version.plist",
+				"/Users/aleksandr.mospan/Dropbox/logs/14.09.2022",
+				"/Users/aleksandr.mospan/Dropbox/logs/12.09.2022",
+				"/Users/aleksandr.mospan/.zshrc",
+				"/Users/aleksandr.mospan/.zprofile",
+				"/Users/aleksandr.mospan/work/semrush/listings-management/.git/hooks/pre-commit",
+				"/Users/aleksandr.mospan/settings/.gitignore",
+				"/Users/aleksandr.mospan/settings/install.sh",
+				"/Users/aleksandr.mospan/.config/karabiner/karabiner.json",
+				"/Users/aleksandr.mospan/settings/.zshrc",
+				"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/Resources/Russian - clean-full-ansi.keylayout",
 				"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/Resources/en.lproj/InfoPlist.strings",
 				"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/Resources/ru.lproj/InfoPlist.strings",
 				"/Users/aleksandr.mospan/projects/clean-ansi-layout/install.sh",
@@ -152,7 +167,6 @@
 				"/Users/aleksandr.mospan/projects/minimal-ansi-layout/install.sh",
 				"/Users/aleksandr.mospan/Dropbox/logs/11.09.2022",
 				"/Users/aleksandr.mospan/Dropbox/logs/10.09.2022",
-				"/Users/aleksandr.mospan/.config/karabiner/karabiner.json",
 				"/Users/aleksandr.mospan/Downloads/configs/user_password",
 				"/Users/aleksandr.mospan/projects/Universal-Layout/Universal.bundle/Contents/Info.plist",
 				"/Users/aleksandr.mospan/projects/Universal-Layout/Universal.bundle/Contents/Resources/ru.lproj/InfoPlist.strings",
@@ -186,8 +200,6 @@
 				"/Users/aleksandr.mospan/.gitignore",
 				"/Users/aleksandr.mospan/Downloads/redirect-test.html",
 				"/Users/aleksandr.mospan/Dropbox/Показания всех счетчиков — шаблон отчёта.txt",
-				"/Users/aleksandr.mospan/.zshrc",
-				"/Users/aleksandr.mospan/settings/.gitignore",
 				"/Users/aleksandr.mospan/Downloads/список документов для подачи в немецкое посольство.txt",
 				"/Users/aleksandr.mospan/Downloads/void.ovpn",
 				"/Users/aleksandr.mospan/settings/sublime_text/.gitignore",
@@ -200,7 +212,6 @@
 				"/Users/aleksandr.mospan/Downloads/configs/2fa_config",
 				"/Users/aleksandr.mospan/Library/Application Support/Sublime Text/Packages/User/SyncSettings.sublime-settings",
 				"/Users/aleksandr.mospan/Dropbox/links.txt",
-				"/Users/aleksandr.mospan/.zprofile",
 				"/Users/aleksandr.mospan/Downloads/3Y3JYQKT4M/3Y3JYQKT4M - for 2018.2 or later.txt"
 			],
 			"find":
@@ -295,10 +306,298 @@
 			{
 			}
 		},
-		"new_window_width": 2560.0
+		"new_window_width": 1528.0
 	},
 	"windows":
 	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pro",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"prof",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"to",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"profile",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"plain",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"toggle",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"prefe",
+						"Preferences: Settings"
+					],
+					[
+						"profi",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"pre",
+						"Preferences: Settings"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"profiles",
+						"Profiles: Create"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"the",
+						"UI: Select Theme"
+					],
+					[
+						"ui",
+						"UI: Select Theme"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"pac",
+						"Preferences: Browse Packages"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"prefere",
+						"Preferences: Settings"
+					],
+					[
+						"sync se",
+						"Sync Settings: Upload"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/aleksandr.mospan/settings/karabiner/karabiner.json",
+				"/Users/aleksandr.mospan/Downloads/retro_follow_up.txt",
+				"/Users/aleksandr.mospan/Dropbox/logs/15.09.2022",
+				"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/Info.plist",
+				"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/Resources/English - clean-full-ansi.keylayout",
+				"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/English - clean-full-ansi.keylayout",
+				"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/version.plist",
+				"/Users/aleksandr.mospan/Dropbox/logs/14.09.2022",
+				"/Users/aleksandr.mospan/Dropbox/logs/12.09.2022",
+				"/Users/aleksandr.mospan/.zshrc",
+				"/Users/aleksandr.mospan/.zprofile",
+				"/Users/aleksandr.mospan/work/semrush/listings-management/.git/hooks/pre-commit",
+				"/Users/aleksandr.mospan/settings/.gitignore",
+				"/Users/aleksandr.mospan/settings/install.sh",
+				"/Users/aleksandr.mospan/.config/karabiner/karabiner.json",
+				"/Users/aleksandr.mospan/settings/.zshrc",
+				"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/Resources/Russian - clean-full-ansi.keylayout",
+				"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/Resources/en.lproj/InfoPlist.strings",
+				"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/Resources/ru.lproj/InfoPlist.strings",
+				"/Users/aleksandr.mospan/projects/clean-ansi-layout/install.sh",
+				"/Users/aleksandr.mospan/projects/minimal-ansi-layout/readme.md",
+				"/Users/aleksandr.mospan/projects/minimal-ansi-layout/build.sh",
+				"/Users/aleksandr.mospan/projects/minimal-ansi-layout/install.sh",
+				"/Users/aleksandr.mospan/Dropbox/logs/11.09.2022",
+				"/Users/aleksandr.mospan/Dropbox/logs/10.09.2022",
+				"/Users/aleksandr.mospan/Downloads/configs/user_password",
+				"/Users/aleksandr.mospan/projects/Universal-Layout/Universal.bundle/Contents/Info.plist",
+				"/Users/aleksandr.mospan/projects/Universal-Layout/Universal.bundle/Contents/Resources/ru.lproj/InfoPlist.strings",
+				"/Users/aleksandr.mospan/projects/minimal-ansi-layout/minimal-ansi-en.keylayout",
+				"/Users/aleksandr.mospan/Dropbox/logs/01.09.2022",
+				"/Users/aleksandr.mospan/Dropbox/logs/31.08.2022.txt",
+				"/Users/aleksandr.mospan/Downloads/sublime_settings_backup.json",
+				"/Users/aleksandr.mospan/Downloads/задачи для синка фронтендеров",
+				"/Users/aleksandr.mospan/Downloads/df_osx/data/init/init.txt",
+				"/Users/aleksandr.mospan/Downloads/df_osx/command line.txt",
+				"/Users/aleksandr.mospan/Downloads/Инструкция по ссылкам в блоге от команды маркетинг",
+				"/Users/aleksandr.mospan/Downloads/http:::localhost:8000:how-to-delete-or-update-goog",
+				"/Users/aleksandr.mospan/Downloads/untitled.js",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/7-sum-of-numbers.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/8-cockroach-speed.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/__test__/7-sum-of-numbers.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/__test__/8-cockroach-speed.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/__test__/7-sum-of-numbers.spec.js",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/__test__/8_paperwork.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/8_paperwork.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/__test__/test.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/__test__/mazeRunner.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/6_mazeRunner.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/getSize.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/getSize.js",
+				"/Users/aleksandr.mospan/projects/exp/ts/package.json",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/__test__/6_vasyaClerk.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/__test__/8_clock.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/6_vasyaClerk.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/8_clock.ts",
+				"/Users/aleksandr.mospan/.gitignore",
+				"/Users/aleksandr.mospan/Downloads/redirect-test.html",
+				"/Users/aleksandr.mospan/Dropbox/Показания всех счетчиков — шаблон отчёта.txt",
+				"/Users/aleksandr.mospan/Downloads/список документов для подачи в немецкое посольство.txt",
+				"/Users/aleksandr.mospan/Downloads/void.ovpn",
+				"/Users/aleksandr.mospan/settings/sublime_text/.gitignore",
+				"/Users/aleksandr.mospan/settings/readme.md",
+				"/Users/aleksandr.mospan/Library/Application Support/Sublime Text/Local/Auto Save Session.sublime_session",
+				"/Users/aleksandr.mospan/Downloads/Universal-Layout-master/CHANGELOG.md",
+				"/Users/aleksandr.mospan/projects/qemu/start-arch.sh",
+				"/Users/aleksandr.mospan/work/semrush/heatmap-image-maker/package.json",
+				"/untitled.html",
+				"/Users/aleksandr.mospan/Downloads/configs/2fa_config",
+				"/Users/aleksandr.mospan/Library/Application Support/Sublime Text/Packages/User/SyncSettings.sublime-settings",
+				"/Users/aleksandr.mospan/Dropbox/links.txt",
+				"/Users/aleksandr.mospan/Downloads/3Y3JYQKT4M/3Y3JYQKT4M - for 2018.2 or later.txt"
+			],
+			"find":
+			{
+				"height": 43.0
+			},
+			"find_in_files":
+			{
+				"height": 109.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "YnBsaXN0MDDUAQIDBAUGBx5YJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlctsICQoLDA0ODxAREhMUFRYXGBcaGxwdXxAZX05TV2luZG93UmVzaXplR2VuZXJhdGlvbl8QEF9OU1dpbmRvd0xheW91dHNbTlNDbGFzc05hbWVbTlNTdHlsZU1hc2tXTlNJc0tleV5OU1dpbmRvd051bWJlclhOU0lzTWFpbl1OU1dpbmRvd0ZyYW1lXxAQTlNGaXJzdFJlc3BvbmRlcldOU1RpdGxlXxATTlNXaW5kb3dXb3Jrc3BhY2VJRBAAgAWAAxAPCREelwmAAYAAgAKABK8QDx8gISIjJC0zNDU7QkNER1UkbnVsbF8QHjUxNiAwIDE1MjggMTQxNSAwIDAgMjU2MCAxNDE1IFh1bnRpdGxlZFhQWFdpbmRvd1DTJSYnKCosV05TLmtleXNaTlMub2JqZWN0c1YkY2xhc3OhKYAGoSuACoAO0y4vJzAxMl8QGE5TU2NyZWVuTGF5b3V0VVVJRFN0cmluZ18QEk5TU2NyZWVuTGF5b3V0U2l6ZYAHgAiACV8QJEEzOUE5NTU4LTM0OTUtNDFDOS1BMTdDLUJGNzhFODEyQjczNlx7MjU2MCwgMTQ0MH3SNjc4OVokY2xhc3NuYW1lWCRjbGFzc2VzXk5TU2NyZWVuTGF5b3V0ojg6WE5TT2JqZWN01Dw9Jz4/E0BBXxAfTlNXaW5kb3dMYXlvdXRTY3JlZW5MYXlvdXRGcmFtZV8QHk5TV2luZG93TGF5b3V0UmVzaXplR2VuZXJhdGlvbl8QGU5TV2luZG93TGF5b3V0V2luZG93RnJhbWWADIANgAtfEBh7ezUxNiwgMH0sIHsxNTI4LCAxNDE1fX1fEBZ7ezAsIDB9LCB7MjU2MCwgMTQxNX190jY3RUZeTlNXaW5kb3dMYXlvdXSiRTrSNjdISVxOU0RpY3Rpb25hcnmiSDoACAARABoAJAApADIANwBJAGAAfACPAJsApwCvAL4AxwDVAOgA8AEGAQgBCgEMAQ4BDwESARMBFQEXARkBGwEtATMBVAFdAWYBZwFuAXYBgQGIAYoBjAGOAZABkgGZAbQByQHLAc0BzwH2AgMCCAITAhwCKwIuAjcCQAJiAoMCnwKhAqMCpQLAAtkC3gLtAvAC9QMCAAAAAAAAAgEAAAAAAAAASgAAAAAAAAAAAAAAAAAAAwU",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"/How To Delete or Update Google Reviews"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 422.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 175
+		}
 	],
 	"workspaces":
 	{
