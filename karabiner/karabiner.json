@@ -753,7 +753,7 @@
                         ]
                     },
                     {
-                        "description": "- to —",
+                        "description": "long - to —",
                         "manipulators": [
                             {
                                 "from": {
@@ -776,7 +776,7 @@
                         ]
                     },
                     {
-                        "description": "ё to Ё",
+                        "description": "long ё to Ё",
                         "manipulators": [
                             {
                                 "from": {
@@ -799,7 +799,7 @@
                         ]
                     },
                     {
-                        "description": "Home to Control Left",
+                        "description": "Home to Control + Left",
                         "manipulators": [
                             {
                                 "from": {
@@ -816,7 +816,7 @@
                         ]
                     },
                     {
-                        "description": "End to Control Right",
+                        "description": "End to Control + Right",
                         "manipulators": [
                             {
                                 "from": {
@@ -826,6 +826,78 @@
                                     {
                                         "key_code": "right_arrow",
                                         "modifiers": "command"
+                                    }
+                                ],
+                                "type": "basic"
+                            }
+                        ]
+                    },
+                    {
+                        "description": "Shift + Home to Shift + Control + Left",
+                        "manipulators": [
+                            {
+                                "from": {
+                                    "key_code": "home",
+                                    "modifiers": {
+                                        "mandatory": [
+                                            "shift"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "key_code": "left_arrow",
+                                        "modifiers": [
+                                            "command",
+                                            "left_shift"
+                                        ]
+                                    }
+                                ],
+                                "type": "basic"
+                            }
+                        ]
+                    },
+                    {
+                        "description": "Shift + End to Shift + Control + Right",
+                        "manipulators": [
+                            {
+                                "from": {
+                                    "key_code": "end",
+                                    "modifiers": {
+                                        "mandatory": [
+                                            "shift"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "key_code": "right_arrow",
+                                        "modifiers": [
+                                            "command",
+                                            "left_shift"
+                                        ]
+                                    }
+                                ],
+                                "type": "basic"
+                            }
+                        ]
+                    },
+                    {
+                        "description": "screenshot button to F13",
+                        "manipulators": [
+                            {
+                                "from": {
+                                    "key_code": "4",
+                                    "modifiers": {
+                                        "mandatory": [
+                                            "left_command",
+                                            "left_shift"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "key_code": "f13"
                                     }
                                 ],
                                 "type": "basic"
@@ -1101,31 +1173,11 @@
             "simple_modifications": [
                 {
                     "from": {
-                        "apple_vendor_top_case_key_code": "keyboard_fn"
-                    },
-                    "to": [
-                        {
-                            "key_code": "f18"
-                        }
-                    ]
-                },
-                {
-                    "from": {
-                        "key_code": "caps_lock"
-                    },
-                    "to": [
-                        {
-                            "key_code": "f13"
-                        }
-                    ]
-                },
-                {
-                    "from": {
                         "key_code": "insert"
                     },
                     "to": [
                         {
-                            "key_code": "f14"
+                            "key_code": "f15"
                         }
                     ]
                 },
@@ -1135,7 +1187,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "f15"
+                            "key_code": "f16"
                         }
                     ]
                 }
