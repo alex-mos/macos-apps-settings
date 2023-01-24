@@ -546,7 +546,7 @@
                         ]
                     },
                     {
-                        "description": "long w to W",
+                        "description": "long v to V",
                         "manipulators": [
                             {
                                 "from": {
@@ -561,6 +561,29 @@
                                     },
                                     {
                                         "key_code": "v",
+                                        "modifiers": "left_option"
+                                    }
+                                ],
+                                "type": "basic"
+                            }
+                        ]
+                    },
+                    {
+                        "description": "long w to W",
+                        "manipulators": [
+                            {
+                                "from": {
+                                    "key_code": "w"
+                                },
+                                "to": {
+                                    "key_code": "w"
+                                },
+                                "to_if_held_down": [
+                                    {
+                                        "key_code": "delete_or_backspace"
+                                    },
+                                    {
+                                        "key_code": "w",
                                         "modifiers": "left_option"
                                     }
                                 ],
