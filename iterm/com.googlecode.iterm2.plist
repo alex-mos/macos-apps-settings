@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AdjustWindowForFontSizeChange</key>
+	<true/>
 	<key>CommandSelection</key>
 	<false/>
 	<key>CopySelection</key>
@@ -371,6 +373,8 @@
 			</dict>
 			<key>Guid</key>
 			<string>B1EE27F5-F35C-42B7-B122-AA58EB5F157B</string>
+			<key>Hide After Opening</key>
+			<false/>
 			<key>Horizontal Spacing</key>
 			<real>1</real>
 			<key>Idle Code</key>
