@@ -1,0 +1,890 @@
+{
+	"folder_history":
+	[
+		"/Users/aleksandr.mospan/projects/blog",
+		"/Users/aleksandr.mospan/projects/blog-zola",
+		"/Users/aleksandr.mospan/projects/exp/react",
+		"/Users/aleksandr.mospan/projects/exp/react/first-cra",
+		"/Users/aleksandr.mospan/work/semrush/listings-management",
+		"/Users/aleksandr.mospan/projects/exp/shell-game",
+		"/Users/aleksandr.mospan/Downloads/документация по дубликатам в listings_management",
+		"/Users/aleksandr.mospan/projects/dcs-doc",
+		"/Users/aleksandr.mospan/settings",
+		"/Users/aleksandr.mospan/Library/Application Support/com.lwouis.alt-tab-macos",
+		"/Users/aleksandr.mospan/projects/clean-ansi-layout",
+		"/Users/aleksandr.mospan/.config/karabiner",
+		"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/Resources",
+		"/Users/aleksandr.mospan/projects/minimal-ansi-layout/clean-full-ansi",
+		"/Users/aleksandr.mospan/projects/sublime-scheme-writer",
+		"/Users/aleksandr.mospan",
+		"/Users/aleksandr.mospan/projects/Universal-Layout",
+		"/Users/aleksandr.mospan/projects/crawl",
+		"/Users/aleksandr.mospan/projects/umoria",
+		"/Users/aleksandr.mospan/Library/Application Support/Sublime Text",
+		"/Users/aleksandr.mospan/projects/optozorax.github.io",
+		"/Users/aleksandr.mospan/work/semrush/heatmap-image-maker"
+	],
+	"last_version": 4126,
+	"last_window_id": 225,
+	"log_indexing": false,
+	"next_update_check": 1668472330,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 1027.0,
+		"new_window_maximized": false,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"p",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"pro",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"toggle",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"prof",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"to",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"profile",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"plain",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"prefe",
+						"Preferences: Settings"
+					],
+					[
+						"profi",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"pre",
+						"Preferences: Settings"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"profiles",
+						"Profiles: Create"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"the",
+						"UI: Select Theme"
+					],
+					[
+						"ui",
+						"UI: Select Theme"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"pac",
+						"Preferences: Browse Packages"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"prefere",
+						"Preferences: Settings"
+					],
+					[
+						"sync se",
+						"Sync Settings: Upload"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/aleksandr.mospan/Downloads/blog-bug-search.txt",
+				"/Users/aleksandr.mospan/settings/readme.md",
+				"/Users/aleksandr.mospan/projects/blog/content/blog/andrew-huberman-optimizing-workspace-summary.md",
+				"/Users/aleksandr.mospan/projects/blog/templates/shortcodes/youtube.html",
+				"/Users/aleksandr.mospan/projects/blog/templates/post.html",
+				"/Users/aleksandr.mospan/projects/blog/templates/base.html",
+				"/Users/aleksandr.mospan/projects/blog/templates/about.html",
+				"/Users/aleksandr.mospan/projects/blog/templates/header.html",
+				"/Users/aleksandr.mospan/projects/blog/templates/index.html",
+				"/Users/aleksandr.mospan/projects/blog/.gitignore",
+				"/Users/aleksandr.mospan/projects/blog/content/blog/_index.md",
+				"/Users/aleksandr.mospan/projects/blog/readme.md",
+				"/Users/aleksandr.mospan/projects/blog/config.toml",
+				"/Users/aleksandr.mospan/projects/blog/content/post-template.md",
+				"/Users/aleksandr.mospan/projects/blog/content/about.md",
+				"/Users/aleksandr.mospan/projects/blog/content/andrew-huberman-optimizing-workspace-summary.md",
+				"/Users/aleksandr.mospan/projects/blog/content/homebrew.md",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/public/index.html",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/readme.md",
+				"/Users/aleksandr.mospan/projects/articles/andrew-huberman-optimizing-workspace-summary.md",
+				"/Users/aleksandr.mospan/projects/articles/friends-chat.md",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/esbuild-watch.js",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/public/dist/button/button.js",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/tailwind.config.js",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/public/assets/shell.svg",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/src/main.css",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/src/helpers/helpers.ts",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/src/main.tsx",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/src/button/button.tsx",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/public/dist/app.js",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/public/dist/main.js",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/package.json",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/web-dev-server.config.mjs",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/tsconfig.json",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/src/app.tsx",
+				"/Users/aleksandr.mospan/Downloads/модалка для триальных пользователей.тхт",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/jest.config.js",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/src/index.html",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/src/bundle.js",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/src/app.js",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/src/button/button.js",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/postcss.config.js",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/src/button/button.css",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/watch.sh",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/build.sh",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/nodemon.json",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/src/Button.tsx",
+				"/Users/aleksandr.mospan/projects/exp/seeds/style.css",
+				"/Users/aleksandr.mospan/projects/exp/seeds/index.html",
+				"/Users/aleksandr.mospan/projects/exp/seeds/stages.md",
+				"/Users/aleksandr.mospan/Downloads/документация по дубликатам в listings_management/duplicates_widgets_overview.md",
+				"/Users/aleksandr.mospan/Dropbox/logs/14.10.2022",
+				"/Users/aleksandr.mospan/Downloads/документация по дубликатам в listings_management/duplicates_store.md",
+				"/Users/aleksandr.mospan/Dropbox/logs/10.10.2022",
+				"/Users/aleksandr.mospan/Downloads/duplicates_widget_questions.md",
+				"/Users/aleksandr.mospan/Dropbox/flexi-benefit-Q4-2022/Flexi-траты за 4 квартал 2022.txt",
+				"/Users/aleksandr.mospan/Downloads/duplicates_widgets_overview.md",
+				"/Users/aleksandr.mospan/projects/dcs-doc/ru/docs/spitfire-ix/08.arms.md",
+				"/Users/aleksandr.mospan/projects/dcs-doc/en/docs/fa18c/15.append.md",
+				"/Users/aleksandr.mospan/projects/dcs-doc/en/docs/f16/03.cockpit.md",
+				"/Users/aleksandr.mospan/projects/dcs-doc/ru/docs/spitfire-ix/02.common.md",
+				"/Users/aleksandr.mospan/projects/dcs-doc/en/docs/f16/21.append.md",
+				"/Users/aleksandr.mospan/Downloads/duplicates_process.md",
+				"/Users/aleksandr.mospan/Downloads/duplicates_widgets.md",
+				"/Users/aleksandr.mospan/Downloads/duplicates_store.md",
+				"/Users/aleksandr.mospan/Dropbox/logs/29.09.2022",
+				"/Users/aleksandr.mospan/Downloads/электронная_подпись_от_semrush.png",
+				"/Users/aleksandr.mospan/Downloads/стор.md",
+				"/Users/aleksandr.mospan/Downloads/виджеты_дубликатов.md",
+				"/Users/aleksandr.mospan/projects/clean-ansi-layout/install.sh",
+				"/Users/aleksandr.mospan/settings/install.sh",
+				"/Users/aleksandr.mospan/settings/karabiner/karabiner.json",
+				"/Users/aleksandr.mospan/Library/Application Support/Sublime Merge/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/aleksandr.mospan/Library/Application Support/Sublime Merge/Packages/User/Preferences.sublime-settings",
+				"/Users/aleksandr.mospan/Dropbox/logs/19.09.2022",
+				"/Users/aleksandr.mospan/Downloads/retro_follow_up.txt",
+				"/Users/aleksandr.mospan/settings/alt-tab/com.lwouis.alt-tab-macos.plist",
+				"/Users/aleksandr.mospan/Dropbox/logs/15.09.2022",
+				"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/Info.plist",
+				"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/Resources/English - clean-full-ansi.keylayout",
+				"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/English - clean-full-ansi.keylayout",
+				"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/version.plist",
+				"/Users/aleksandr.mospan/Dropbox/logs/14.09.2022",
+				"/Users/aleksandr.mospan/Dropbox/logs/12.09.2022",
+				"/Users/aleksandr.mospan/.zshrc",
+				"/Users/aleksandr.mospan/.zprofile",
+				"/Users/aleksandr.mospan/work/semrush/listings-management/.git/hooks/pre-commit",
+				"/Users/aleksandr.mospan/settings/.gitignore",
+				"/Users/aleksandr.mospan/.config/karabiner/karabiner.json",
+				"/Users/aleksandr.mospan/settings/.zshrc",
+				"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/Resources/Russian - clean-full-ansi.keylayout",
+				"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/Resources/en.lproj/InfoPlist.strings",
+				"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/Resources/ru.lproj/InfoPlist.strings",
+				"/Users/aleksandr.mospan/projects/minimal-ansi-layout/readme.md",
+				"/Users/aleksandr.mospan/projects/minimal-ansi-layout/build.sh",
+				"/Users/aleksandr.mospan/projects/minimal-ansi-layout/install.sh",
+				"/Users/aleksandr.mospan/Dropbox/logs/11.09.2022",
+				"/Users/aleksandr.mospan/Dropbox/logs/10.09.2022",
+				"/Users/aleksandr.mospan/Downloads/configs/user_password",
+				"/Users/aleksandr.mospan/projects/Universal-Layout/Universal.bundle/Contents/Info.plist",
+				"/Users/aleksandr.mospan/projects/Universal-Layout/Universal.bundle/Contents/Resources/ru.lproj/InfoPlist.strings",
+				"/Users/aleksandr.mospan/projects/minimal-ansi-layout/minimal-ansi-en.keylayout",
+				"/Users/aleksandr.mospan/Dropbox/logs/01.09.2022",
+				"/Users/aleksandr.mospan/Dropbox/logs/31.08.2022.txt",
+				"/Users/aleksandr.mospan/Downloads/sublime_settings_backup.json",
+				"/Users/aleksandr.mospan/Downloads/задачи для синка фронтендеров",
+				"/Users/aleksandr.mospan/Downloads/df_osx/data/init/init.txt",
+				"/Users/aleksandr.mospan/Downloads/df_osx/command line.txt",
+				"/Users/aleksandr.mospan/Downloads/Инструкция по ссылкам в блоге от команды маркетинг",
+				"/Users/aleksandr.mospan/Downloads/http:::localhost:8000:how-to-delete-or-update-goog",
+				"/Users/aleksandr.mospan/Downloads/untitled.js",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/7-sum-of-numbers.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/8-cockroach-speed.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/__test__/7-sum-of-numbers.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/__test__/8-cockroach-speed.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/__test__/7-sum-of-numbers.spec.js",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/__test__/8_paperwork.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/8_paperwork.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/__test__/test.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/__test__/mazeRunner.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/6_mazeRunner.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/getSize.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/getSize.js",
+				"/Users/aleksandr.mospan/projects/exp/ts/package.json",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/__test__/6_vasyaClerk.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/__test__/8_clock.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/6_vasyaClerk.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/8_clock.ts"
+			],
+			"find":
+			{
+				"height": 31.0
+			},
+			"find_in_files":
+			{
+				"height": 113.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 43.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"templates/index.html"
+					],
+					[
+						"src",
+						"src/app.tsx"
+					],
+					[
+						".ts",
+						"src/Button.tsx"
+					],
+					[
+						"inde",
+						"src/index.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 333.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1920.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "trial popup\n\n",
+					"settings":
+					{
+						"buffer_size": 13,
+						"line_ending": "Unix",
+						"name": "trial popup"
+					},
+					"undo_stack":
+					[
+						[
+							1,
+							1,
+							"insert",
+							{
+								"characters": "tra"
+							},
+							"AwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							2,
+							1,
+							"left_delete",
+							null,
+							"AQAAAAIAAAAAAAAAAgAAAAAAAAABAAAAYQ",
+							"AQAAAAAAAAABAAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							3,
+							1,
+							"insert",
+							{
+								"characters": "ial"
+							},
+							"AwAAAAIAAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAUAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							4,
+							1,
+							"insert",
+							{
+								"characters": " popup"
+							},
+							"BgAAAAUAAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAAsAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAABQAAAAAAAAAFAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							5,
+							1,
+							"insert",
+							{
+								"characters": "\n\n"
+							},
+							"AgAAAAsAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAANAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"p",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"pro",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"toggle",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"prof",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"to",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"profile",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"plain",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"prefe",
+						"Preferences: Settings"
+					],
+					[
+						"profi",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"pre",
+						"Preferences: Settings"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"profiles",
+						"Profiles: Create"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"the",
+						"UI: Select Theme"
+					],
+					[
+						"ui",
+						"UI: Select Theme"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"package",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"pac",
+						"Preferences: Browse Packages"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"prefere",
+						"Preferences: Settings"
+					],
+					[
+						"sync se",
+						"Sync Settings: Upload"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/aleksandr.mospan/Downloads/blog-bug-search.txt",
+				"/Users/aleksandr.mospan/settings/readme.md",
+				"/Users/aleksandr.mospan/projects/blog/content/blog/andrew-huberman-optimizing-workspace-summary.md",
+				"/Users/aleksandr.mospan/projects/blog/templates/shortcodes/youtube.html",
+				"/Users/aleksandr.mospan/projects/blog/templates/post.html",
+				"/Users/aleksandr.mospan/projects/blog/templates/base.html",
+				"/Users/aleksandr.mospan/projects/blog/templates/about.html",
+				"/Users/aleksandr.mospan/projects/blog/templates/header.html",
+				"/Users/aleksandr.mospan/projects/blog/templates/index.html",
+				"/Users/aleksandr.mospan/projects/blog/.gitignore",
+				"/Users/aleksandr.mospan/projects/blog/content/blog/_index.md",
+				"/Users/aleksandr.mospan/projects/blog/readme.md",
+				"/Users/aleksandr.mospan/projects/blog/config.toml",
+				"/Users/aleksandr.mospan/projects/blog/content/post-template.md",
+				"/Users/aleksandr.mospan/projects/blog/content/about.md",
+				"/Users/aleksandr.mospan/projects/blog/content/andrew-huberman-optimizing-workspace-summary.md",
+				"/Users/aleksandr.mospan/projects/blog/content/homebrew.md",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/public/index.html",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/readme.md",
+				"/Users/aleksandr.mospan/projects/articles/andrew-huberman-optimizing-workspace-summary.md",
+				"/Users/aleksandr.mospan/projects/articles/friends-chat.md",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/esbuild-watch.js",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/public/dist/button/button.js",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/tailwind.config.js",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/public/assets/shell.svg",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/src/main.css",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/src/helpers/helpers.ts",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/src/main.tsx",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/src/button/button.tsx",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/public/dist/app.js",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/public/dist/main.js",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/package.json",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/web-dev-server.config.mjs",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/tsconfig.json",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/src/app.tsx",
+				"/Users/aleksandr.mospan/Downloads/модалка для триальных пользователей.тхт",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/jest.config.js",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/src/index.html",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/src/bundle.js",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/src/app.js",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/src/button/button.js",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/postcss.config.js",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/src/button/button.css",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/watch.sh",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/build.sh",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/nodemon.json",
+				"/Users/aleksandr.mospan/projects/exp/shell-game/src/Button.tsx",
+				"/Users/aleksandr.mospan/projects/exp/seeds/style.css",
+				"/Users/aleksandr.mospan/projects/exp/seeds/index.html",
+				"/Users/aleksandr.mospan/projects/exp/seeds/stages.md",
+				"/Users/aleksandr.mospan/Downloads/документация по дубликатам в listings_management/duplicates_widgets_overview.md",
+				"/Users/aleksandr.mospan/Dropbox/logs/14.10.2022",
+				"/Users/aleksandr.mospan/Downloads/документация по дубликатам в listings_management/duplicates_store.md",
+				"/Users/aleksandr.mospan/Dropbox/logs/10.10.2022",
+				"/Users/aleksandr.mospan/Downloads/duplicates_widget_questions.md",
+				"/Users/aleksandr.mospan/Dropbox/flexi-benefit-Q4-2022/Flexi-траты за 4 квартал 2022.txt",
+				"/Users/aleksandr.mospan/Downloads/duplicates_widgets_overview.md",
+				"/Users/aleksandr.mospan/projects/dcs-doc/ru/docs/spitfire-ix/08.arms.md",
+				"/Users/aleksandr.mospan/projects/dcs-doc/en/docs/fa18c/15.append.md",
+				"/Users/aleksandr.mospan/projects/dcs-doc/en/docs/f16/03.cockpit.md",
+				"/Users/aleksandr.mospan/projects/dcs-doc/ru/docs/spitfire-ix/02.common.md",
+				"/Users/aleksandr.mospan/projects/dcs-doc/en/docs/f16/21.append.md",
+				"/Users/aleksandr.mospan/Downloads/duplicates_process.md",
+				"/Users/aleksandr.mospan/Downloads/duplicates_widgets.md",
+				"/Users/aleksandr.mospan/Downloads/duplicates_store.md",
+				"/Users/aleksandr.mospan/Dropbox/logs/29.09.2022",
+				"/Users/aleksandr.mospan/Downloads/электронная_подпись_от_semrush.png",
+				"/Users/aleksandr.mospan/Downloads/стор.md",
+				"/Users/aleksandr.mospan/Downloads/виджеты_дубликатов.md",
+				"/Users/aleksandr.mospan/projects/clean-ansi-layout/install.sh",
+				"/Users/aleksandr.mospan/settings/install.sh",
+				"/Users/aleksandr.mospan/settings/karabiner/karabiner.json",
+				"/Users/aleksandr.mospan/Library/Application Support/Sublime Merge/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/aleksandr.mospan/Library/Application Support/Sublime Merge/Packages/User/Preferences.sublime-settings",
+				"/Users/aleksandr.mospan/Dropbox/logs/19.09.2022",
+				"/Users/aleksandr.mospan/Downloads/retro_follow_up.txt",
+				"/Users/aleksandr.mospan/settings/alt-tab/com.lwouis.alt-tab-macos.plist",
+				"/Users/aleksandr.mospan/Dropbox/logs/15.09.2022",
+				"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/Info.plist",
+				"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/Resources/English - clean-full-ansi.keylayout",
+				"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/English - clean-full-ansi.keylayout",
+				"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/version.plist",
+				"/Users/aleksandr.mospan/Dropbox/logs/14.09.2022",
+				"/Users/aleksandr.mospan/Dropbox/logs/12.09.2022",
+				"/Users/aleksandr.mospan/.zshrc",
+				"/Users/aleksandr.mospan/.zprofile",
+				"/Users/aleksandr.mospan/work/semrush/listings-management/.git/hooks/pre-commit",
+				"/Users/aleksandr.mospan/settings/.gitignore",
+				"/Users/aleksandr.mospan/.config/karabiner/karabiner.json",
+				"/Users/aleksandr.mospan/settings/.zshrc",
+				"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/Resources/Russian - clean-full-ansi.keylayout",
+				"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/Resources/en.lproj/InfoPlist.strings",
+				"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/Resources/ru.lproj/InfoPlist.strings",
+				"/Users/aleksandr.mospan/projects/minimal-ansi-layout/readme.md",
+				"/Users/aleksandr.mospan/projects/minimal-ansi-layout/build.sh",
+				"/Users/aleksandr.mospan/projects/minimal-ansi-layout/install.sh",
+				"/Users/aleksandr.mospan/Dropbox/logs/11.09.2022",
+				"/Users/aleksandr.mospan/Dropbox/logs/10.09.2022",
+				"/Users/aleksandr.mospan/Downloads/configs/user_password",
+				"/Users/aleksandr.mospan/projects/Universal-Layout/Universal.bundle/Contents/Info.plist",
+				"/Users/aleksandr.mospan/projects/Universal-Layout/Universal.bundle/Contents/Resources/ru.lproj/InfoPlist.strings",
+				"/Users/aleksandr.mospan/projects/minimal-ansi-layout/minimal-ansi-en.keylayout",
+				"/Users/aleksandr.mospan/Dropbox/logs/01.09.2022",
+				"/Users/aleksandr.mospan/Dropbox/logs/31.08.2022.txt",
+				"/Users/aleksandr.mospan/Downloads/sublime_settings_backup.json",
+				"/Users/aleksandr.mospan/Downloads/задачи для синка фронтендеров",
+				"/Users/aleksandr.mospan/Downloads/df_osx/data/init/init.txt",
+				"/Users/aleksandr.mospan/Downloads/df_osx/command line.txt",
+				"/Users/aleksandr.mospan/Downloads/Инструкция по ссылкам в блоге от команды маркетинг",
+				"/Users/aleksandr.mospan/Downloads/http:::localhost:8000:how-to-delete-or-update-goog",
+				"/Users/aleksandr.mospan/Downloads/untitled.js",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/7-sum-of-numbers.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/8-cockroach-speed.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/__test__/7-sum-of-numbers.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/__test__/8-cockroach-speed.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/__test__/7-sum-of-numbers.spec.js",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/__test__/8_paperwork.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/8_paperwork.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/__test__/test.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/__test__/mazeRunner.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/6_mazeRunner.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/getSize.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/getSize.js",
+				"/Users/aleksandr.mospan/projects/exp/ts/package.json",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/__test__/6_vasyaClerk.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/__test__/8_clock.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/6_vasyaClerk.ts",
+				"/Users/aleksandr.mospan/projects/exp/ts/codewars/8_clock.ts"
+			],
+			"find":
+			{
+				"height": 31.0
+			},
+			"find_in_files":
+			{
+				"height": 113.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 13,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										13,
+										13
+									]
+								],
+								"settings":
+								{
+									"auto_name": "trial popup",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 43.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "YnBsaXN0MDDUAQIDBAUGBxpYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlctkICQoLDA0ODxAREhMUFRYXGBlfEBlfTlNXaW5kb3dSZXNpemVHZW5lcmF0aW9uXxAQX05TV2luZG93TGF5b3V0c1tOU0NsYXNzTmFtZVtOU1N0eWxlTWFza15OU1dpbmRvd051bWJlcl1OU1dpbmRvd0ZyYW1lXxAQTlNGaXJzdFJlc3BvbmRlcldOU1RpdGxlXxATTlNXaW5kb3dXb3Jrc3BhY2VJRBAAgAWAAxAPEQqQgAGAAIACgASvEA8bHB0eHyApLzAxNz4/QENVJG51bGxfEBwwIDAgMTkyMCAxMDU1IDAgMCAxOTIwIDEwNTUgW3RyaWFsIHBvcHVwWFBYV2luZG93UNMhIiMkJihXTlMua2V5c1pOUy5vYmplY3RzViRjbGFzc6ElgAahJ4AKgA7TKisjLC0uXxAYTlNTY3JlZW5MYXlvdXRVVUlEU3RyaW5nXxASTlNTY3JlZW5MYXlvdXRTaXplgAeACIAJXxAkNTgyNUQzN0MtMTcyOC00MkRCLThGQUYtMDFFNjA3NjU2RTQ2XHsxOTIwLCAxMDgwfdIyMzQ1WiRjbGFzc25hbWVYJGNsYXNzZXNeTlNTY3JlZW5MYXlvdXSiNDZYTlNPYmplY3TUODkjOjsRPD1fEB9OU1dpbmRvd0xheW91dFNjcmVlbkxheW91dEZyYW1lXxAeTlNXaW5kb3dMYXlvdXRSZXNpemVHZW5lcmF0aW9uXxAZTlNXaW5kb3dMYXlvdXRXaW5kb3dGcmFtZYAMgA2AC18QFnt7MCwgMH0sIHsxOTIwLCAxMDU1fX1fEBZ7ezAsIDB9LCB7MTkyMCwgMTA1NX190jIzQUJeTlNXaW5kb3dMYXlvdXSiQTbSMjNERVxOU0RpY3Rpb25hcnmiRDYACAARABoAJAApADIANwBJAFwAeACLAJcAowCyAMAA0wDbAPEA8wD1APcA+QD8AP4BAAECAQQBFgEcATsBRwFQAVEBWAFgAWsBcgF0AXYBeAF6AXwBgwGeAbMBtQG3AbkB4AHtAfIB/QIGAhUCGAIhAioCTAJtAokCiwKNAo8CqALBAsYC1QLYAt0C6gAAAAAAAAIBAAAAAAAAAEYAAAAAAAAAAAAAAAAAAALt",
+			"project": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"templates/index.html"
+					],
+					[
+						"src",
+						"src/app.tsx"
+					],
+					[
+						".ts",
+						"src/Button.tsx"
+					],
+					[
+						"inde",
+						"src/index.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 333.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 224,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

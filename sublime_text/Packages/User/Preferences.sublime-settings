@@ -1,22 +1,18 @@
 {
-	"auto_complete": false,
-	"auto_match_enabled": false,
-	"color_scheme": "Monokai.sublime-color-scheme",
-	"fold_buttons": false,
-	"folder_exclude_patterns":
-	[
-		".git",
-		"node_modules"
-	],
-	"font_face": "JetBrains Mono",
-	"font_size": 16,
-	"hot_exit": "disabled",
-	"ignored_packages":
-	[
+  "auto_complete": false,
+  "auto_match_enabled": false,
+  "color_scheme": "Monokai.sublime-color-scheme",
+  "fold_buttons": false,
+  "folder_exclude_patterns": [ ".git",  "node_modules"],
+  "font_face": "JetBrains Mono",
+  "font_size": 16,
+  "hot_exit": "disabled",
+  "save_on_focus_lost": true,
+  "tab_size": 2,
+  "theme": "auto",
+  "translate_tabs_to_spaces": true,
+  "ignored_packages":
+  [
 		"Vintage",
-	],
-	"save_on_focus_lost": true,
-	"tab_size": 2,
-	"theme": "auto",
-	"translate_tabs_to_spaces": true,
+  ],
 }
