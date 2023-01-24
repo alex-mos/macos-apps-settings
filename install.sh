@@ -8,7 +8,8 @@ ln -s ~/settings/karabiner ~/.config/karabiner
 # iterm
 
 # alt-tab
-
+# rm -rf ~/Library/Preferences/com.lwouis.alt-tab-macos.plist
+# ln -s ~/settings/com.lwouis.alt-tab-macos.plist ~/Library/Preferences/com.lwouis.alt-tab-macos.plist
 # sublime text
 
 # webstorm
