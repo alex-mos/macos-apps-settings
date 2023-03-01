@@ -907,33 +907,11 @@
                         ]
                     },
                     {
-                        "description": "screenshot button to F13",
+                        "description": "Change input source with f16 and f17.",
                         "manipulators": [
                             {
                                 "from": {
-                                    "key_code": "4",
-                                    "modifiers": {
-                                        "mandatory": [
-                                            "left_command",
-                                            "left_shift"
-                                        ]
-                                    }
-                                },
-                                "to": [
-                                    {
-                                        "key_code": "f13"
-                                    }
-                                ],
-                                "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "Change input source with left and right shifts.",
-                        "manipulators": [
-                            {
-                                "from": {
-                                    "key_code": "left_shift",
+                                    "key_code": "f16",
                                     "modifiers": {
                                         "optional": [
                                             "any"
@@ -941,11 +919,6 @@
                                     }
                                 },
                                 "to": [
-                                    {
-                                        "key_code": "left_shift"
-                                    }
-                                ],
-                                "to_if_alone": [
                                     {
                                         "select_input_source": {
                                             "input_source_id": "^me.mospan.keyboardlayout.clean-full-ansi.english-clean-full-ansi$"
@@ -956,7 +929,7 @@
                             },
                             {
                                 "from": {
-                                    "key_code": "right_shift",
+                                    "key_code": "f17",
                                     "modifiers": {
                                         "optional": [
                                             "any"
@@ -964,11 +937,6 @@
                                     }
                                 },
                                 "to": [
-                                    {
-                                        "key_code": "right_shift"
-                                    }
-                                ],
-                                "to_if_alone": [
                                     {
                                         "select_input_source": {
                                             "input_source_id": "^me.mospan.keyboardlayout.clean-full-ansi.russian-clean-full-ansi$"
@@ -1065,6 +1033,48 @@
                     "manipulate_caps_lock_led": false,
                     "simple_modifications": [],
                     "treat_as_built_in_keyboard": false
+                },
+                {
+                    "disable_built_in_keyboard_if_exists": false,
+                    "fn_function_keys": [],
+                    "identifiers": {
+                        "is_keyboard": false,
+                        "is_pointing_device": true,
+                        "product_id": 613,
+                        "vendor_id": 76
+                    },
+                    "ignore": true,
+                    "manipulate_caps_lock_led": false,
+                    "simple_modifications": [],
+                    "treat_as_built_in_keyboard": false
+                },
+                {
+                    "disable_built_in_keyboard_if_exists": false,
+                    "fn_function_keys": [],
+                    "identifiers": {
+                        "is_keyboard": true,
+                        "is_pointing_device": false,
+                        "product_id": 6505,
+                        "vendor_id": 12951
+                    },
+                    "ignore": false,
+                    "manipulate_caps_lock_led": false,
+                    "simple_modifications": [],
+                    "treat_as_built_in_keyboard": false
+                },
+                {
+                    "disable_built_in_keyboard_if_exists": false,
+                    "fn_function_keys": [],
+                    "identifiers": {
+                        "is_keyboard": false,
+                        "is_pointing_device": true,
+                        "product_id": 6505,
+                        "vendor_id": 12951
+                    },
+                    "ignore": true,
+                    "manipulate_caps_lock_led": false,
+                    "simple_modifications": [],
+                    "treat_as_built_in_keyboard": false
                 }
             ],
             "fn_function_keys": [
@@ -1154,7 +1164,7 @@
                     },
                     "to": [
                         {
-                            "consumer_key_code": "play_or_pause"
+                            "key_code": "f9"
                         }
                     ]
                 },
@@ -1164,7 +1174,7 @@
                     },
                     "to": [
                         {
-                            "consumer_key_code": "mute"
+                            "consumer_key_code": "play_or_pause"
                         }
                     ]
                 },
@@ -1197,21 +1207,21 @@
             "simple_modifications": [
                 {
                     "from": {
-                        "key_code": "insert"
+                        "key_code": "right_command"
                     },
                     "to": [
                         {
-                            "key_code": "f15"
+                            "key_code": "f16"
                         }
                     ]
                 },
                 {
                     "from": {
-                        "key_code": "keypad_num_lock"
+                        "key_code": "right_option"
                     },
                     "to": [
                         {
-                            "key_code": "f16"
+                            "key_code": "f17"
                         }
                     ]
                 }
