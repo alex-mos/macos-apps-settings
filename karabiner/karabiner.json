@@ -907,7 +907,7 @@
                         ]
                     },
                     {
-                        "description": "Change input source with f16 and f17.",
+                        "description": "Change input source with f16 and f17; f18 and f19 for dh.",
                         "manipulators": [
                             {
                                 "from": {
@@ -940,6 +940,42 @@
                                     {
                                         "select_input_source": {
                                             "input_source_id": "^me.mospan.keyboardlayout.clean-full-ansi.russian-clean-full-ansi$"
+                                        }
+                                    }
+                                ],
+                                "type": "basic"
+                            },
+                            {
+                                "from": {
+                                    "key_code": "f18",
+                                    "modifiers": {
+                                        "optional": [
+                                            "any"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "select_input_source": {
+                                            "input_source_id": "^me.mospan.keyboardlayout.clean-full-ansi.english-clean-dh-colemak$"
+                                        }
+                                    }
+                                ],
+                                "type": "basic"
+                            },
+                            {
+                                "from": {
+                                    "key_code": "f19",
+                                    "modifiers": {
+                                        "optional": [
+                                            "any"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "select_input_source": {
+                                            "input_source_id": "^me.mospan.keyboardlayout.clean-full-ansi.russian-clean-dh-qwerty$"
                                         }
                                     }
                                 ],
