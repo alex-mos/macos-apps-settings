@@ -1,5 +1,0 @@
-<snippet>
-	<content>console.log('${1}')
-console.log(${1})</content>
-	<tabTrigger>log</tabTrigger>
-</snippet>

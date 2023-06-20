@@ -9,5 +9,6 @@ LS_COLORS='di=1;33;41:'
 
 # aliases
 alias l='ls -la'
+alias diary='./scripts/diary.sh'
 # only if you work with crowdin. remove othervise.
 export PATH="/opt/homebrew/opt/crowdin@3/bin:$PATH"

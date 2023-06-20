@@ -1,0 +1,11 @@
+<snippet>
+	<scope>source.js</scope>
+	<tabTrigger>d</tabTrigger>
+	<content>
+describe("${1}", () => {
+  it("${2}", () => {
+    ${3}
+  })
+})
+	</content>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<scope>text.html</scope>
+	<tabTrigger>c</tabTrigger>
+	<content>class="${1}"</content>
+</snippet>

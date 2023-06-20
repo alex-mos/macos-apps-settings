@@ -1,0 +1,8 @@
+<snippet>
+	<scope>source.js</scope>
+	<tabTrigger>l</tabTrigger>
+	<content>
+console.log("${1}")
+console.log(${1})
+	</content>
+</snippet>
