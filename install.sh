@@ -2,6 +2,7 @@ brew install ffmpeg
 brew install p7zip
 brew install yt-dlp
 brew install zola
+brew install --cask iterm2
 brew install --cask alt-tab
 brew install --cask dropbox
 brew install --cask firefox
