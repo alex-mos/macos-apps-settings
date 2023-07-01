@@ -1,0 +1,2361 @@
+{
+	"file_history":
+	[
+		"/Users/aleksandr.mospan/settings/install.sh",
+		"/Users/aleksandr.mospan/settings/save.sh",
+		"/Users/aleksandr.mospan/settings/restore.sh",
+		"/Users/aleksandr.mospan/settings/iterm2/Library/Preferences/com.googlecode.iterm2.plist",
+		"/Users/aleksandr.mospan/Downloads/подключение_нового_апи_к_инсайтам.md",
+		"/Users/aleksandr.mospan/projects/exp/react/hello-world-vite-typescript/package.json",
+		"/Users/aleksandr.mospan/projects/exp/react/hello-world-vite-typescript/babel.config.js",
+		"/Users/aleksandr.mospan/projects/exp/react/hello-world-vite-typescript/src/__test__/app.spec.ts",
+		"/Users/aleksandr.mospan/projects/exp/react/hello-world-vite-typescript/jest.config.js",
+		"/Users/aleksandr.mospan/projects/exp/react/hello-world-vite-typescript/.npmcheckrc",
+		"/Users/aleksandr.mospan/projects/exp/react/hello-world-vite-typescript/src/App.tsx",
+		"/Users/aleksandr.mospan/projects/exp/react/vite-number-coversion/package.json",
+		"/Users/aleksandr.mospan/projects/exp/react/package.json",
+		"/Users/aleksandr.mospan/projects/exp/react/vite-number-coversion/src/App.tsx",
+		"/Users/aleksandr.mospan/projects/exp/react/vite-number-coversion/src/main.tsx",
+		"/Users/aleksandr.mospan/projects/exp/react/vite-number-coversion/index.html",
+		"/Users/aleksandr.mospan/projects/exp/react/vite-number-coversion/src/index.css",
+		"/Users/aleksandr.mospan/projects/exp/react/vite-number-coversion/src/App.css",
+		"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-browser/__test__/index.spec.ts",
+		"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-terminal/.npmcheckrc",
+		"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-browser/.npmcheckrc",
+		"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-browser/tsconfig.json",
+		"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-browser/src/index.ts",
+		"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-terminal/jest.config.js",
+		"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-terminal/__test__/index.spec.ts",
+		"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-terminal/src/index.ts",
+		"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-terminal/tsconfig.json",
+		"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-browser/package.json",
+		"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-browser/public/bundle.js",
+		"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-browser/.gitignore",
+		"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-terminal/package.json",
+		"/Users/aleksandr.mospan/projects/exp/typescript/.prettierrc.json",
+		"/Users/aleksandr.mospan/projects/exp/typescript/package.json",
+		"/Users/aleksandr.mospan/projects/exp/typescript/tsconfig.json",
+		"/Users/aleksandr.mospan/projects/exp/javascript/hello-world-browser/public/index.html",
+		"/Users/aleksandr.mospan/projects/exp/javascript/hello-world-browser/.npmcheckrc",
+		"/Users/aleksandr.mospan/projects/exp/javascript/hello-world-browser/jest.config.js",
+		"/Users/aleksandr.mospan/projects/exp/javascript/hello-world-browser/index.html",
+		"/Users/aleksandr.mospan/projects/exp/javascript/hello-world-browser/index.js",
+		"/Users/aleksandr.mospan/projects/exp/javascript/hello-world-browser/package.json",
+		"/Users/aleksandr.mospan/projects/exp/javascript/hello-world-browser/__test__/index.spec.js",
+		"/Users/aleksandr.mospan/projects/exp/javascript/hello-world-terminal/package.json",
+		"/Users/aleksandr.mospan/projects/exp/javascript/interview/__test__/test.spec.js",
+		"/Users/aleksandr.mospan/projects/exp/javascript/interview-avito/avito_max_axenov.js",
+		"/Users/aleksandr.mospan/projects/exp/javascript/promises/3.js",
+		"/Users/aleksandr.mospan/projects/exp/javascript/hello-world/readme.md",
+		"/Users/aleksandr.mospan/projects/exp/javascript/hello-world-terminal/index.js",
+		"/Users/aleksandr.mospan/projects/exp/javascript/hello-world-terminal/__test__/index.spec.js",
+		"/Users/aleksandr.mospan/projects/exp/javascript/hello-world-terminal/babel.comfig.js",
+		"/Users/aleksandr.mospan/projects/exp/javascript/hello-world-terminal/jest.config.js",
+		"/Users/aleksandr.mospan/projects/exp/typescript/.gitignore",
+		"/Users/aleksandr.mospan/projects/exp/typescript/.husky/pre-commit",
+		"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/public/bundle.js",
+		"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/tsconfig.json",
+		"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/package.json",
+		"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/jest.config.js",
+		"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/__test__/console.spec.ts",
+		"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/__test__/browser.spec.ts",
+		"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/src/console.ts",
+		"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/src/browser.ts",
+		"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/public/browser.html",
+		"/Users/aleksandr.mospan/Dropbox/logs/2023.06.19.md",
+		"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/src/browser.js",
+		"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/src/main.ts",
+		"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/src/browser.html",
+		"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/__test__/index.spec.ts",
+		"/Users/aleksandr.mospan/Downloads/curl 'https:::www.rc.semrush.net:reputation_manage",
+		"/Users/aleksandr.mospan/Dropbox/logs/2023.05.31.md",
+		"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/flexi-benefit-Q3-2023/_Flexi-траты за 3 квартал 2023.txt",
+		"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/flexi-benefit-Q2-2023/_Flexi-траты за 2 квартал 2023.txt",
+		"/Users/aleksandr.mospan/Dropbox/logs/2023.05.25.md",
+		"/Users/aleksandr.mospan/scripts/diary.sh",
+		"/Users/aleksandr.mospan/Downloads/подключение_gbp.md",
+		"/Users/aleksandr.mospan/projects/obsidian/.gitignore",
+		"/Users/aleksandr.mospan/Downloads/подключение_gbp.txt",
+		"/Users/aleksandr.mospan/Dropbox/logs/2023.05.19.md",
+		"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/logs/2013.07.md",
+		"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/logs/2013.06.26.md",
+		"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/logs/2023.01.11_twitter_dump.md",
+		"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/logs/2022.03.24.md",
+		"/Users/aleksandr.mospan/Dropbox/logs/2023.05.18.md",
+		"/Users/aleksandr.mospan/.zshrc",
+		"/Users/aleksandr.mospan/Dropbox/logs/2023.05.16.md",
+		"/Users/aleksandr.mospan/settings/sublime_text/Packages/User/snippets/specjs-it.sublime-snippet",
+		"/usr/local/diary.sh",
+		"/Users/aleksandr.mospan/Dropbox/logs/2023.05.16",
+		"/Users/aleksandr.mospan/Dropbox/logs/2023.12.16",
+		"/Users/aleksandr.mospan/Dropbox/logs/date +%Y.%M.%d",
+		"/Users/aleksandr.mospan/projects/exp/js/codewars/__tests__/6-is_int_array.spec.js",
+		"/Users/aleksandr.mospan/projects/exp/js/codewars/src/6-is_int_array.js",
+		"/Users/aleksandr.mospan/settings/sublime_text/Packages/User/snippets/js-l.sublime-snippet",
+		"/Users/aleksandr.mospan/settings/sublime_text/Packages/User/snippets/js-af.sublime-snippet",
+		"/Users/aleksandr.mospan/settings/sublime_text/Packages/User/snippets/js-f.sublime-snippet",
+		"/Users/aleksandr.mospan/settings/sublime_text/Packages/User/snippets/jsx-c.sublime-snippet",
+		"/Users/aleksandr.mospan/settings/sublime_text/Packages/User/snippets/js-r.sublime-snippet",
+		"/Users/aleksandr.mospan/settings/sublime_text/Packages/User/snippets/html-jsx-div.sublime-snippet",
+		"/Users/aleksandr.mospan/settings/sublime_text/Packages/User/snippets/html-jsx-img.sublime-snippet",
+		"/Users/aleksandr.mospan/settings/sublime_text/Packages/User/snippets/html-c.sublime-snippet",
+		"/Users/aleksandr.mospan/settings/sublime_text/Packages/User/snippets/specjs-d.sublime-snippet",
+		"/Users/aleksandr.mospan/settings/sublime_text/Packages/User/snippets/html-jsx-span.sublime-snippet",
+		"/Users/aleksandr.mospan/settings/sublime_text/Packages/User/snippets/html-div.sublime-snippet",
+		"/Users/aleksandr.mospan/settings/sublime_text/Packages/Default/Preferences.sublime-settings",
+		"/Users/aleksandr.mospan/settings/sublime_text/Packages/User/Preferences.sublime-settings",
+		"/Users/aleksandr.mospan/settings/sublime_text/Packages/User/snippets/js-f-r.sublime-snippet",
+		"/Users/aleksandr.mospan/settings/sublime_text/Packages/User/snippets/js-fun-clean.sublime-snippet",
+		"/Users/aleksandr.mospan/Downloads/демо.txt",
+		"/Users/aleksandr.mospan/settings/sublime_text/Packages/User/js-r.sublime-snippet",
+		"/Users/aleksandr.mospan/settings/sublime_text/Packages/User/specjs-d.sublime-snippet",
+		"/Users/aleksandr.mospan/settings/sublime_text/Packages/User/snippets/jsx-div.sublime-snippet",
+		"/Users/aleksandr.mospan/projects/exp/js/codewars/src/test.html",
+		"/Users/aleksandr.mospan/projects/exp/js/codewars/src/test.jsx",
+		"/Users/aleksandr.mospan/projects/exp/js/codewars/5-rgb_to_hex.spec.js",
+		"/Users/aleksandr.mospan/projects/exp/js/codewars/__tests__/5-valid_parentheses.spec.js",
+		"/Users/aleksandr.mospan/projects/exp/js/codewars/__tests__/5-rgb_to_hex.spec.js",
+		"/Users/aleksandr.mospan/projects/exp/js/codewars/src/8-price_of_mangoes.js",
+		"/Users/aleksandr.mospan/projects/exp/js/codewars/src/7-digit_sum.js",
+		"/Users/aleksandr.mospan/projects/exp/js/codewars/5-valid_parentheses.js",
+		"/Users/aleksandr.mospan/projects/exp/js/codewars/5-valid_parentheses.spec.js",
+		"/Users/aleksandr.mospan/projects/exp/js/codewars/6-format_text.js",
+		"/Users/aleksandr.mospan/projects/exp/js/codewars/coverage/lcov-report/index.html",
+		"/Users/aleksandr.mospan/projects/exp/js/codewars/jest.config.js",
+		"/Users/aleksandr.mospan/projects/exp/js/codewars/src/6-format_text.js",
+		"/Users/aleksandr.mospan/projects/exp/js/codewars/__tests__/6-format_text.spec.js",
+		"/Users/aleksandr.mospan/projects/exp/js/codewars/__tests__/8-price_of_mangoes.spec.js",
+		"/Users/aleksandr.mospan/settings/sublime_text/Packages/User/js-l.sublime-snippet",
+		"/Users/aleksandr.mospan/settings/sublime_text/Packages/User/specjs-it.sublime-snippet",
+		"/Users/aleksandr.mospan/settings/sublime_text/Packages/User/html-div.sublime-snippet",
+		"/Users/aleksandr.mospan/settings/sublime_text/Packages/User/jsx-div.sublime-snippet"
+	],
+	"folder_history":
+	[
+		"/Users/aleksandr.mospan/settings",
+		"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-browser",
+		"/Users/aleksandr.mospan/projects/exp/javascript/hello-world-browser",
+		"/Users/aleksandr.mospan/projects/exp/react/hello-world-vite-typescript",
+		"/Users/aleksandr.mospan/projects/exp/react/vite-number-coversion",
+		"/Users/aleksandr.mospan/projects/exp/react",
+		"/Users/aleksandr.mospan/projects/exp/typescript",
+		"/Users/aleksandr.mospan/projects/exp/javascript",
+		"/Users/aleksandr.mospan/projects/exp/react/shell-game",
+		"/Users/aleksandr.mospan/projects/exp/frontend-tools/esbuild-test",
+		"/Users/aleksandr.mospan/settings/sublime_text",
+		"/Users/aleksandr.mospan/projects/exp/js/codewars",
+		"/Users",
+		"/Users/aleksandr.mospan/projects/clean-ansi-layout",
+		"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/logs",
+		"/Users/aleksandr.mospan/projects/blog",
+		"/Users/aleksandr.mospan/work/semrush/tiger-team-publishers",
+		"/Users/aleksandr.mospan/projects/flathunter",
+		"/Users/aleksandr.mospan/Dropbox/logs",
+		"/Users/aleksandr.mospan/projects/blog-zola",
+		"/Users/aleksandr.mospan/projects/exp/react/first-cra",
+		"/Users/aleksandr.mospan/work/semrush/listings-management",
+		"/Users/aleksandr.mospan/projects/exp/shell-game",
+		"/Users/aleksandr.mospan/Downloads/документация по дубликатам в listings_management",
+		"/Users/aleksandr.mospan/projects/dcs-doc",
+		"/Users/aleksandr.mospan/Library/Application Support/com.lwouis.alt-tab-macos",
+		"/Users/aleksandr.mospan/.config/karabiner",
+		"/Users/aleksandr.mospan/projects/clean-ansi-layout/clean-full-ansi.bundle/Contents/Resources",
+		"/Users/aleksandr.mospan/projects/minimal-ansi-layout/clean-full-ansi",
+		"/Users/aleksandr.mospan/projects/sublime-scheme-writer",
+		"/Users/aleksandr.mospan",
+		"/Users/aleksandr.mospan/projects/Universal-Layout",
+		"/Users/aleksandr.mospan/projects/crawl",
+		"/Users/aleksandr.mospan/projects/umoria",
+		"/Users/aleksandr.mospan/Library/Application Support/Sublime Text",
+		"/Users/aleksandr.mospan/projects/optozorax.github.io",
+		"/Users/aleksandr.mospan/work/semrush/heatmap-image-maker"
+	],
+	"last_version": 4143,
+	"last_window_id": 441,
+	"log_indexing": false,
+	"next_update_check": 1688212310,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 916.0,
+		"new_window_maximized": false,
+		"new_window_position":
+		[
+			0.0,
+			-1387.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"is",
+						"isIntArray"
+					],
+					[
+						"f",
+						"ife\tif … else"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"syntx mar",
+						"Set Syntax: Markdown"
+					],
+					[
+						"rena",
+						"Rename File"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"lsp enable",
+						"LSP: Enable Language Server Globally"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"mar",
+						"Set Syntax: Markdown"
+					],
+					[
+						"jacv",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"pro",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"pr",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"p",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"toggle",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"prof",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"to",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"profile",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"plain",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"prefe",
+						"Preferences: Settings"
+					],
+					[
+						"profi",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"pre",
+						"Preferences: Settings"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"profiles",
+						"Profiles: Create"
+					],
+					[
+						"the",
+						"UI: Select Theme"
+					],
+					[
+						"ui",
+						"UI: Select Theme"
+					],
+					[
+						"package",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"pac",
+						"Preferences: Browse Packages"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"prefere",
+						"Preferences: Settings"
+					],
+					[
+						"sync se",
+						"Sync Settings: Upload"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/aleksandr.mospan/settings/install.sh",
+				"/Users/aleksandr.mospan/settings/save.sh",
+				"/Users/aleksandr.mospan/settings/restore.sh",
+				"/Users/aleksandr.mospan/Downloads/подключение_нового_апи_к_инсайтам.md",
+				"/Users/aleksandr.mospan/projects/exp/react/hello-world-vite-typescript/package.json",
+				"/Users/aleksandr.mospan/projects/exp/react/hello-world-vite-typescript/babel.config.js",
+				"/Users/aleksandr.mospan/projects/exp/react/hello-world-vite-typescript/src/__test__/app.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/react/hello-world-vite-typescript/jest.config.js",
+				"/Users/aleksandr.mospan/projects/exp/react/hello-world-vite-typescript/.npmcheckrc",
+				"/Users/aleksandr.mospan/projects/exp/react/hello-world-vite-typescript/src/App.tsx",
+				"/Users/aleksandr.mospan/projects/exp/react/vite-number-coversion/package.json",
+				"/Users/aleksandr.mospan/projects/exp/react/package.json",
+				"/Users/aleksandr.mospan/projects/exp/react/vite-number-coversion/src/App.tsx",
+				"/Users/aleksandr.mospan/projects/exp/react/vite-number-coversion/src/main.tsx",
+				"/Users/aleksandr.mospan/projects/exp/react/vite-number-coversion/index.html",
+				"/Users/aleksandr.mospan/projects/exp/react/vite-number-coversion/src/index.css",
+				"/Users/aleksandr.mospan/projects/exp/react/vite-number-coversion/src/App.css",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-browser/__test__/index.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-terminal/.npmcheckrc",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-browser/.npmcheckrc",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-browser/tsconfig.json",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-browser/src/index.ts",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-terminal/jest.config.js",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-terminal/__test__/index.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-terminal/src/index.ts",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-terminal/tsconfig.json",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-browser/package.json",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-browser/public/bundle.js",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-browser/.gitignore",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-terminal/package.json",
+				"/Users/aleksandr.mospan/projects/exp/typescript/.prettierrc.json",
+				"/Users/aleksandr.mospan/projects/exp/typescript/package.json",
+				"/Users/aleksandr.mospan/projects/exp/typescript/tsconfig.json",
+				"/Users/aleksandr.mospan/projects/exp/javascript/hello-world-browser/public/index.html",
+				"/Users/aleksandr.mospan/projects/exp/javascript/hello-world-browser/.npmcheckrc",
+				"/Users/aleksandr.mospan/projects/exp/javascript/hello-world-browser/jest.config.js",
+				"/Users/aleksandr.mospan/projects/exp/javascript/hello-world-browser/index.html",
+				"/Users/aleksandr.mospan/projects/exp/javascript/hello-world-browser/index.js",
+				"/Users/aleksandr.mospan/projects/exp/javascript/hello-world-browser/package.json",
+				"/Users/aleksandr.mospan/projects/exp/javascript/hello-world-browser/__test__/index.spec.js",
+				"/Users/aleksandr.mospan/projects/exp/javascript/hello-world-terminal/package.json",
+				"/Users/aleksandr.mospan/projects/exp/javascript/interview/__test__/test.spec.js",
+				"/Users/aleksandr.mospan/projects/exp/javascript/interview-avito/avito_max_axenov.js",
+				"/Users/aleksandr.mospan/projects/exp/javascript/promises/3.js",
+				"/Users/aleksandr.mospan/projects/exp/javascript/hello-world/readme.md",
+				"/Users/aleksandr.mospan/projects/exp/javascript/hello-world-terminal/index.js",
+				"/Users/aleksandr.mospan/projects/exp/javascript/hello-world-terminal/__test__/index.spec.js",
+				"/Users/aleksandr.mospan/projects/exp/javascript/hello-world-terminal/babel.comfig.js",
+				"/Users/aleksandr.mospan/projects/exp/javascript/hello-world-terminal/jest.config.js",
+				"/Users/aleksandr.mospan/projects/exp/typescript/.gitignore",
+				"/Users/aleksandr.mospan/projects/exp/typescript/.husky/pre-commit",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/public/bundle.js",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/tsconfig.json",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/package.json",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/jest.config.js",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/__test__/console.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/__test__/browser.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/src/console.ts",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/src/browser.ts",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/public/browser.html",
+				"/Users/aleksandr.mospan/Dropbox/logs/2023.06.19.md",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/src/browser.js",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/src/main.ts",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/src/browser.html",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/__test__/index.spec.ts",
+				"/Users/aleksandr.mospan/Downloads/curl 'https:::www.rc.semrush.net:reputation_manage",
+				"/Users/aleksandr.mospan/Dropbox/logs/2023.05.31.md",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/flexi-benefit-Q3-2023/_Flexi-траты за 3 квартал 2023.txt",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/flexi-benefit-Q2-2023/_Flexi-траты за 2 квартал 2023.txt",
+				"/Users/aleksandr.mospan/Dropbox/logs/2023.05.25.md",
+				"/Users/aleksandr.mospan/scripts/diary.sh",
+				"/Users/aleksandr.mospan/Downloads/подключение_gbp.md",
+				"/Users/aleksandr.mospan/projects/obsidian/.gitignore",
+				"/Users/aleksandr.mospan/Downloads/подключение_gbp.txt",
+				"/Users/aleksandr.mospan/Dropbox/logs/2023.05.19.md",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/logs/2013.07.md",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/logs/2013.06.26.md",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/logs/2023.01.11_twitter_dump.md",
+				"/Users/aleksandr.mospan/Dropbox/logs/2023.05.18.md",
+				"/Users/aleksandr.mospan/.zshrc",
+				"/Users/aleksandr.mospan/Dropbox/logs/2023.05.16.md",
+				"/Users/aleksandr.mospan/settings/sublime_text/Packages/User/snippets/specjs-it.sublime-snippet",
+				"/usr/local/diary.sh",
+				"/Users/aleksandr.mospan/Dropbox/logs/2023.05.16",
+				"/Users/aleksandr.mospan/Dropbox/logs/2023.12.16",
+				"/Users/aleksandr.mospan/Dropbox/logs/date +%Y.%M.%d",
+				"/Users/aleksandr.mospan/projects/exp/js/codewars/__tests__/6-is_int_array.spec.js",
+				"/Users/aleksandr.mospan/projects/exp/js/codewars/src/6-is_int_array.js",
+				"/Users/aleksandr.mospan/Downloads/демо.txt",
+				"/Users/aleksandr.mospan/Downloads/конспект как работают карточные платежи.md",
+				"/Users/aleksandr.mospan/Downloads/создание_и_заливка_докер-образов_в_google_cloud.txt",
+				"/Users/aleksandr.mospan/Downloads/план_дня.txt",
+				"/Users/aleksandr.mospan/Downloads/автоматизация_переводов_в_ci.txt",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/semrush_tasks_info/landing_visitors_mail_sending.txt",
+				"/Users/aleksandr.mospan/Downloads/ошибки при редактировании локации.txt",
+				"/Users/aleksandr.mospan/Downloads/bq-results-20230324-184501-1679685844973.json",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/logs/2022.03.24",
+				"/Users/aleksandr.mospan/Downloads/landing_visitors_mail_sending.txt",
+				"/Users/aleksandr.mospan/Downloads/feedback.txt",
+				"/Users/aleksandr.mospan/Downloads/blog_aca+lm.txt",
+				"/Users/aleksandr.mospan/Downloads/landing_visiters_without_scan_first_10k.json",
+				"/Users/aleksandr.mospan/Downloads/bquxjob_60b68f8c_186dfd0be5c.json",
+				"/Users/aleksandr.mospan/Downloads/public_domains.json",
+				"/Users/aleksandr.mospan/Downloads/landing_visiters_without_scan_first_20k.json",
+				"/Users/aleksandr.mospan/settings/karabiner/karabiner.json",
+				"/Users/aleksandr.mospan/Downloads/feedback_task.txt",
+				"/Users/aleksandr.mospan/Downloads/конспект видео про эволюцию.тхт",
+				"/Users/aleksandr.mospan/Library/Application Support/Sublime Merge/Packages/User/Preferences.sublime-settings",
+				"/Users/aleksandr.mospan/Downloads/moonlander_mospan-moonlander-layout_KRGOX_mpq7P/moonlander_mospan-moonlander-layout_source/keymap.c",
+				"/Users/aleksandr.mospan/work/semrush/blog articles status.txt",
+				"/Users/aleksandr.mospan/Downloads/moonlander_mospan-moonlander-layout_KRGOX_6PaOB.bin",
+				"/Users/aleksandr.mospan/Library/Application Support/Sublime Merge/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/aleksandr.mospan/projects/blog/content/blog/homebrew.md",
+				"/Users/aleksandr.mospan/Downloads/Brewfile",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/flexi-benefit-Q1-2023/Flexi-траты за 1 квартал 2023.txt",
+				"/Users/aleksandr.mospan/Downloads/images_gbp.txt",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/logs/dreams/2013.07.24",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/logs/dreams/2013.09.18",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/logs/dreams/2020.03.07",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/logs/dreams/2020.02.16",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/logs/dreams/2020.02.14",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/logs/dreams/2020.11.08",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/logs/dreams/2017.02.14",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/logs/dreams/2016.12.10",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/logs/dreams/2016.12",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/logs/dreams/2013",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/logs/dreams/2013.09.07",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/logs/2013.12.20"
+			],
+			"find":
+			{
+				"height": 31.0
+			},
+			"find_in_files":
+			{
+				"height": 113.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"https"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 43.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"~/settings/save.sh"
+					],
+					[
+						"src/",
+						"src/6-is_int_array.js"
+					],
+					[
+						"src",
+						"src/app.tsx"
+					],
+					[
+						".ts",
+						"src/Button.tsx"
+					],
+					[
+						"inde",
+						"src/index.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 334.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1280.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"is",
+						"isIntArray"
+					],
+					[
+						"f",
+						"ife\tif … else"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/aleksandr.mospan/settings/restore.sh",
+					"settings":
+					{
+						"buffer_size": 260,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							6,
+							2,
+							"right_delete",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAABbAAAAY3AgLVIgLi9hbHQtdGFiL0xpYnJhcnkvTGF1bmNoQWdlbnRzL2NvbS5sd291aXMuYWx0LXRhYi1tYWNvcy5wbGlzdCB+L0xpYnJhcnkvTGF1bmNoQWdlbnRzLwAAAAAAAAAAAAAAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAAWwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							8,
+							1,
+							"right_delete",
+							null,
+							"AQAAAFoAAAAAAAAAWgAAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAAWgAAAAAAAABaAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							11,
+							1,
+							"insert",
+							{
+								"characters": "\n\n\n\n"
+							},
+							"BAAAALAAAAAAAAAAsQAAAAAAAAAAAAAAsQAAAAAAAACyAAAAAAAAAAAAAACyAAAAAAAAALMAAAAAAAAAAAAAALMAAAAAAAAAtAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAsAAAAAAAAACwAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							12,
+							1,
+							"paste_and_indent",
+							null,
+							"AQAAALQAAAAAAAAAzgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAtAAAAAAAAAC0AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							14,
+							1,
+							"toggle_comment",
+							{
+								"block": false
+							},
+							"AQAAALMAAAAAAAAAtQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAswAAAAAAAACzAAAAAAAAAAAAAAAAQHBA"
+						],
+						[
+							15,
+							1,
+							"insert",
+							{
+								"characters": "show"
+							},
+							"BAAAALUAAAAAAAAAtgAAAAAAAAAAAAAAtgAAAAAAAAC3AAAAAAAAAAAAAAC3AAAAAAAAALgAAAAAAAAAAAAAALgAAAAAAAAAuQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAtQAAAAAAAAC1AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							16,
+							1,
+							"insert",
+							{
+								"characters": " df"
+							},
+							"AwAAALkAAAAAAAAAugAAAAAAAAAAAAAAugAAAAAAAAC7AAAAAAAAAAAAAAC7AAAAAAAAALwAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAuQAAAAAAAAC5AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							17,
+							2,
+							"left_delete",
+							null,
+							"AgAAALsAAAAAAAAAuwAAAAAAAAABAAAAZroAAAAAAAAAugAAAAAAAAABAAAAZA",
+							"AQAAAAAAAAABAAAAvAAAAAAAAAC8AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							18,
+							1,
+							"insert",
+							{
+								"characters": "the"
+							},
+							"AwAAALoAAAAAAAAAuwAAAAAAAAAAAAAAuwAAAAAAAAC8AAAAAAAAAAAAAAC8AAAAAAAAAL0AAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAugAAAAAAAAC6AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							19,
+							1,
+							"insert",
+							{
+								"characters": " l"
+							},
+							"AgAAAL0AAAAAAAAAvgAAAAAAAAAAAAAAvgAAAAAAAAC/AAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAvQAAAAAAAAC9AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							20,
+							1,
+							"left_delete",
+							null,
+							"AQAAAL4AAAAAAAAAvgAAAAAAAAABAAAAbA",
+							"AQAAAAAAAAABAAAAvwAAAAAAAAC/AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							21,
+							1,
+							"insert",
+							{
+								"characters": "Libra"
+							},
+							"BQAAAL4AAAAAAAAAvwAAAAAAAAAAAAAAvwAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAAMEAAAAAAAAAAAAAAMEAAAAAAAAAwgAAAAAAAAAAAAAAwgAAAAAAAADDAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAvgAAAAAAAAC+AAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							22,
+							1,
+							"insert",
+							{
+								"characters": "ry"
+							},
+							"AgAAAMMAAAAAAAAAxAAAAAAAAAAAAAAAxAAAAAAAAADFAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAwwAAAAAAAADDAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							23,
+							1,
+							"insert",
+							{
+								"characters": " dire"
+							},
+							"BQAAAMUAAAAAAAAAxgAAAAAAAAAAAAAAxgAAAAAAAADHAAAAAAAAAAAAAADHAAAAAAAAAMgAAAAAAAAAAAAAAMgAAAAAAAAAyQAAAAAAAAAAAAAAyQAAAAAAAADKAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAxQAAAAAAAADFAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							24,
+							1,
+							"insert",
+							{
+								"characters": "ctory"
+							},
+							"BQAAAMoAAAAAAAAAywAAAAAAAAAAAAAAywAAAAAAAADMAAAAAAAAAAAAAADMAAAAAAAAAM0AAAAAAAAAAAAAAM0AAAAAAAAAzgAAAAAAAAAAAAAAzgAAAAAAAADPAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAygAAAAAAAADKAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							25,
+							1,
+							"insert",
+							{
+								"characters": " in"
+							},
+							"AwAAAM8AAAAAAAAA0AAAAAAAAAAAAAAA0AAAAAAAAADRAAAAAAAAAAAAAADRAAAAAAAAANIAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAzwAAAAAAAADPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							26,
+							3,
+							"left_delete",
+							null,
+							"AwAAANEAAAAAAAAA0QAAAAAAAAABAAAAbtAAAAAAAAAA0AAAAAAAAAABAAAAac8AAAAAAAAAzwAAAAAAAAABAAAAIA",
+							"AQAAAAAAAAABAAAA0gAAAAAAAADSAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							27,
+							1,
+							"insert",
+							{
+								"characters": " in"
+							},
+							"AwAAAM8AAAAAAAAA0AAAAAAAAAAAAAAA0AAAAAAAAADRAAAAAAAAAAAAAADRAAAAAAAAANIAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAzwAAAAAAAADPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							28,
+							3,
+							"left_delete",
+							null,
+							"AwAAANEAAAAAAAAA0QAAAAAAAAABAAAAbtAAAAAAAAAA0AAAAAAAAAABAAAAac8AAAAAAAAAzwAAAAAAAAABAAAAIA",
+							"AQAAAAAAAAABAAAA0gAAAAAAAADSAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							29,
+							1,
+							"insert",
+							{
+								"characters": " ins"
+							},
+							"BAAAAM8AAAAAAAAA0AAAAAAAAAAAAAAA0AAAAAAAAADRAAAAAAAAAAAAAADRAAAAAAAAANIAAAAAAAAAAAAAANIAAAAAAAAA0wAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAzwAAAAAAAADPAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							30,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAANMAAAAAAAAA1AAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA0wAAAAAAAADTAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							31,
+							2,
+							"left_delete",
+							null,
+							"AgAAANMAAAAAAAAA0wAAAAAAAAABAAAAINIAAAAAAAAA0gAAAAAAAAABAAAAcw",
+							"AQAAAAAAAAABAAAA1AAAAAAAAADUAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							32,
+							1,
+							"insert",
+							{
+								"characters": " the"
+							},
+							"BAAAANIAAAAAAAAA0wAAAAAAAAAAAAAA0wAAAAAAAADUAAAAAAAAAAAAAADUAAAAAAAAANUAAAAAAAAAAAAAANUAAAAAAAAA1gAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA0gAAAAAAAADSAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							33,
+							1,
+							"insert",
+							{
+								"characters": " home"
+							},
+							"BQAAANYAAAAAAAAA1wAAAAAAAAAAAAAA1wAAAAAAAADYAAAAAAAAAAAAAADYAAAAAAAAANkAAAAAAAAAAAAAANkAAAAAAAAA2gAAAAAAAAAAAAAA2gAAAAAAAADbAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA1gAAAAAAAADWAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							34,
+							1,
+							"insert",
+							{
+								"characters": " dire"
+							},
+							"BQAAANsAAAAAAAAA3AAAAAAAAAAAAAAA3AAAAAAAAADdAAAAAAAAAAAAAADdAAAAAAAAAN4AAAAAAAAAAAAAAN4AAAAAAAAA3wAAAAAAAAAAAAAA3wAAAAAAAADgAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA2wAAAAAAAADbAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							35,
+							1,
+							"insert",
+							{
+								"characters": "cto"
+							},
+							"AwAAAOAAAAAAAAAA4QAAAAAAAAAAAAAA4QAAAAAAAADiAAAAAAAAAAAAAADiAAAAAAAAAOMAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA4AAAAAAAAADgAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							36,
+							1,
+							"insert",
+							{
+								"characters": "ry"
+							},
+							"AgAAAOMAAAAAAAAA5AAAAAAAAAAAAAAA5AAAAAAAAADlAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA4wAAAAAAAADjAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							39,
+							1,
+							"insert",
+							{
+								"characters": "\n\n\n\n"
+							},
+							"BAAAAAABAAAAAAAAAQEAAAAAAAAAAAAAAQEAAAAAAAACAQAAAAAAAAAAAAACAQAAAAAAAAMBAAAAAAAAAAAAAAMBAAAAAAAABAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							40,
+							1,
+							"toggle_comment",
+							{
+								"block": false
+							},
+							"AQAAAAQBAAAAAAAABgEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAABAEAAAAAAAAEAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							41,
+							2,
+							"left_delete",
+							null,
+							"AgAAAAUBAAAAAAAABQEAAAAAAAABAAAAIAQBAAAAAAAABAEAAAAAAAABAAAAIw",
+							"AQAAAAAAAAABAAAABgEAAAAAAAAGAQAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/Users/aleksandr.mospan/settings/readme.md",
+					"settings":
+					{
+						"buffer_size": 202,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							5,
+							1,
+							"right_delete",
+							null,
+							"AQAAABkAAAAAAAAAGQAAAAAAAABtAQAAYnJldyBpbnN0YWxsIC0tY2FzayBhbHQtdGFiCmJyZXcgaW5zdGFsbCAtLWNhc2sgZGFzaApicmV3IGluc3RhbGwgLS1jYXNrIG1pY2hhZWx2aWxsYXItdGltZXIKYnJldyBpbnN0YWxsIC0tY2FzayBudW1pCmJyZXcgaW5zdGFsbCAtLWNhc2sgb2JzaWRpYW4KYnJldyBpbnN0YWxsIC0tY2FzayBzdWJsaW1lLW1lcmdlCmJyZXcgaW5zdGFsbCAtLWNhc2sgc3VibGltZS10ZXh0CmJyZXcgaW5zdGFsbCAtLWNhc2sgdGVsZWdyYW0KYnJldyBpbnN0YWxsIC0tY2FzayB1bm5hdHVyYWxzY3JvbGx3aGVlbHMKYnJldyBpbnN0YWxsIC0tY2FzayB2bGMKYnJldyBpbnN0YWxsIC0tY2FzayBmcmVlZG9tCmJyZXcgaW5zdGFsbCAtLWNhc2sgd2Vic3Rvcm0",
+							"AQAAAAAAAAABAAAAhgEAAAAAAAAZAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							10,
+							2,
+							"right_delete",
+							null,
+							"AgAAAAoBAAAAAAAACgEAAAAAAAAjAAAAIyMjIGlUZXJtMgoKIVtdKGl0ZXJtLXNldHRpbmdzLnBuZykKAQAAAAAAAAoBAAAAAAAAAQAAAAo",
+							"AQAAAAAAAAABAAAALQEAAAAAAAAKAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							29,
+							2,
+							"right_delete",
+							null,
+							"AgAAAMwAAAAAAAAAzAAAAAAAAAA5AAAAIyMjIHpzaApgYGAKcm0gfi8uenNocmMKbG4gLXMgfi9zZXR0aW5ncy8uenNocmMgfi8uenNocmMKzAAAAAAAAADMAAAAAAAAAAEAAABg",
+							"AQAAAAAAAAABAAAABQEAAAAAAADMAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							31,
+							1,
+							"right_delete",
+							null,
+							"AQAAAMwAAAAAAAAAzAAAAAAAAAAEAAAAYGAKCg",
+							"AQAAAAAAAAABAAAAzAAAAAAAAADQAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							33,
+							1,
+							"right_delete",
+							null,
+							"AQAAAMwAAAAAAAAAzAAAAAAAAABiAAAACiMjIyBLYXJhYmluZXIgRWxlbWVudHMKCnJtIC1yZiB+Ly5jb25maWcva2FyYWJpbmVyCmxuIC1zIH4vc2V0dGluZ3Mva2FyYWJpbmVyIH4vLmNvbmZpZy9rYXJhYmluZXI",
+							"AQAAAAAAAAABAAAAzAAAAAAAAAAuAQAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							34,
+							2,
+							"left_delete",
+							null,
+							"AgAAAMsAAAAAAAAAywAAAAAAAAABAAAACsoAAAAAAAAAygAAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAAzAAAAAAAAADMAAAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/Users/aleksandr.mospan/settings/save.sh",
+					"settings":
+					{
+						"buffer_size": 654,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							5,
+							1,
+							"insert",
+							{
+								"characters": "\n\n\n\n"
+							},
+							"BAAAAKABAAAAAAAAoQEAAAAAAAAAAAAAoQEAAAAAAACiAQAAAAAAAAAAAACiAQAAAAAAAKMBAAAAAAAAAAAAAKMBAAAAAAAApAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAoAEAAAAAAACgAQAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							6,
+							1,
+							"insert",
+							{
+								"characters": "cp"
+							},
+							"AgAAAKQBAAAAAAAApQEAAAAAAAAAAAAApQEAAAAAAACmAQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAApAEAAAAAAACkAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							7,
+							1,
+							"insert",
+							{
+								"characters": " _"
+							},
+							"AgAAAKYBAAAAAAAApwEAAAAAAAAAAAAApwEAAAAAAACoAQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAApgEAAAAAAACmAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							8,
+							1,
+							"left_delete",
+							null,
+							"AQAAAKcBAAAAAAAApwEAAAAAAAABAAAAXw",
+							"AQAAAAAAAAABAAAAqAEAAAAAAACoAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							9,
+							1,
+							"insert",
+							{
+								"characters": "@#%~"
+							},
+							"BAAAAKcBAAAAAAAAqAEAAAAAAAAAAAAAqAEAAAAAAACpAQAAAAAAAAAAAACpAQAAAAAAAKoBAAAAAAAAAAAAAKoBAAAAAAAAqwEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAApwEAAAAAAACnAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							10,
+							4,
+							"left_delete",
+							null,
+							"BAAAAKoBAAAAAAAAqgEAAAAAAAABAAAAfqkBAAAAAAAAqQEAAAAAAAABAAAAJagBAAAAAAAAqAEAAAAAAAABAAAAI6cBAAAAAAAApwEAAAAAAAABAAAAQA",
+							"AQAAAAAAAAABAAAAqwEAAAAAAACrAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							11,
+							1,
+							"insert",
+							{
+								"characters": "~/.x"
+							},
+							"BAAAAKcBAAAAAAAAqAEAAAAAAAAAAAAAqAEAAAAAAACpAQAAAAAAAAAAAACpAQAAAAAAAKoBAAAAAAAAAAAAAKoBAAAAAAAAqwEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAApwEAAAAAAACnAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							12,
+							1,
+							"left_delete",
+							null,
+							"AQAAAKoBAAAAAAAAqgEAAAAAAAABAAAAeA",
+							"AQAAAAAAAAABAAAAqwEAAAAAAACrAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							13,
+							1,
+							"insert",
+							{
+								"characters": "zshrc"
+							},
+							"BQAAAKoBAAAAAAAAqwEAAAAAAAAAAAAAqwEAAAAAAACsAQAAAAAAAAAAAACsAQAAAAAAAK0BAAAAAAAAAAAAAK0BAAAAAAAArgEAAAAAAAAAAAAArgEAAAAAAACvAQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAqgEAAAAAAACqAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							14,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAK8BAAAAAAAAsAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAArwEAAAAAAACvAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							15,
+							1,
+							"insert",
+							{
+								"characters": "."
+							},
+							"AQAAALABAAAAAAAAsQEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAsAEAAAAAAACwAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							17,
+							2,
+							"right_delete",
+							null,
+							"AgAAAKEBAAAAAAAAoQEAAAAAAAABAAAACqEBAAAAAAAAoQEAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAAoQEAAAAAAAChAQAAAAAAAAAAAAAAQGBA"
+						],
+						[
+							19,
+							1,
+							"right_delete",
+							null,
+							"AQAAAKABAAAAAAAAoAEAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAAoAEAAAAAAACgAQAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							23,
+							1,
+							"insert",
+							{
+								"characters": "\n\n"
+							},
+							"AgAAAKABAAAAAAAAoQEAAAAAAAAAAAAAoQEAAAAAAACiAQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAoAEAAAAAAACgAQAAAAAAAAAAAAAAQGBA"
+						],
+						[
+							26,
+							2,
+							"right_delete",
+							null,
+							"AgAAAKEBAAAAAAAAoQEAAAAAAAABAAAACqEBAAAAAAAAoQEAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAAoQEAAAAAAAChAQAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							28,
+							1,
+							"insert",
+							{
+								"characters": "\n\n"
+							},
+							"AgAAAK4BAAAAAAAArwEAAAAAAAAAAAAArwEAAAAAAACwAQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAArgEAAAAAAACuAQAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							29,
+							1,
+							"paste_and_indent",
+							null,
+							"AQAAALABAAAAAAAAygEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAsAEAAAAAAACwAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							34,
+							1,
+							"left_delete",
+							null,
+							"AQAAALABAAAAAAAAsAEAAAAAAAAGAAAAcm0gLXJm",
+							"AQAAAAAAAAABAAAAtgEAAAAAAACwAQAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							35,
+							1,
+							"insert",
+							{
+								"characters": "cp"
+							},
+							"AgAAALABAAAAAAAAsQEAAAAAAAAAAAAAsQEAAAAAAACyAQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAsAEAAAAAAACwAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							36,
+							1,
+							"insert",
+							{
+								"characters": " -"
+							},
+							"AgAAALIBAAAAAAAAswEAAAAAAAAAAAAAswEAAAAAAAC0AQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAsgEAAAAAAACyAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							37,
+							1,
+							"left_delete",
+							null,
+							"AQAAALMBAAAAAAAAswEAAAAAAAABAAAALQ",
+							"AQAAAAAAAAABAAAAtAEAAAAAAAC0AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							38,
+							1,
+							"insert",
+							{
+								"characters": "—"
+							},
+							"AQAAALMBAAAAAAAAtAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAswEAAAAAAACzAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							39,
+							1,
+							"left_delete",
+							null,
+							"AQAAALMBAAAAAAAAswEAAAAAAAADAAAA4oCU",
+							"AQAAAAAAAAABAAAAtAEAAAAAAAC0AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							40,
+							1,
+							"insert",
+							{
+								"characters": "-r"
+							},
+							"AgAAALMBAAAAAAAAtAEAAAAAAAAAAAAAtAEAAAAAAAC1AQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAswEAAAAAAACzAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							41,
+							1,
+							"left_delete",
+							null,
+							"AQAAALQBAAAAAAAAtAEAAAAAAAABAAAAcg",
+							"AQAAAAAAAAABAAAAtQEAAAAAAAC1AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							42,
+							1,
+							"insert",
+							{
+								"characters": "R"
+							},
+							"AQAAALQBAAAAAAAAtQEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAtAEAAAAAAAC0AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							44,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAMkBAAAAAAAAygEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAyQEAAAAAAADJAQAAAAAAAP///////+9/"
+						],
+						[
+							45,
+							1,
+							"insert",
+							{
+								"characters": "./ka"
+							},
+							"BAAAAMoBAAAAAAAAywEAAAAAAAAAAAAAywEAAAAAAADMAQAAAAAAAAAAAADMAQAAAAAAAM0BAAAAAAAAAAAAAM0BAAAAAAAAzgEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAygEAAAAAAADKAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							46,
+							1,
+							"insert",
+							{
+								"characters": "rabi"
+							},
+							"BAAAAM4BAAAAAAAAzwEAAAAAAAAAAAAAzwEAAAAAAADQAQAAAAAAAAAAAADQAQAAAAAAANEBAAAAAAAAAAAAANEBAAAAAAAA0gEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAzgEAAAAAAADOAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							47,
+							1,
+							"insert",
+							{
+								"characters": "ner"
+							},
+							"AwAAANIBAAAAAAAA0wEAAAAAAAAAAAAA0wEAAAAAAADUAQAAAAAAAAAAAADUAQAAAAAAANUBAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA0gEAAAAAAADSAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							48,
+							1,
+							"insert",
+							{
+								"characters": "/"
+							},
+							"AQAAANUBAAAAAAAA1gEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA1QEAAAAAAADVAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							49,
+							1,
+							"insert",
+							{
+								"characters": "con"
+							},
+							"AwAAANYBAAAAAAAA1wEAAAAAAAAAAAAA1wEAAAAAAADYAQAAAAAAAAAAAADYAQAAAAAAANkBAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA1gEAAAAAAADWAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							50,
+							1,
+							"insert",
+							{
+								"characters": "fig"
+							},
+							"AwAAANkBAAAAAAAA2gEAAAAAAAAAAAAA2gEAAAAAAADbAQAAAAAAAAAAAADbAQAAAAAAANwBAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA2QEAAAAAAADZAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							51,
+							1,
+							"insert",
+							{
+								"characters": "/"
+							},
+							"AQAAANwBAAAAAAAA3QEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA3AEAAAAAAADcAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							58,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAN0BAAAAAAAA3gEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA3QEAAAAAAADdAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							60,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAK8BAAAAAAAAsAEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAArwEAAAAAAACvAQAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							61,
+							1,
+							"paste_and_indent",
+							null,
+							"AQAAALABAAAAAAAAxgEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAsAEAAAAAAACwAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							63,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAKABAAAAAAAAoQEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAoAEAAAAAAACgAQAAAAAAAAAAAAAAgGtA"
+						],
+						[
+							64,
+							1,
+							"paste_and_indent",
+							null,
+							"AQAAAKEBAAAAAAAAtwEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAoQEAAAAAAAChAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							65,
+							15,
+							"left_delete",
+							null,
+							"DwAAALYBAAAAAAAAtgEAAAAAAAABAAAAc7UBAAAAAAAAtQEAAAAAAAABAAAAdLQBAAAAAAAAtAEAAAAAAAABAAAAbrMBAAAAAAAAswEAAAAAAAABAAAAZbIBAAAAAAAAsgEAAAAAAAABAAAAbbEBAAAAAAAAsQEAAAAAAAABAAAAZbABAAAAAAAAsAEAAAAAAAABAAAAbK8BAAAAAAAArwEAAAAAAAABAAAARa4BAAAAAAAArgEAAAAAAAABAAAAIK0BAAAAAAAArQEAAAAAAAABAAAAcqwBAAAAAAAArAEAAAAAAAABAAAAZasBAAAAAAAAqwEAAAAAAAABAAAAbqoBAAAAAAAAqgEAAAAAAAABAAAAaakBAAAAAAAAqQEAAAAAAAABAAAAYqgBAAAAAAAAqAEAAAAAAAABAAAAYQ",
+							"AQAAAAAAAAABAAAAtwEAAAAAAAC3AQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							66,
+							3,
+							"left_delete",
+							null,
+							"AwAAAKcBAAAAAAAApwEAAAAAAAABAAAAcqYBAAAAAAAApgEAAAAAAAABAAAAYaUBAAAAAAAApQEAAAAAAAABAAAASw",
+							"AQAAAAAAAAABAAAAqAEAAAAAAACoAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							67,
+							1,
+							"insert",
+							{
+								"characters": "zsh"
+							},
+							"AwAAAKUBAAAAAAAApgEAAAAAAAAAAAAApgEAAAAAAACnAQAAAAAAAAAAAACnAQAAAAAAAKgBAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAApQEAAAAAAAClAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							69,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAABQBAAAAAAAAFQEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAFAEAAAAAAAAUAQAAAAAAAAAAAAAAgFFA"
+						],
+						[
+							70,
+							1,
+							"toggle_comment",
+							{
+								"block": false
+							},
+							"AQAAABUBAAAAAAAAFwEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAFQEAAAAAAAAVAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							72,
+							1,
+							"right_delete",
+							null,
+							"AQAAAKYBAAAAAAAApgEAAAAAAAABAAAAIw",
+							"AQAAAAAAAAABAAAApgEAAAAAAACmAQAAAAAAAAAAAAAAADRA"
+						],
+						[
+							73,
+							1,
+							"left_delete",
+							null,
+							"AQAAAKUBAAAAAAAApQEAAAAAAAABAAAAIw",
+							"AQAAAAAAAAABAAAApgEAAAAAAACmAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							75,
+							2,
+							"right_delete",
+							null,
+							"AgAAALoBAAAAAAAAugEAAAAAAAABAAAAI7oBAAAAAAAAugEAAAAAAAABAAAAIw",
+							"AQAAAAAAAAABAAAAugEAAAAAAAC6AQAAAAAAAAAAAAAAACRA"
+						],
+						[
+							78,
+							1,
+							"insert",
+							{
+								"characters": "iterm2"
+							},
+							"BgAAABcBAAAAAAAAGAEAAAAAAAAAAAAAGAEAAAAAAAAZAQAAAAAAAAAAAAAZAQAAAAAAABoBAAAAAAAAAAAAABoBAAAAAAAAGwEAAAAAAAAAAAAAGwEAAAAAAAAcAQAAAAAAAAAAAAAcAQAAAAAAAB0BAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAFwEAAAAAAAAXAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							80,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFRA"
+						],
+						[
+							82,
+							1,
+							"toggle_comment",
+							{
+								"block": false
+							},
+							"AQAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							83,
+							1,
+							"insert",
+							{
+								"characters": "alt-tab"
+							},
+							"BwAAAAIAAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAUAAAAAAAAAAAAAAAUAAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							90,
+							1,
+							"insert",
+							{
+								"characters": "\n\n\n"
+							},
+							"AwAAAAwCAAAAAAAADQIAAAAAAAAAAAAADQIAAAAAAAAOAgAAAAAAAAAAAAAOAgAAAAAAAA8CAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAADAIAAAAAAAAMAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							91,
+							1,
+							"paste_and_indent",
+							null,
+							"AQAAAA8CAAAAAAAAQgIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAADwIAAAAAAAAPAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							98,
+							1,
+							"toggle_comment",
+							{
+								"block": false
+							},
+							"AQAAAA4CAAAAAAAAEAIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAADgIAAAAAAAAOAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							99,
+							1,
+							"paste_and_indent",
+							null,
+							"AQAAABACAAAAAAAAHQIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAEAIAAAAAAAAQAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							102,
+							1,
+							"right_delete",
+							null,
+							"AQAAABcCAAAAAAAAFwIAAAAAAAABAAAAXA",
+							"AQAAAAAAAAABAAAAFwIAAAAAAAAXAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							106,
+							1,
+							"insert",
+							{
+								"characters": " ./"
+							},
+							"AwAAAFACAAAAAAAAUQIAAAAAAAAAAAAAUQIAAAAAAABSAgAAAAAAAAAAAABSAgAAAAAAAFMCAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAUAIAAAAAAABQAgAAAAAAAP///////+9/"
+						],
+						[
+							107,
+							1,
+							"insert",
+							{
+								"characters": "ubl"
+							},
+							"AwAAAFMCAAAAAAAAVAIAAAAAAAAAAAAAVAIAAAAAAABVAgAAAAAAAAAAAABVAgAAAAAAAFYCAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAUwIAAAAAAABTAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							108,
+							3,
+							"left_delete",
+							null,
+							"AwAAAFUCAAAAAAAAVQIAAAAAAAABAAAAbFQCAAAAAAAAVAIAAAAAAAABAAAAYlMCAAAAAAAAUwIAAAAAAAABAAAAdQ",
+							"AQAAAAAAAAABAAAAVgIAAAAAAABWAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							109,
+							1,
+							"insert",
+							{
+								"characters": "subl"
+							},
+							"BAAAAFMCAAAAAAAAVAIAAAAAAAAAAAAAVAIAAAAAAABVAgAAAAAAAAAAAABVAgAAAAAAAFYCAAAAAAAAAAAAAFYCAAAAAAAAVwIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAUwIAAAAAAABTAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							110,
+							1,
+							"insert",
+							{
+								"characters": "ime-t"
+							},
+							"BQAAAFcCAAAAAAAAWAIAAAAAAAAAAAAAWAIAAAAAAABZAgAAAAAAAAAAAABZAgAAAAAAAFoCAAAAAAAAAAAAAFoCAAAAAAAAWwIAAAAAAAAAAAAAWwIAAAAAAABcAgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAVwIAAAAAAABXAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							111,
+							1,
+							"insert",
+							{
+								"characters": "est"
+							},
+							"AwAAAFwCAAAAAAAAXQIAAAAAAAAAAAAAXQIAAAAAAABeAgAAAAAAAAAAAABeAgAAAAAAAF8CAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAXAIAAAAAAABcAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							112,
+							2,
+							"left_delete",
+							null,
+							"AgAAAF4CAAAAAAAAXgIAAAAAAAABAAAAdF0CAAAAAAAAXQIAAAAAAAABAAAAcw",
+							"AQAAAAAAAAABAAAAXwIAAAAAAABfAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							113,
+							1,
+							"insert",
+							{
+								"characters": "xt"
+							},
+							"AgAAAF0CAAAAAAAAXgIAAAAAAAAAAAAAXgIAAAAAAABfAgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAXQIAAAAAAABdAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							114,
+							1,
+							"insert",
+							{
+								"characters": "/a"
+							},
+							"AgAAAF8CAAAAAAAAYAIAAAAAAAAAAAAAYAIAAAAAAABhAgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAXwIAAAAAAABfAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							115,
+							1,
+							"insert",
+							{
+								"characters": "pplicatio"
+							},
+							"CQAAAGECAAAAAAAAYgIAAAAAAAAAAAAAYgIAAAAAAABjAgAAAAAAAAAAAABjAgAAAAAAAGQCAAAAAAAAAAAAAGQCAAAAAAAAZQIAAAAAAAAAAAAAZQIAAAAAAABmAgAAAAAAAAAAAABmAgAAAAAAAGcCAAAAAAAAAAAAAGcCAAAAAAAAaAIAAAAAAAAAAAAAaAIAAAAAAABpAgAAAAAAAAAAAABpAgAAAAAAAGoCAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAYQIAAAAAAABhAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							116,
+							1,
+							"insert",
+							{
+								"characters": "n"
+							},
+							"AQAAAGoCAAAAAAAAawIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAagIAAAAAAABqAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							119,
+							1,
+							"insert",
+							{
+								"characters": "/"
+							},
+							"AQAAAGACAAAAAAAAYQIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAYAIAAAAAAABgAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							121,
+							1,
+							"insert",
+							{
+								"characters": "l"
+							},
+							"AQAAAGACAAAAAAAAYQIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAYAIAAAAAAABgAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							122,
+							1,
+							"left_delete",
+							null,
+							"AQAAAGACAAAAAAAAYAIAAAAAAAABAAAAbA",
+							"AQAAAAAAAAABAAAAYQIAAAAAAABhAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							123,
+							1,
+							"insert",
+							{
+								"characters": "Li9brary"
+							},
+							"CAAAAGACAAAAAAAAYQIAAAAAAAAAAAAAYQIAAAAAAABiAgAAAAAAAAAAAABiAgAAAAAAAGMCAAAAAAAAAAAAAGMCAAAAAAAAZAIAAAAAAAAAAAAAZAIAAAAAAABlAgAAAAAAAAAAAABlAgAAAAAAAGYCAAAAAAAAAAAAAGYCAAAAAAAAZwIAAAAAAAAAAAAAZwIAAAAAAABoAgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAYAIAAAAAAABgAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							125,
+							1,
+							"left_delete",
+							null,
+							"AQAAAGICAAAAAAAAYgIAAAAAAAABAAAAOQ",
+							"AQAAAAAAAAABAAAAYwIAAAAAAABjAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							129,
+							1,
+							"insert",
+							{
+								"characters": "-supp"
+							},
+							"BQAAAHMCAAAAAAAAdAIAAAAAAAAAAAAAdAIAAAAAAAB1AgAAAAAAAAAAAAB1AgAAAAAAAHYCAAAAAAAAAAAAAHYCAAAAAAAAdwIAAAAAAAAAAAAAdwIAAAAAAAB4AgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAcwIAAAAAAABzAgAAAAAAAP///////+9/"
+						],
+						[
+							130,
+							1,
+							"insert",
+							{
+								"characters": "ort"
+							},
+							"AwAAAHgCAAAAAAAAeQIAAAAAAAAAAAAAeQIAAAAAAAB6AgAAAAAAAAAAAAB6AgAAAAAAAHsCAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAeAIAAAAAAAB4AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							134,
+							1,
+							"left_delete",
+							null,
+							"AQAAAGACAAAAAAAAYAIAAAAAAAABAAAATA",
+							"AQAAAAAAAAABAAAAYQIAAAAAAABhAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							135,
+							1,
+							"insert",
+							{
+								"characters": "l"
+							},
+							"AQAAAGACAAAAAAAAYQIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAYAIAAAAAAABgAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							137,
+							1,
+							"insert",
+							{
+								"characters": "/"
+							},
+							"AQAAAHsCAAAAAAAAfAIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAewIAAAAAAAB7AgAAAAAAAP///////+9/"
+						],
+						[
+							143,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAABwCAAAAAAAAHQIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAHAIAAAAAAAAcAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							144,
+							1,
+							"insert",
+							{
+								"characters": "mkdir"
+							},
+							"BQAAAB0CAAAAAAAAHgIAAAAAAAAAAAAAHgIAAAAAAAAfAgAAAAAAAAAAAAAfAgAAAAAAACACAAAAAAAAAAAAACACAAAAAAAAIQIAAAAAAAAAAAAAIQIAAAAAAAAiAgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAHQIAAAAAAAAdAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							145,
+							1,
+							"insert",
+							{
+								"characters": " -p"
+							},
+							"AwAAACICAAAAAAAAIwIAAAAAAAAAAAAAIwIAAAAAAAAkAgAAAAAAAAAAAAAkAgAAAAAAACUCAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAIgIAAAAAAAAiAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							146,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAACUCAAAAAAAAJgIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAJQIAAAAAAAAlAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							147,
+							1,
+							"paste_and_indent",
+							null,
+							"AQAAACYCAAAAAAAAUQIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAJgIAAAAAAAAmAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							152,
+							2,
+							"left_delete",
+							null,
+							"AgAAACcCAAAAAAAAJwIAAAAAAAABAAAALyYCAAAAAAAAJgIAAAAAAAABAAAALg",
+							"AQAAAAAAAAABAAAAKAIAAAAAAAAoAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							157,
+							2,
+							"right_delete",
+							null,
+							"AgAAAAoAAAAAAAAACgAAAAAAAAAQAAAAbWtkaXIgLXAgYWx0LXRhYgoAAAAAAAAACgAAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAAGgAAAAAAAAAKAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							165,
+							2,
+							"right_delete",
+							null,
+							"AgAAABcBAAAAAAAAFwEAAAAAAAAPAAAAbWtkaXIgLXAgaXRlcm0yFwEAAAAAAAAXAQAAAAAAAAEAAAAK",
+							"AQAAAAAAAAABAAAAJgEAAAAAAAAXAQAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							177,
+							1,
+							"paste_and_indent",
+							null,
+							"AgAAAC8CAAAAAAAANAIAAAAAAAAAAAAANAIAAAAAAAA0AgAAAAAAAAYAAABybSAtcmY",
+							"AQAAAAAAAAABAAAANQIAAAAAAAAvAgAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							181,
+							1,
+							"right_delete",
+							null,
+							"AQAAAOwBAAAAAAAA7AEAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAA7AEAAAAAAADsAQAAAAAAAAAAAAAAYI1A"
+						],
+						[
+							183,
+							1,
+							"insert",
+							{
+								"characters": "\n\n"
+							},
+							"AgAAAIwCAAAAAAAAjQIAAAAAAAAAAAAAjQIAAAAAAACOAgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAjAIAAAAAAACMAgAAAAAAAAAAAAAAAAAA"
+						]
+					]
+				},
+				{
+					"file": "/Users/aleksandr.mospan/Library/Application Support/Sublime Merge/Packages/User/Default (OSX).sublime-keymap",
+					"settings":
+					{
+						"buffer_size": 401,
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"syntx mar",
+						"Set Syntax: Markdown"
+					],
+					[
+						"rena",
+						"Rename File"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"lsp enable",
+						"LSP: Enable Language Server Globally"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"mar",
+						"Set Syntax: Markdown"
+					],
+					[
+						"jacv",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"pro",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"pr",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"p",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"toggle",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"prof",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"to",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"profile",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"plain",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"prefe",
+						"Preferences: Settings"
+					],
+					[
+						"profi",
+						"Profiles: Toggle Last Used"
+					],
+					[
+						"pre",
+						"Preferences: Settings"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"profiles",
+						"Profiles: Create"
+					],
+					[
+						"the",
+						"UI: Select Theme"
+					],
+					[
+						"ui",
+						"UI: Select Theme"
+					],
+					[
+						"package",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"pac",
+						"Preferences: Browse Packages"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings"
+					],
+					[
+						"prefere",
+						"Preferences: Settings"
+					],
+					[
+						"sync se",
+						"Sync Settings: Upload"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/aleksandr.mospan/settings",
+				"/Users/aleksandr.mospan/settings/alt-tab",
+				"/Users/aleksandr.mospan/settings/alt-tab/Library"
+			],
+			"file_history":
+			[
+				"/Users/aleksandr.mospan/settings/install.sh",
+				"/Users/aleksandr.mospan/settings/save.sh",
+				"/Users/aleksandr.mospan/settings/restore.sh",
+				"/Users/aleksandr.mospan/Downloads/подключение_нового_апи_к_инсайтам.md",
+				"/Users/aleksandr.mospan/projects/exp/react/hello-world-vite-typescript/package.json",
+				"/Users/aleksandr.mospan/projects/exp/react/hello-world-vite-typescript/babel.config.js",
+				"/Users/aleksandr.mospan/projects/exp/react/hello-world-vite-typescript/src/__test__/app.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/react/hello-world-vite-typescript/jest.config.js",
+				"/Users/aleksandr.mospan/projects/exp/react/hello-world-vite-typescript/.npmcheckrc",
+				"/Users/aleksandr.mospan/projects/exp/react/hello-world-vite-typescript/src/App.tsx",
+				"/Users/aleksandr.mospan/projects/exp/react/vite-number-coversion/package.json",
+				"/Users/aleksandr.mospan/projects/exp/react/package.json",
+				"/Users/aleksandr.mospan/projects/exp/react/vite-number-coversion/src/App.tsx",
+				"/Users/aleksandr.mospan/projects/exp/react/vite-number-coversion/src/main.tsx",
+				"/Users/aleksandr.mospan/projects/exp/react/vite-number-coversion/index.html",
+				"/Users/aleksandr.mospan/projects/exp/react/vite-number-coversion/src/index.css",
+				"/Users/aleksandr.mospan/projects/exp/react/vite-number-coversion/src/App.css",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-browser/__test__/index.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-terminal/.npmcheckrc",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-browser/.npmcheckrc",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-browser/tsconfig.json",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-browser/src/index.ts",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-terminal/jest.config.js",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-terminal/__test__/index.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-terminal/src/index.ts",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-terminal/tsconfig.json",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-browser/package.json",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-browser/public/bundle.js",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-browser/.gitignore",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world-terminal/package.json",
+				"/Users/aleksandr.mospan/projects/exp/typescript/.prettierrc.json",
+				"/Users/aleksandr.mospan/projects/exp/typescript/package.json",
+				"/Users/aleksandr.mospan/projects/exp/typescript/tsconfig.json",
+				"/Users/aleksandr.mospan/projects/exp/javascript/hello-world-browser/public/index.html",
+				"/Users/aleksandr.mospan/projects/exp/javascript/hello-world-browser/.npmcheckrc",
+				"/Users/aleksandr.mospan/projects/exp/javascript/hello-world-browser/jest.config.js",
+				"/Users/aleksandr.mospan/projects/exp/javascript/hello-world-browser/index.html",
+				"/Users/aleksandr.mospan/projects/exp/javascript/hello-world-browser/index.js",
+				"/Users/aleksandr.mospan/projects/exp/javascript/hello-world-browser/package.json",
+				"/Users/aleksandr.mospan/projects/exp/javascript/hello-world-browser/__test__/index.spec.js",
+				"/Users/aleksandr.mospan/projects/exp/javascript/hello-world-terminal/package.json",
+				"/Users/aleksandr.mospan/projects/exp/javascript/interview/__test__/test.spec.js",
+				"/Users/aleksandr.mospan/projects/exp/javascript/interview-avito/avito_max_axenov.js",
+				"/Users/aleksandr.mospan/projects/exp/javascript/promises/3.js",
+				"/Users/aleksandr.mospan/projects/exp/javascript/hello-world/readme.md",
+				"/Users/aleksandr.mospan/projects/exp/javascript/hello-world-terminal/index.js",
+				"/Users/aleksandr.mospan/projects/exp/javascript/hello-world-terminal/__test__/index.spec.js",
+				"/Users/aleksandr.mospan/projects/exp/javascript/hello-world-terminal/babel.comfig.js",
+				"/Users/aleksandr.mospan/projects/exp/javascript/hello-world-terminal/jest.config.js",
+				"/Users/aleksandr.mospan/projects/exp/typescript/.gitignore",
+				"/Users/aleksandr.mospan/projects/exp/typescript/.husky/pre-commit",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/public/bundle.js",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/tsconfig.json",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/package.json",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/jest.config.js",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/__test__/console.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/__test__/browser.spec.ts",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/src/console.ts",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/src/browser.ts",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/public/browser.html",
+				"/Users/aleksandr.mospan/Dropbox/logs/2023.06.19.md",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/src/browser.js",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/src/main.ts",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/src/browser.html",
+				"/Users/aleksandr.mospan/projects/exp/typescript/hello-world/__test__/index.spec.ts",
+				"/Users/aleksandr.mospan/Downloads/curl 'https:::www.rc.semrush.net:reputation_manage",
+				"/Users/aleksandr.mospan/Dropbox/logs/2023.05.31.md",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/flexi-benefit-Q3-2023/_Flexi-траты за 3 квартал 2023.txt",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/flexi-benefit-Q2-2023/_Flexi-траты за 2 квартал 2023.txt",
+				"/Users/aleksandr.mospan/Dropbox/logs/2023.05.25.md",
+				"/Users/aleksandr.mospan/scripts/diary.sh",
+				"/Users/aleksandr.mospan/Downloads/подключение_gbp.md",
+				"/Users/aleksandr.mospan/projects/obsidian/.gitignore",
+				"/Users/aleksandr.mospan/Downloads/подключение_gbp.txt",
+				"/Users/aleksandr.mospan/Dropbox/logs/2023.05.19.md",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/logs/2013.07.md",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/logs/2013.06.26.md",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/logs/2023.01.11_twitter_dump.md",
+				"/Users/aleksandr.mospan/Dropbox/logs/2023.05.18.md",
+				"/Users/aleksandr.mospan/.zshrc",
+				"/Users/aleksandr.mospan/Dropbox/logs/2023.05.16.md",
+				"/Users/aleksandr.mospan/settings/sublime_text/Packages/User/snippets/specjs-it.sublime-snippet",
+				"/usr/local/diary.sh",
+				"/Users/aleksandr.mospan/Dropbox/logs/2023.05.16",
+				"/Users/aleksandr.mospan/Dropbox/logs/2023.12.16",
+				"/Users/aleksandr.mospan/Dropbox/logs/date +%Y.%M.%d",
+				"/Users/aleksandr.mospan/projects/exp/js/codewars/__tests__/6-is_int_array.spec.js",
+				"/Users/aleksandr.mospan/projects/exp/js/codewars/src/6-is_int_array.js",
+				"/Users/aleksandr.mospan/Downloads/демо.txt",
+				"/Users/aleksandr.mospan/Downloads/конспект как работают карточные платежи.md",
+				"/Users/aleksandr.mospan/Downloads/создание_и_заливка_докер-образов_в_google_cloud.txt",
+				"/Users/aleksandr.mospan/Downloads/план_дня.txt",
+				"/Users/aleksandr.mospan/Downloads/автоматизация_переводов_в_ci.txt",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/semrush_tasks_info/landing_visitors_mail_sending.txt",
+				"/Users/aleksandr.mospan/Downloads/ошибки при редактировании локации.txt",
+				"/Users/aleksandr.mospan/Downloads/bq-results-20230324-184501-1679685844973.json",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/logs/2022.03.24",
+				"/Users/aleksandr.mospan/Downloads/landing_visitors_mail_sending.txt",
+				"/Users/aleksandr.mospan/Downloads/feedback.txt",
+				"/Users/aleksandr.mospan/Downloads/blog_aca+lm.txt",
+				"/Users/aleksandr.mospan/Downloads/landing_visiters_without_scan_first_10k.json",
+				"/Users/aleksandr.mospan/Downloads/bquxjob_60b68f8c_186dfd0be5c.json",
+				"/Users/aleksandr.mospan/Downloads/public_domains.json",
+				"/Users/aleksandr.mospan/Downloads/landing_visiters_without_scan_first_20k.json",
+				"/Users/aleksandr.mospan/settings/karabiner/karabiner.json",
+				"/Users/aleksandr.mospan/Downloads/feedback_task.txt",
+				"/Users/aleksandr.mospan/Downloads/конспект видео про эволюцию.тхт",
+				"/Users/aleksandr.mospan/Library/Application Support/Sublime Merge/Packages/User/Preferences.sublime-settings",
+				"/Users/aleksandr.mospan/Downloads/moonlander_mospan-moonlander-layout_KRGOX_mpq7P/moonlander_mospan-moonlander-layout_source/keymap.c",
+				"/Users/aleksandr.mospan/work/semrush/blog articles status.txt",
+				"/Users/aleksandr.mospan/Downloads/moonlander_mospan-moonlander-layout_KRGOX_6PaOB.bin",
+				"/Users/aleksandr.mospan/Library/Application Support/Sublime Merge/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/aleksandr.mospan/projects/blog/content/blog/homebrew.md",
+				"/Users/aleksandr.mospan/Downloads/Brewfile",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/flexi-benefit-Q1-2023/Flexi-траты за 1 квартал 2023.txt",
+				"/Users/aleksandr.mospan/Downloads/images_gbp.txt",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/logs/dreams/2013.07.24",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/logs/dreams/2013.09.18",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/logs/dreams/2020.03.07",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/logs/dreams/2020.02.16",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/logs/dreams/2020.02.14",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/logs/dreams/2020.11.08",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/logs/dreams/2017.02.14",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/logs/dreams/2016.12.10",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/logs/dreams/2016.12",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/logs/dreams/2013",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/logs/dreams/2013.09.07",
+				"/Users/aleksandr.mospan/Library/CloudStorage/Dropbox/logs/2013.12.20"
+			],
+			"find":
+			{
+				"height": 31.0
+			},
+			"find_in_files":
+			{
+				"height": 113.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"https"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/aleksandr.mospan/settings"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/aleksandr.mospan/settings/restore.sh",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 260,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										260,
+										260
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/aleksandr.mospan/settings/readme.md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 202,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										123,
+										72
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/aleksandr.mospan/settings/save.sh",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 654,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										654,
+										654
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/aleksandr.mospan/Library/Application Support/Sublime Merge/Packages/User/Default (OSX).sublime-keymap",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 401,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										401,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JSON/JSON.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 43.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "YnBsaXN0MDDUAQIDBAUGByJYJHZlcnNpb25ZJGFyY2hpdmVyVCR0b3BYJG9iamVjdHMSAAGGoF8QD05TS2V5ZWRBcmNoaXZlct0ICQoLDA0ODxAREhMUFRYXFxkZGxwdHh8gIV1OU1dpbmRvd0ZyYW1lV05TVGl0bGVXTlNJc0tleVhOU0lzTWFpbl8QEE5TRmlyc3RSZXNwb25kZXJfEBdOU1VubWFuYWdlZFdpbmRvd0ZyYW1lMltOU0NsYXNzTmFtZV8QEF9OU1dpbmRvd0xheW91dHNbTlNTdHlsZU1hc2tfECZOU1dpbmRvd01hbmFnZW1lbnRQZXJzaXN0ZW50SWRlbnRpZmllcl8QGV9OU1dpbmRvd1Jlc2l6ZUdlbmVyYXRpb25fEBNOU1dpbmRvd1dvcmtzcGFjZUlEXk5TV2luZG93TnVtYmVygAKAAwkJgACAAIAEgAYQD4ABEACABREYhq8QFiMkJSYnKCk0Ojs8QkZHSE9QUVRYWVpVJG51bGxfECRGMUIyRTlFRS1BNTIwLTQ5OUQtODcyRi04RUQ5MDBCRjIyQjJfEBwwIDAgMTI4MCAxNDE1IDAgMCAyNTYwIDE0MTUgbxAnAEQAZQBmAGEAdQBsAHQAIAAoAE8AUwBYACkALgBzAHUAYgBsAGkAbQBlAC0AawBlAHkAbQBhAHAAICAUACAAcwBlAHQAdABpAG4AZwBzWFBYV2luZG93UNMqKywtMDNXTlMua2V5c1pOUy5vYmplY3RzViRjbGFzc6IuL4AHgAuiMTKADoASgBXTNTYsNzg5XxAYTlNTY3JlZW5MYXlvdXRVVUlEU3RyaW5nXxASTlNTY3JlZW5MYXlvdXRTaXplgAiACYAKXxAkNTgyNUQzN0MtMTcyOC00MkRCLThGQUYtMDFFNjA3NjU2RTQ2XHsyNTYwLCAxNDQwfdI9Pj9AWiRjbGFzc25hbWVYJGNsYXNzZXNeTlNTY3JlZW5MYXlvdXSiP0FYTlNPYmplY3TTNTYsQ0Q5gAyADYAKXxAkQTM5QTk1NTgtMzQ5NS00MUM5LUExN0MtQkY3OEU4MTJCNzM2XHsyNTYwLCAxNDQwfdRJSixLTB9NTl8QH05TV2luZG93TGF5b3V0U2NyZWVuTGF5b3V0RnJhbWVfEB5OU1dpbmRvd0xheW91dFJlc2l6ZUdlbmVyYXRpb25fEBlOU1dpbmRvd0xheW91dFdpbmRvd0ZyYW1lgBCAEYAPXxAYe3stMCwgLTB9LCB7MTI4MCwgMTQxNX19XxAWe3swLCAwfSwgezI1NjAsIDE0MTV9fdI9PlJTXk5TV2luZG93TGF5b3V0olJB1ElKLEtVH01XgBSAEYATXxAXe3swLCA0NzF9LCB7MTI4MCwgOTQ0fX1fEBZ7ezAsIDB9LCB7MjU2MCwgMTQxNX190j0+W1xcTlNEaWN0aW9uYXJ5oltBAAgAEQAaACQAKQAyADcASQBkAHIAegCCAIsAngC4AMQA1wDjAQwBKAE+AU0BTwFRAVIBUwFVAVcBWQFbAV0BXwFhAWMBZgF/AYUBrAHLAhwCJQImAi0CNQJAAkcCSgJMAk4CUQJTAlUCVwJeAnkCjgKQApIClAK7AsgCzQLYAuEC8ALzAvwDAwMFAwcDCQMwAz0DRgNoA4kDpQOnA6kDqwPGA98D5APzA/YD/wQBBAMEBQQfBDgEPQRKAAAAAAAAAgEAAAAAAAAAXQAAAAAAAAAAAAAAAAAABE0",
+			"project": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"save.sh"
+					],
+					[
+						"sav",
+						"save.sh"
+					],
+					[
+						"src/",
+						"src/6-is_int_array.js"
+					],
+					[
+						"src",
+						"src/app.tsx"
+					],
+					[
+						".ts",
+						"src/Button.tsx"
+					],
+					[
+						"inde",
+						"src/index.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 271.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 441,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

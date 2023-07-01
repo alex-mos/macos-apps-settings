@@ -1,37 +1,17 @@
-## Install applications
+## Установка программ
 
-brew install --cask alt-tab
-brew install --cask dash
-brew install --cask michaelvillar-timer
-brew install --cask numi
-brew install --cask obsidian
-brew install --cask sublime-merge
-brew install --cask sublime-text
-brew install --cask telegram
-brew install --cask unnaturalscrollwheels
-brew install --cask vlc
-brew install --cask freedom
-brew install --cask webstorm
-
-## Create symlinks for
-
-### Sublime Text
-```
-rm -rf ~/Library/Application\ Support/Sublime\ Text
-ln -s ~/settings/sublime_text ~/Library/Application\ Support/Sublime\ Text
+```sh
+chmod +x install-apps.sh restore-settings.sh
+./install-apps.sh && ./restore-settings.sh
 ```
 
-### zsh
-```
-rm ~/.zshrc
-ln -s ~/settings/.zshrc ~/.zshrc
-```
+## Настройки которые нужно сделать руками
 
-### iTerm2
+### Перетаскивание тремя пальцами
 
-![](iterm-settings.png)
+### Отображение размеров директорий в Finder
+* Нажать cmd+j в домашней директории
+* Выбрать Calculate All Sizes
+* Нажать Use as default
 
-### Karabiner Elements
-
-rm -rf ~/.config/karabiner
-ln -s ~/settings/karabiner ~/.config/karabiner
+### Установка системных хоткеев
