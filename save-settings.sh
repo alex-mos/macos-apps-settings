@@ -7,7 +7,7 @@ mkdir -p iterm2/library/preferences/
 cp -R ~/Library/Preferences/com.googlecode.iterm2.plist iterm2/Library/Preferences/ iterm2/library/preferences/
 
 # zsh
-mkdir zsh
+mkdir -p zsh
 cp ~/.zshrc zsh
 
 # Karabiner Elements
