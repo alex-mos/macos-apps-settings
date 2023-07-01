@@ -33,7 +33,7 @@ brew install vox
 brew install webstorm
 
 mas install 409183694   # Keynote
-mas install 904280696   # Things
+mas install 904280696   # Things 3
 mas install 409201541   # Pages
 mas install 1289197285  # MindNode
 mas install 409203825   # Numbers
