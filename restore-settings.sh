@@ -1,11 +1,10 @@
-# clone repository with settings
-git clone git@github.com:alex-mos/macos-apps-settings.git ~/settings
+## App preferences
 
 # alt-tab
-cp -R ./alt-tab/Library/Preferences/com.lwouis.alt-tab-macos.plist ~/Library/Preferences/
+cp ./alt-tab/library/preferences/com.lwouis.alt-tab-macos.plist ~/Library/Preferences/
 
 # iterm2
-cp -R ./iterm2/Library/Preferences/com.googlecode.iterm2.plist ~/Library/Preferences/
+cp ./iterm2/library/preferences/com.googlecode.iterm2.plist ~/Library/Preferences/
 
 # zsh
 
@@ -15,7 +14,11 @@ cp -R ./iterm2/Library/Preferences/com.googlecode.iterm2.plist ~/Library/Prefere
 
 # Sublime Merge
 
+# Rectangle
 
+
+
+## System preferences
 
 # Show the Library directory in the home directory.
 chflags nohidden ~/Library
