@@ -32,3 +32,7 @@ cp -R ~/Library/Preferences/com.knollsoft.Rectangle.plist rectangle/library/pref
 
 # scripts
 cp -R ~/scripts scripts
+
+# macOs global settings
+mkdir macos
+cp ~/Library/Preferences/.GlobalPreferences.plist macos/
