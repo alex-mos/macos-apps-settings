@@ -1,4 +1,9 @@
 {
 	"theme": "auto",
 	"update_check": false,
+	"added_words":
+	[
+		"donut",
+		"eslint",
+	],
 }

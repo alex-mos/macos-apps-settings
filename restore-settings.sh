@@ -25,3 +25,7 @@ chflags nohidden ~/Library
 
 # disable apple music launch with play button
 launchctl unload -w /System/Library/LaunchAgents/com.apple.rcd.plist
+
+# scripts
+cp -R scripts ~/scripts
+chmod +x ~/scripts/*
