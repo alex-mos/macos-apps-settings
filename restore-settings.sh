@@ -30,7 +30,7 @@ chflags nohidden ~/Library
 launchctl unload -w /System/Library/LaunchAgents/com.apple.rcd.plist
 
 # scripts
-cp -R scripts ~/scripts
+cp -R ./scripts/ ~/scripts
 chmod +x ~/scripts/*
 
 # macos
