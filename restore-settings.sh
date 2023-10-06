@@ -7,8 +7,11 @@ cp ./alt-tab/library/preferences/com.lwouis.alt-tab-macos.plist ~/Library/Prefer
 cp ./iterm2/library/preferences/com.googlecode.iterm2.plist ~/Library/Preferences/
 
 # zsh
+cp ./zsh/.zshrc ~/
+source ~/.zshrc
 
 # Karabiner Elements
+cp ./karabiner/config/karabiner.json ~/.config/karabiner
 
 # Sublime Text
 
@@ -29,3 +32,6 @@ launchctl unload -w /System/Library/LaunchAgents/com.apple.rcd.plist
 # scripts
 cp -R scripts ~/scripts
 chmod +x ~/scripts/*
+
+# macos
+cp .macos/.GlobalPreferences.plist  ~/Library/Preferences/

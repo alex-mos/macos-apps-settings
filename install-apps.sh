@@ -6,15 +6,18 @@ brew analytics off
 brew install mas
 brew install p7zip
 brew install yt-dlp
-brew install ffmpeg # for yt-dlp
+# ffmpeg for yt-dlp
+brew install ffmpeg
 brew install zola
 
 # programming
-brew install fpc # free pascal
+# fpc is a free pascal compiler
+brew install fpc
 brew install postgresql
 brew install pgadmin4
 brew install webstorm
-brew install hyperfine # program speed measurement
+# hyperfine is a program speed measurement utility
+brew install hyperfine
 
 # install GUI applications
 brew install alt-tab
@@ -38,10 +41,15 @@ brew install vlc
 brew install vox
 
 
-mas install 409183694   # Keynote
-mas install 904280696   # Things 3
-mas install 409201541   # Pages
-mas install 1289197285  # MindNode
-mas install 409203825   # Numbers
-mas install 990588172   # Gestimer
-mas install 1452453066  # Hidden Bar
+# Things 3
+mas install 904280696
+# Pages
+mas install 409201541
+# MindNode
+mas install 1289197285
+# Numbers
+mas install 409203825
+# Gestimer
+mas install 990588172
+# Hidden Bar
+mas install 1452453066
