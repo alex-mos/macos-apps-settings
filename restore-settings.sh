@@ -35,3 +35,7 @@ chmod +x ~/scripts/*
 
 # macos
 cp .macos/.GlobalPreferences.plist  ~/Library/Preferences/
+
+# create global gitignore
+echo .DS_Store >> ~/.gitignore_global
+git config --global core.excludesfile ~/.gitignore_global
