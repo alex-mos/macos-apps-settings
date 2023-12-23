@@ -5,9 +5,6 @@
 	],
 	"installed_packages":
 	[
-		"FileIcons",
-		"Package Control",
-		"Profile Switcher",
-		"Writer Color Scheme",
+		"Alabaster Color Scheme"
 	],
 }
