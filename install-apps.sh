@@ -53,3 +53,5 @@ mas install 409203825
 mas install 990588172
 # Hidden Bar
 mas install 1452453066
+# Wireguard
+mas install 1451685025
