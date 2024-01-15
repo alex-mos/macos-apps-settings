@@ -27,6 +27,7 @@ brew install freedom
 brew install hiddenbar
 brew install iterm2
 brew install karabiner-elements
+brew install lulu
 brew install netnewswire
 brew install notion
 brew install numi
