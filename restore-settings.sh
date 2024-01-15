@@ -23,6 +23,7 @@ cp -R ./sublime-merge/library/application-support/packages/user/ ~/Library/Appli
 ### Rectangle
 cp ./rectangle/library/preferences/com.knollsoft.Rectangle.plist ~/Library/Preferences/com.knollsoft.Rectangle.plist
 
+
 ## System preferences
 
 ### Show the Library directory in the home directory.
@@ -39,3 +40,10 @@ chmod +x ~/scripts/*
 ### create global gitignore
 echo .DS_Store >> ~/.gitignore_global
 git config --global core.excludesfile ~/.gitignore_global
+
+
+## Keyboard layouts
+mkdir ~/projects
+cd ~/projects
+git clone git@github.com:alex-mos/clean-ansi-layout.git
+./clean-ansi-layout/install.sh

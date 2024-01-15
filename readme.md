@@ -15,3 +15,23 @@ chmod +x install-apps.sh restore-settings.sh
 * Нажать Use as default
 
 ### Установка системных хоткеев
+
+Mail
+Archive
+cmd+a
+
+Sublime Merge
+Push
+cmd+up
+
+Sublime Merge
+Pull
+cmd+down
+
+Things
+Move...
+cmd+m
+
+All Applications
+Minimise
+shift+ctrl+option+cmd+m
