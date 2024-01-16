@@ -47,3 +47,6 @@ mkdir ~/projects
 cd ~/projects
 git clone git@github.com:alex-mos/clean-ansi-layout.git
 ./clean-ansi-layout/install.sh
+
+# macOS user dictionary
+cp .LocalDictionary ~/Library/Spelling/
