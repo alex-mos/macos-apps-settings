@@ -23,7 +23,6 @@ brew install hyperfine
 brew install alt-tab
 brew install dropbox
 brew install firefox
-brew install freedom
 brew install hiddenbar
 brew install iterm2
 brew install karabiner-elements
@@ -56,3 +55,5 @@ mas install 990588172
 mas install 1452453066
 # Wireguard
 mas install 1451685025
+# Scrobbles for Last.fm
+mas install 1344679160
