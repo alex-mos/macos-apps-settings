@@ -11,13 +11,14 @@ brew install ffmpeg
 brew install zola
 
 # programming
+
 # fpc is a free pascal compiler
-brew install fpc
-brew install postgresql
-brew install pgadmin4
-brew install webstorm
+# brew install fpc
+# brew install postgresql
+# brew install pgadmin4
+# brew install webstorm
 # hyperfine is a program speed measurement utility
-brew install hyperfine
+# brew install hyperfine
 
 # install GUI applications
 brew install alt-tab
@@ -26,7 +27,6 @@ brew install firefox
 brew install hiddenbar
 brew install iterm2
 brew install karabiner-elements
-brew install lulu
 brew install netnewswire
 brew install notion
 brew install numi
