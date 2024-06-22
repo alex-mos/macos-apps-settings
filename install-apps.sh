@@ -53,7 +53,7 @@ mas install 409203825
 mas install 990588172
 # Hidden Bar
 mas install 1452453066
-# Wireguard
-mas install 1451685025
 # Scrobbles for Last.fm
 mas install 1344679160
+# Outline
+mas install 1356178125
