@@ -823,7 +823,7 @@
                         ]
                     },
                     {
-                        "description": "Home to Control + Left",
+                        "description": "Home to Command + Left",
                         "manipulators": [
                             {
                                 "from": {
@@ -840,7 +840,7 @@
                         ]
                     },
                     {
-                        "description": "End to Control + Right",
+                        "description": "End to Command + Right",
                         "manipulators": [
                             {
                                 "from": {
@@ -857,7 +857,7 @@
                         ]
                     },
                     {
-                        "description": "Shift + Home to Shift + Control + Left",
+                        "description": "Shift + Home to Shift + Command + Left",
                         "manipulators": [
                             {
                                 "from": {
@@ -882,7 +882,7 @@
                         ]
                     },
                     {
-                        "description": "Shift + End to Shift + Control + Right",
+                        "description": "Shift + End to Shift + Command + Right",
                         "manipulators": [
                             {
                                 "from": {
@@ -907,7 +907,114 @@
                         ]
                     },
                     {
-                        "description": "Change input source with f16 and f17; f18 and f19 for dh.",
+                        "description": "Caps Lock to Right Control",
+                        "manipulators": [
+                            {
+                                "from": {
+                                    "key_code": "caps_lock",
+                                    "modifiers": {
+                                        "optional": [
+                                            "any"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "key_code": "right_control",
+                                        "modifiers": []
+                                    }
+                                ],
+                                "type": "basic"
+                            }
+                        ]
+                    },
+                    {
+                        "description": "Caps Lock (Right Control) cursor movement",
+                        "manipulators": [
+                            {
+                                "from": {
+                                    "key_code": "j",
+                                    "modifiers": {
+                                        "mandatory": [
+                                            "right_control"
+                                        ],
+                                        "optional": [
+                                            "any"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "key_code": "left_arrow",
+                                        "modifiers": []
+                                    }
+                                ],
+                                "type": "basic"
+                            },
+                            {
+                                "from": {
+                                    "key_code": "l",
+                                    "modifiers": {
+                                        "mandatory": [
+                                            "right_control"
+                                        ],
+                                        "optional": [
+                                            "any"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "key_code": "right_arrow",
+                                        "modifiers": []
+                                    }
+                                ],
+                                "type": "basic"
+                            },
+                            {
+                                "from": {
+                                    "key_code": "k",
+                                    "modifiers": {
+                                        "mandatory": [
+                                            "right_control"
+                                        ],
+                                        "optional": [
+                                            "any"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "key_code": "down_arrow",
+                                        "modifiers": []
+                                    }
+                                ],
+                                "type": "basic"
+                            },
+                            {
+                                "from": {
+                                    "key_code": "i",
+                                    "modifiers": {
+                                        "mandatory": [
+                                            "right_control"
+                                        ],
+                                        "optional": [
+                                            "any"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "key_code": "up_arrow",
+                                        "modifiers": []
+                                    }
+                                ],
+                                "type": "basic"
+                            }
+                        ]
+                    },
+                    {
+                        "description": "Change input source with f16 and f17; f18 and f19 for the split keyboard.",
                         "manipulators": [
                             {
                                 "from": {
