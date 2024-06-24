@@ -24,6 +24,11 @@ cp -R ./sublime-merge/library/application-support/packages/user/ ~/Library/Appli
 cp ./rectangle/library/preferences/com.knollsoft.Rectangle.plist ~/Library/Preferences/com.knollsoft.Rectangle.plist
 
 
+### Firefox
+defaults write ~/Library/Preferences/org.mozilla.firefox EnterprisePoliciesEnabled -bool  true
+defaults write ~/Library/Preferences/org.mozilla.firefox DisableAppUpdate -bool true
+defaults write ~/Library/Preferences/org.mozilla.firefox DisableTelemetry -bool true
+
 ## System preferences
 
 ### Show the Library directory in the home directory.
