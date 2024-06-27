@@ -1,7 +1,9 @@
 <snippet>
 	<scope>source.js</scope>
 	<tabTrigger>af</tabTrigger>
-	<content>const ${1} = (${2}) => {
+	<content>
+const ${1} = (${2}) => {
   ${3}
-}</content>
+}
+	</content>
 </snippet>

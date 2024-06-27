@@ -1,9 +1,9 @@
 <snippet>
 	<scope>source.js</scope>
-	<tabTrigger>d</tabTrigger>
+	<tabTrigger>describe</tabTrigger>
 	<content>
 describe("${1}", () => {
-  it("${2}", () => {
+  test("${2}", () => {
     ${3}
   })
 })

@@ -5,14 +5,14 @@
 "auto_complete_include_snippets_when_typing": false,
 "ignored_snippets": [
 	"JavaScript/*"
-],
+	],
 "auto_match_enabled": false,
-"color_scheme": "Monokai.sublime-color-scheme",
+"color_scheme": "Alabaster BG.sublime-color-scheme",
 "fold_buttons": false,
 "folder_exclude_patterns": [".git"],
 "binary_file_patterns": ["package-lock.json", "coverage"],
 "font_face": "JetBrains Mono",
-"font_size": 13,
+"font_size": 14,
 "hot_exit": "disabled",
 "save_on_focus_lost": true,
 "tab_size": 2,
@@ -21,7 +21,6 @@
 "ignored_packages":
 [
 	"Vintage",
-],
-"theme": "auto",
-"color_scheme": "Alabaster Dark Mono.sublime-color-scheme",
+	],
+	"index_files": true,
 }
