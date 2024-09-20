@@ -1104,42 +1104,6 @@
                         "manipulators": [
                             {
                                 "from": {
-                                    "key_code": "f16",
-                                    "modifiers": {
-                                        "optional": [
-                                            "any"
-                                        ]
-                                    }
-                                },
-                                "to": [
-                                    {
-                                        "select_input_source": {
-                                            "input_source_id": "^me.mospan.keyboardlayout.clean-full-ansi.english-clean-full-ansi$"
-                                        }
-                                    }
-                                ],
-                                "type": "basic"
-                            },
-                            {
-                                "from": {
-                                    "key_code": "f17",
-                                    "modifiers": {
-                                        "optional": [
-                                            "any"
-                                        ]
-                                    }
-                                },
-                                "to": [
-                                    {
-                                        "select_input_source": {
-                                            "input_source_id": "^me.mospan.keyboardlayout.clean-full-ansi.russian-clean-full-ansi$"
-                                        }
-                                    }
-                                ],
-                                "type": "basic"
-                            },
-                            {
-                                "from": {
                                     "key_code": "f18",
                                     "modifiers": {
                                         "optional": [
