@@ -4,5 +4,6 @@
 	<content>
 test("${1}", () => {
   ${2}
-})</content>
+})
+	</content>
 </snippet>

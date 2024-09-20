@@ -1,5 +1,5 @@
 # слушать
-cd ~/video/youtube_listen
+mkdir -p ~/video/youtube_listen && cd ~/video/youtube_listen
 yt-dlp \
 --default-search "ytsearch" \
 --write-sub --sub-lang en \
@@ -9,7 +9,7 @@ yt-dlp \
 "https://www.youtube.com/playlist?list=PL7m307ZxtRxoGtg7DlMTaxnK4X9oN416J"
 
 # отдых
-cd ~/video/youtube_watch
+mkdir -p ~/video/youtube_watch && cd ~/video/youtube_watch
 yt-dlp \
 --default-search "ytsearch" \
 --write-sub --sub-lang en \

@@ -31,7 +31,7 @@ mkdir -p rectangle/library/preferences/
 cp -R ~/Library/Preferences/com.knollsoft.Rectangle.plist rectangle/library/preferences/
 
 # scripts
-cp -R ~/scripts scripts
+cp -R ~/scripts .
 
 # macOS user dictionary
 cp ~/Library/Spelling/LocalDictionary .

@@ -1054,6 +1054,52 @@
                         ]
                     },
                     {
+                      "description": "Left shift -> en",
+                      "manipulators": [
+                        {
+                          "to_if_alone": [
+                            {
+                              "select_input_source": {
+                                "input_source_id": "^me.mospan.keyboardlayout.clean-full-ansi.english-clean-full-ansi$"
+                              }
+                            }
+                          ],
+                          "from": {
+                            "key_code": "left_shift"
+                          },
+                          "to": [
+                            {
+                              "key_code": "left_shift"
+                            }
+                          ],
+                          "type": "basic"
+                        }
+                      ]
+                    },
+                    {
+                      "description": "Right shift -> ru",
+                      "manipulators": [
+                        {
+                          "to_if_alone": [
+                            {
+                              "select_input_source": {
+                                "input_source_id": "^me.mospan.keyboardlayout.clean-full-ansi.russian-clean-full-ansi$"
+                              }
+                            }
+                          ],
+                          "from": {
+                            "key_code": "right_shift"
+                          },
+                          "to": [
+                            {
+                              "key_code": "right_shift"
+                            }
+                          ],
+                          "type": "basic"
+                        }
+                      ]
+                    },
+                    {
                         "description": "Change input source with f16 and f17; f18 and f19 for the split keyboard.",
                         "manipulators": [
                             {
@@ -1429,7 +1475,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "f10"
+                            "consumer_key_code": "play_or_pause"
                         }
                     ]
                 },
