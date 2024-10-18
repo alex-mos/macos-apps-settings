@@ -1054,53 +1054,53 @@
                         ]
                     },
                     {
-                      "description": "Left shift -> en",
+                      "description": "F16 -> en",
                       "manipulators": [
                         {
-                          "to_if_alone": [
+                          "from": {
+                            "key_code": "f16",
+                            "modifiers": {
+                              "optional": [
+                                "any"
+                              ]
+                            }
+                        },
+                          "to": [
                             {
                               "select_input_source": {
                                 "input_source_id": "^me.mospan.keyboardlayout.clean-full-ansi.english-clean-full-ansi$"
                               }
                             }
                           ],
-                          "from": {
-                            "key_code": "left_shift"
-                          },
-                          "to": [
-                            {
-                              "key_code": "left_shift"
-                            }
-                          ],
                           "type": "basic"
                         }
                       ]
                     },
                     {
-                      "description": "Right shift -> ru",
+                      "description": "F17 -> ru",
                       "manipulators": [
                         {
-                          "to_if_alone": [
+                              "from": {
+                                "key_code": "f17",
+                                "modifiers": {
+                                  "optional": [
+                                    "any"
+                                  ]
+                                }
+                            },
+                          "to": [
                             {
                               "select_input_source": {
                                 "input_source_id": "^me.mospan.keyboardlayout.clean-full-ansi.russian-clean-full-ansi$"
                               }
                             }
                           ],
-                          "from": {
-                            "key_code": "right_shift"
-                          },
-                          "to": [
-                            {
-                              "key_code": "right_shift"
-                            }
-                          ],
                           "type": "basic"
                         }
                       ]
                     },
                     {
-                        "description": "Change input source with f16 and f17; f18 and f19 for the split keyboard.",
+                        "description": "Change input source with F18 and F19 for the split keyboard.",
                         "manipulators": [
                             {
                                 "from": {
@@ -1114,7 +1114,7 @@
                                 "to": [
                                     {
                                         "select_input_source": {
-                                            "input_source_id": "^me.mospan.keyboardlayout.clean-full-ansi.english-clean-dh-colemak$"
+                                            "input_source_id": "^me.mospan.keyboardlayout.clean-full-ansi.english-clean-dh-qwerty$"
                                         }
                                     }
                                 ],

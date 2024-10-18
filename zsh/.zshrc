@@ -17,6 +17,9 @@ alias l='ls -la'
 # custom scripts
 export PATH="$PATH:$HOME/scripts/"
 
+# language
+export LANG="en_EN.UTF-8"
+
 # NVM
 export NVM_DIR="$HOME/.nvm"
 [ -s "/opt/homebrew/opt/nvm/nvm.sh" ] && \. "/opt/homebrew/opt/nvm/nvm.sh"  # This loads nvm
