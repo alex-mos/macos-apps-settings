@@ -5,6 +5,11 @@ chmod +x install-apps.sh restore-settings.sh
 ./install-apps.sh && ./restore-settings.sh
 ```
 
+### Установка приложений вручную
+
+Скробблер last.fm
+https://github.com/lambdan/swiftscrobble
+
 ## Настройки которые нужно сделать руками
 
 ### Перетаскивание тремя пальцами
@@ -15,6 +20,10 @@ chmod +x install-apps.sh restore-settings.sh
 * Нажать Use as default
 
 ### Установка системных хоткеев
+
+foobar2000
+Add Files...
+cmd+o
 
 Mail
 Archive
@@ -35,3 +44,11 @@ cmd+m
 All Applications
 Minimise
 shift+ctrl+option+cmd+m
+
+### foobar2000 layout
+
+splitter horizontal style=thin
+ splitter vertical style=thin
+  playlist
+  albumart
+ playback-controls
