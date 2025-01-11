@@ -2,17 +2,17 @@
   { "keys": ["super+shift+v"], "command": "paste" },
   { "keys": ["super+v"], "command": "paste_and_indent" },
   { "keys": ["super+e"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
-  { "keys": ["super+p"], "command": "show_overlay", "args": {"overlay": "command_palette"} },
-  { "keys": ["super+down"], "command": "find_under_expand" },
-  { "keys": ["super+up"], "command": "expand_selection", "args": {"to": "scope"} },
+  { "keys": ["super+t"], "command": "show_overlay", "args": {"overlay": "command_palette"} },
+  { "keys": ["super+k"], "command": "find_under_expand" },
+  { "keys": ["super+i"], "command": "expand_selection", "args": {"to": "scope"} },
   { "keys": ["super+d"], "command": "duplicate_line" },
-  { "keys": ["super+t"], "command": "" },
-  { "keys": ["super+k", "super+u"], "command": "" },
-  { "keys": ["super+k", "super+l"], "command": "" },
-  { "keys": ["super+l"], "command": "js_prettier" },
+  { "keys": ["super+j"], "command": "prev_view" },
+  { "keys": ["super+l"], "command": "next_view" },
+  { "keys": ["super+p"], "command": "js_prettier" },
+  { "keys": ["super+-"], "command": "toggle_comment", "args": { "block": false } },
   // Goto Definition
   {
-      "keys": ["super+left_click_mouse_button"],
+      "keys": ["super+enter"],
       "command": "lsp_symbol_definition",
       "args": {"side_by_side": false, "force_group": true, "fallback": false, "group": -1},
       "context": [
@@ -20,4 +20,7 @@
           {"key": "auto_complete_visible", "operand": false}
       ]
   },
+  // Clear
+  { "keys": ["super+k", "super+u"], "command": "" },
+  { "keys": ["super+k", "super+l"], "command": "" },
 ]

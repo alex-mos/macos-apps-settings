@@ -1,0 +1,9 @@
+<snippet>
+	<scope>source.clang</scope>
+	<tabTrigger>i</tabTrigger>
+	<content>
+		<![CDATA[
+#include <${1}.h>
+		]]>
+	</content>
+</snippet>
