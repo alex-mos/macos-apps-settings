@@ -26,6 +26,10 @@ cp -R ~/Library/Application\ Support/Sublime\ Text/Installed\ Packages/ sublime-
 mkdir -p sublime-merge/library/application-support/packages/user
 cp -R ~/Library/Application\ Support/Sublime\ Merge/Packages/User/ sublime-merge/library/application-support/packages/user/
 
+## VLC player
+mkdir -p vlc/library/preferences/
+cp -R ~/Library/Preferences/org.videolan.vlc vlc/library/preferences/
+
 ## Rectangle
 mkdir -p rectangle/library/preferences/
 cp -R ~/Library/Preferences/com.knollsoft.Rectangle.plist rectangle/library/preferences/

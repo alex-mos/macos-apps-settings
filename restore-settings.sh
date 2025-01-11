@@ -23,6 +23,8 @@ cp -R ./sublime-merge/library/application-support/packages/user/ ~/Library/Appli
 ### Rectangle
 cp ./rectangle/library/preferences/com.knollsoft.Rectangle.plist ~/Library/Preferences/com.knollsoft.Rectangle.plist
 
+### VLC player
+cp -R vlc/library/preferences/org.videolan.vlc ~/Library/Preferences/
 
 ### Firefox
 defaults write ~/Library/Preferences/org.mozilla.firefox EnterprisePoliciesEnabled -bool  true
