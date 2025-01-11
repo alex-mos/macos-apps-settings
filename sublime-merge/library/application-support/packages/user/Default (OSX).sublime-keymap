@@ -1,10 +1,6 @@
 [
   { "keys": ["super+up"], "command": "push" },
   { "keys": ["super+down"], "command": "pull" },
-  { "keys": ["alt+super+up"], "command": "" },
-  { "keys": ["alt+super+down"], "command": "" },
-  { "keys": ["alt+up"], "command": "" },
-  { "keys": ["alt+down"], "command": "" },
-  { "keys": ["super+shift+left"], "command": "" },
-  { "keys": ["super+shift+right"], "command": "next_repository_tab" }
+  { "keys": ["super+j"], "command": "prev_tab" },
+  { "keys": ["super+l"], "command": "next_tab" }
 ]

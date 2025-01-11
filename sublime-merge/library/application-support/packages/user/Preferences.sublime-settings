@@ -5,5 +5,7 @@
 	[
 		"donut",
 		"eslint",
+		"directus",
 	],
+	"git_binary": "system",
 }
