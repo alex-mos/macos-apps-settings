@@ -12,6 +12,7 @@ brew install zola
 
 # programming
 
+brew install nvm
 # fpc is a free pascal compiler
 # brew install fpc
 # brew install postgresql
@@ -23,10 +24,15 @@ brew install zola
 # install GUI applications
 brew install alt-tab
 brew install dropbox
-brew install firefox
+brew install brave-browser
+brew install foobar2000
+brew install ghostty
 brew install hiddenbar
-brew install iterm2
 brew install karabiner-elements
+# keymapp is a firmware loader for a ZSA keyboards
+brew install keymapp
+brew install little-navmap
+brew install little-snitch
 brew install netnewswire
 brew install notion
 brew install numi
@@ -35,10 +41,10 @@ brew install rectangle
 brew install sublime-merge
 brew install sublime-text
 brew install telegram
+brew install transmission
 brew install ukelele
-brew install unnaturalscrollwheels
 brew install vlc
-brew install vox
+brew install zoom
 
 
 # Things 3
