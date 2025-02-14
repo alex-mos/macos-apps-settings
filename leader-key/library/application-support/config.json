@@ -1,0 +1,98 @@
+{
+  "type" : "group",
+  "actions" : [
+    {
+      "key" : "s",
+      "type" : "group",
+      "label" : "",
+      "actions" : [
+        {
+          "type" : "application",
+          "key" : "t",
+          "label" : "",
+          "value" : "/Applications/Sublime Text.app"
+        },
+        {
+          "value" : "/Applications/Sublime Merge.app",
+          "label" : "",
+          "key" : "m",
+          "type" : "application"
+        }
+      ]
+    },
+    {
+      "value" : "/Applications/Brave Browser.app",
+      "key" : "b",
+      "type" : "application",
+      "label" : null
+    },
+    {
+      "value" : "/Applications/Obsidian.app",
+      "key" : "o",
+      "label" : null,
+      "type" : "application"
+    },
+    {
+      "value" : "/System/Applications/Mail.app",
+      "label" : null,
+      "key" : "m",
+      "type" : "application"
+    },
+    {
+      "label" : null,
+      "key" : "t",
+      "actions" : [
+        {
+          "key" : "e",
+          "label" : null,
+          "type" : "application",
+          "value" : "/Applications/Telegram.app"
+        },
+        {
+          "value" : "/Applications/Transmission.app",
+          "key" : "r",
+          "type" : "application",
+          "label" : null
+        }
+      ],
+      "type" : "group"
+    },
+    {
+      "label" : "",
+      "key" : "i",
+      "type" : "application",
+      "value" : "/Applications/iTerm.app"
+    },
+    {
+      "key" : "f",
+      "value" : "/System/Library/CoreServices/Finder.app",
+      "label" : null,
+      "type" : "application"
+    },
+    {
+      "actions" : [
+        {
+          "label" : null,
+          "value" : "/Applications/Little Navmap.app",
+          "type" : "application",
+          "key" : "n"
+        }
+      ],
+      "key" : "l",
+      "type" : "group",
+      "label" : null
+    },
+    {
+      "type" : "command",
+      "value" : "source ~/.zshrc && ~/scripts/diary",
+      "key" : "d",
+      "label" : null
+    },
+    {
+      "key" : "g",
+      "label" : null,
+      "value" : "/Applications/Ghostty.app",
+      "type" : "application"
+    }
+  ]
+}

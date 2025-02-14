@@ -1,41 +1,48 @@
-# applications settings
+## Applications settings
 
-## alt-tab
+### alt-tab
 mkdir -p alt-tab/library/preferences/
 cp -R ~/Library/Preferences/com.lwouis.alt-tab-macos.plist alt-tab/Library/Preferences/ alt-tab/library/preferences/
 
-## iterm2
-mkdir -p iterm2/library/preferences/
-cp -R ~/Library/Preferences/com.googlecode.iterm2.plist iterm2/Library/Preferences/ iterm2/library/preferences/
+### Brave browser
 
-## zsh
-mkdir -p zsh
-cp ~/.zshrc zsh
 
-## Karabiner Elements
+### Ghostty
+mkdir -p ghostty/library/application-support/
+cp /Users/ugo/Library/Application\ Support/Leader\ Key ghostty/library/application-support/
+
+### Karabiner Elements
 mkdir -p karabiner/config/
 cp ~/.config/karabiner/karabiner.json karabiner/config/
 
-## Sublime Text
+### Leader Key
+mkdir -p leader-key/library/application-support/
+cp /Users/ugo/Library/Application\ Support/Leader\ Key/config.json leader-key/library/application-support/
+
+### Sublime Text
 mkdir -p sublime-text/library/application-support/packages/user
 mkdir -p sublime-text/library/application-support/installed-packages/
 cp -R ~/Library/Application\ Support/Sublime\ Text/Packages/User/ sublime-text/library/application-support/packages/user/
 cp -R ~/Library/Application\ Support/Sublime\ Text/Installed\ Packages/ sublime-text/library/application-support/installed-packages/
 
-## Sublime Merge
+### Sublime Merge
 mkdir -p sublime-merge/library/application-support/packages/user
 cp -R ~/Library/Application\ Support/Sublime\ Merge/Packages/User/ sublime-merge/library/application-support/packages/user/
 
-## VLC player
+### VLC player
 mkdir -p vlc/library/preferences/
 cp -R ~/Library/Preferences/org.videolan.vlc vlc/library/preferences/
 
-## Rectangle
+### Rectangle
 mkdir -p rectangle/library/preferences/
 cp -R ~/Library/Preferences/com.knollsoft.Rectangle.plist rectangle/library/preferences/
 
-# scripts
+### zsh
+mkdir -p zsh
+cp ~/.zprofile zsh
+
+## scripts
 cp -R ~/scripts .
 
-# macOS user dictionary
+## macOS user dictionary
 cp ~/Library/Spelling/LocalDictionary .
