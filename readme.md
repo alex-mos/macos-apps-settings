@@ -5,11 +5,6 @@ chmod +x install-apps.sh restore-settings.sh
 ./install-apps.sh && ./restore-settings.sh
 ```
 
-### Установка приложений вручную
-
-Скробблер last.fm
-https://github.com/lambdan/swiftscrobble
-
 ## Настройки которые нужно сделать руками
 
 ### Перетаскивание тремя пальцами
