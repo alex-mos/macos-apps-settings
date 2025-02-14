@@ -9,7 +9,7 @@ cp -R ~/Library/Preferences/com.lwouis.alt-tab-macos.plist alt-tab/Library/Prefe
 
 ### Ghostty
 mkdir -p ghostty/library/application-support/
-cp /Users/ugo/Library/Application\ Support/Leader\ Key ghostty/library/application-support/
+cp -R /Users/ugo/Library/Application\ Support/com.mitchellh.ghostty/ ghostty/library/application-support/
 
 ### Karabiner Elements
 mkdir -p karabiner/config/
@@ -40,6 +40,7 @@ cp -R ~/Library/Preferences/com.knollsoft.Rectangle.plist rectangle/library/pref
 ### zsh
 mkdir -p zsh
 cp ~/.zprofile zsh
+cp ~/.zshrc zsh
 
 ## scripts
 cp -R ~/scripts .

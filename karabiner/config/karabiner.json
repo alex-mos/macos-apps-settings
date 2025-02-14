@@ -1,36 +1,18 @@
 {
-    "global": {
-        "ask_for_confirmation_before_quitting": true,
-        "check_for_updates_on_startup": false,
-        "show_in_menu_bar": true,
-        "show_profile_name_in_menu_bar": false,
-        "unsafe_ui": false
-    },
+    "global": { "check_for_updates_on_startup": false },
     "profiles": [
         {
             "complex_modifications": {
-                "parameters": {
-                    "basic.simultaneous_threshold_milliseconds": 50,
-                    "basic.to_delayed_action_delay_milliseconds": 500,
-                    "basic.to_if_alone_timeout_milliseconds": 1000,
-                    "basic.to_if_held_down_threshold_milliseconds": 250,
-                    "mouse_motion_to_scroll.speed": 100
-                },
+                "parameters": { "basic.to_if_held_down_threshold_milliseconds": 250 },
                 "rules": [
                     {
                         "description": "long a to A",
                         "manipulators": [
                             {
-                                "from": {
-                                    "key_code": "a"
-                                },
-                                "to": {
-                                    "key_code": "a"
-                                },
+                                "from": { "key_code": "a" },
+                                "to": { "key_code": "a" },
                                 "to_if_held_down": [
-                                    {
-                                        "key_code": "delete_or_backspace"
-                                    },
+                                    { "key_code": "delete_or_backspace" },
                                     {
                                         "key_code": "a",
                                         "modifiers": "left_option"
@@ -44,16 +26,10 @@
                         "description": "long b to B",
                         "manipulators": [
                             {
-                                "from": {
-                                    "key_code": "b"
-                                },
-                                "to": {
-                                    "key_code": "b"
-                                },
+                                "from": { "key_code": "b" },
+                                "to": { "key_code": "b" },
                                 "to_if_held_down": [
-                                    {
-                                        "key_code": "delete_or_backspace"
-                                    },
+                                    { "key_code": "delete_or_backspace" },
                                     {
                                         "key_code": "b",
                                         "modifiers": "left_option"
@@ -67,16 +43,10 @@
                         "description": "long c to C",
                         "manipulators": [
                             {
-                                "from": {
-                                    "key_code": "c"
-                                },
-                                "to": {
-                                    "key_code": "c"
-                                },
+                                "from": { "key_code": "c" },
+                                "to": { "key_code": "c" },
                                 "to_if_held_down": [
-                                    {
-                                        "key_code": "delete_or_backspace"
-                                    },
+                                    { "key_code": "delete_or_backspace" },
                                     {
                                         "key_code": "c",
                                         "modifiers": "left_option"
@@ -90,16 +60,10 @@
                         "description": "long d to D",
                         "manipulators": [
                             {
-                                "from": {
-                                    "key_code": "d"
-                                },
-                                "to": {
-                                    "key_code": "d"
-                                },
+                                "from": { "key_code": "d" },
+                                "to": { "key_code": "d" },
                                 "to_if_held_down": [
-                                    {
-                                        "key_code": "delete_or_backspace"
-                                    },
+                                    { "key_code": "delete_or_backspace" },
                                     {
                                         "key_code": "d",
                                         "modifiers": "left_option"
@@ -113,16 +77,10 @@
                         "description": "long e to E",
                         "manipulators": [
                             {
-                                "from": {
-                                    "key_code": "e"
-                                },
-                                "to": {
-                                    "key_code": "e"
-                                },
+                                "from": { "key_code": "e" },
+                                "to": { "key_code": "e" },
                                 "to_if_held_down": [
-                                    {
-                                        "key_code": "delete_or_backspace"
-                                    },
+                                    { "key_code": "delete_or_backspace" },
                                     {
                                         "key_code": "e",
                                         "modifiers": "left_option"
@@ -136,16 +94,10 @@
                         "description": "long f to F",
                         "manipulators": [
                             {
-                                "from": {
-                                    "key_code": "g"
-                                },
-                                "to": {
-                                    "key_code": "g"
-                                },
+                                "from": { "key_code": "g" },
+                                "to": { "key_code": "g" },
                                 "to_if_held_down": [
-                                    {
-                                        "key_code": "delete_or_backspace"
-                                    },
+                                    { "key_code": "delete_or_backspace" },
                                     {
                                         "key_code": "g",
                                         "modifiers": "left_option"
@@ -159,16 +111,10 @@
                         "description": "long e to E",
                         "manipulators": [
                             {
-                                "from": {
-                                    "key_code": "e"
-                                },
-                                "to": {
-                                    "key_code": "e"
-                                },
+                                "from": { "key_code": "e" },
+                                "to": { "key_code": "e" },
                                 "to_if_held_down": [
-                                    {
-                                        "key_code": "delete_or_backspace"
-                                    },
+                                    { "key_code": "delete_or_backspace" },
                                     {
                                         "key_code": "e",
                                         "modifiers": "left_option"
@@ -182,16 +128,10 @@
                         "description": "long f to F",
                         "manipulators": [
                             {
-                                "from": {
-                                    "key_code": "f"
-                                },
-                                "to": {
-                                    "key_code": "f"
-                                },
+                                "from": { "key_code": "f" },
+                                "to": { "key_code": "f" },
                                 "to_if_held_down": [
-                                    {
-                                        "key_code": "delete_or_backspace"
-                                    },
+                                    { "key_code": "delete_or_backspace" },
                                     {
                                         "key_code": "f",
                                         "modifiers": "left_option"
@@ -205,16 +145,10 @@
                         "description": "long g to G",
                         "manipulators": [
                             {
-                                "from": {
-                                    "key_code": "g"
-                                },
-                                "to": {
-                                    "key_code": "g"
-                                },
+                                "from": { "key_code": "g" },
+                                "to": { "key_code": "g" },
                                 "to_if_held_down": [
-                                    {
-                                        "key_code": "delete_or_backspace"
-                                    },
+                                    { "key_code": "delete_or_backspace" },
                                     {
                                         "key_code": "g",
                                         "modifiers": "left_option"
@@ -228,16 +162,10 @@
                         "description": "long h to H",
                         "manipulators": [
                             {
-                                "from": {
-                                    "key_code": "h"
-                                },
-                                "to": {
-                                    "key_code": "h"
-                                },
+                                "from": { "key_code": "h" },
+                                "to": { "key_code": "h" },
                                 "to_if_held_down": [
-                                    {
-                                        "key_code": "delete_or_backspace"
-                                    },
+                                    { "key_code": "delete_or_backspace" },
                                     {
                                         "key_code": "h",
                                         "modifiers": "left_option"
@@ -251,16 +179,10 @@
                         "description": "long i to I",
                         "manipulators": [
                             {
-                                "from": {
-                                    "key_code": "i"
-                                },
-                                "to": {
-                                    "key_code": "i"
-                                },
+                                "from": { "key_code": "i" },
+                                "to": { "key_code": "i" },
                                 "to_if_held_down": [
-                                    {
-                                        "key_code": "delete_or_backspace"
-                                    },
+                                    { "key_code": "delete_or_backspace" },
                                     {
                                         "key_code": "i",
                                         "modifiers": "left_option"
@@ -274,16 +196,10 @@
                         "description": "long j to J",
                         "manipulators": [
                             {
-                                "from": {
-                                    "key_code": "j"
-                                },
-                                "to": {
-                                    "key_code": "j"
-                                },
+                                "from": { "key_code": "j" },
+                                "to": { "key_code": "j" },
                                 "to_if_held_down": [
-                                    {
-                                        "key_code": "delete_or_backspace"
-                                    },
+                                    { "key_code": "delete_or_backspace" },
                                     {
                                         "key_code": "j",
                                         "modifiers": "left_option"
@@ -297,16 +213,10 @@
                         "description": "long k to K",
                         "manipulators": [
                             {
-                                "from": {
-                                    "key_code": "k"
-                                },
-                                "to": {
-                                    "key_code": "k"
-                                },
+                                "from": { "key_code": "k" },
+                                "to": { "key_code": "k" },
                                 "to_if_held_down": [
-                                    {
-                                        "key_code": "delete_or_backspace"
-                                    },
+                                    { "key_code": "delete_or_backspace" },
                                     {
                                         "key_code": "k",
                                         "modifiers": "left_option"
@@ -320,16 +230,10 @@
                         "description": "long l to L",
                         "manipulators": [
                             {
-                                "from": {
-                                    "key_code": "l"
-                                },
-                                "to": {
-                                    "key_code": "l"
-                                },
+                                "from": { "key_code": "l" },
+                                "to": { "key_code": "l" },
                                 "to_if_held_down": [
-                                    {
-                                        "key_code": "delete_or_backspace"
-                                    },
+                                    { "key_code": "delete_or_backspace" },
                                     {
                                         "key_code": "l",
                                         "modifiers": "left_option"
@@ -343,16 +247,10 @@
                         "description": "long m to M",
                         "manipulators": [
                             {
-                                "from": {
-                                    "key_code": "m"
-                                },
-                                "to": {
-                                    "key_code": "m"
-                                },
+                                "from": { "key_code": "m" },
+                                "to": { "key_code": "m" },
                                 "to_if_held_down": [
-                                    {
-                                        "key_code": "delete_or_backspace"
-                                    },
+                                    { "key_code": "delete_or_backspace" },
                                     {
                                         "key_code": "m",
                                         "modifiers": "left_option"
@@ -366,16 +264,10 @@
                         "description": "long n to N",
                         "manipulators": [
                             {
-                                "from": {
-                                    "key_code": "n"
-                                },
-                                "to": {
-                                    "key_code": "n"
-                                },
+                                "from": { "key_code": "n" },
+                                "to": { "key_code": "n" },
                                 "to_if_held_down": [
-                                    {
-                                        "key_code": "delete_or_backspace"
-                                    },
+                                    { "key_code": "delete_or_backspace" },
                                     {
                                         "key_code": "n",
                                         "modifiers": "left_option"
@@ -389,16 +281,10 @@
                         "description": "long o to O",
                         "manipulators": [
                             {
-                                "from": {
-                                    "key_code": "o"
-                                },
-                                "to": {
-                                    "key_code": "o"
-                                },
+                                "from": { "key_code": "o" },
+                                "to": { "key_code": "o" },
                                 "to_if_held_down": [
-                                    {
-                                        "key_code": "delete_or_backspace"
-                                    },
+                                    { "key_code": "delete_or_backspace" },
                                     {
                                         "key_code": "o",
                                         "modifiers": "left_option"
@@ -412,16 +298,10 @@
                         "description": "long p to P",
                         "manipulators": [
                             {
-                                "from": {
-                                    "key_code": "p"
-                                },
-                                "to": {
-                                    "key_code": "p"
-                                },
+                                "from": { "key_code": "p" },
+                                "to": { "key_code": "p" },
                                 "to_if_held_down": [
-                                    {
-                                        "key_code": "delete_or_backspace"
-                                    },
+                                    { "key_code": "delete_or_backspace" },
                                     {
                                         "key_code": "p",
                                         "modifiers": "left_option"
@@ -435,16 +315,10 @@
                         "description": "long q to Q",
                         "manipulators": [
                             {
-                                "from": {
-                                    "key_code": "q"
-                                },
-                                "to": {
-                                    "key_code": "q"
-                                },
+                                "from": { "key_code": "q" },
+                                "to": { "key_code": "q" },
                                 "to_if_held_down": [
-                                    {
-                                        "key_code": "delete_or_backspace"
-                                    },
+                                    { "key_code": "delete_or_backspace" },
                                     {
                                         "key_code": "q",
                                         "modifiers": "left_option"
@@ -458,16 +332,10 @@
                         "description": "long r to R",
                         "manipulators": [
                             {
-                                "from": {
-                                    "key_code": "r"
-                                },
-                                "to": {
-                                    "key_code": "r"
-                                },
+                                "from": { "key_code": "r" },
+                                "to": { "key_code": "r" },
                                 "to_if_held_down": [
-                                    {
-                                        "key_code": "delete_or_backspace"
-                                    },
+                                    { "key_code": "delete_or_backspace" },
                                     {
                                         "key_code": "r",
                                         "modifiers": "left_option"
@@ -481,16 +349,10 @@
                         "description": "long s to S",
                         "manipulators": [
                             {
-                                "from": {
-                                    "key_code": "s"
-                                },
-                                "to": {
-                                    "key_code": "s"
-                                },
+                                "from": { "key_code": "s" },
+                                "to": { "key_code": "s" },
                                 "to_if_held_down": [
-                                    {
-                                        "key_code": "delete_or_backspace"
-                                    },
+                                    { "key_code": "delete_or_backspace" },
                                     {
                                         "key_code": "s",
                                         "modifiers": "left_option"
@@ -504,16 +366,10 @@
                         "description": "long t to T",
                         "manipulators": [
                             {
-                                "from": {
-                                    "key_code": "t"
-                                },
-                                "to": {
-                                    "key_code": "t"
-                                },
+                                "from": { "key_code": "t" },
+                                "to": { "key_code": "t" },
                                 "to_if_held_down": [
-                                    {
-                                        "key_code": "delete_or_backspace"
-                                    },
+                                    { "key_code": "delete_or_backspace" },
                                     {
                                         "key_code": "t",
                                         "modifiers": "left_option"
@@ -527,16 +383,10 @@
                         "description": "long u to U",
                         "manipulators": [
                             {
-                                "from": {
-                                    "key_code": "u"
-                                },
-                                "to": {
-                                    "key_code": "u"
-                                },
+                                "from": { "key_code": "u" },
+                                "to": { "key_code": "u" },
                                 "to_if_held_down": [
-                                    {
-                                        "key_code": "delete_or_backspace"
-                                    },
+                                    { "key_code": "delete_or_backspace" },
                                     {
                                         "key_code": "u",
                                         "modifiers": "left_option"
@@ -550,16 +400,10 @@
                         "description": "long v to V",
                         "manipulators": [
                             {
-                                "from": {
-                                    "key_code": "v"
-                                },
-                                "to": {
-                                    "key_code": "v"
-                                },
+                                "from": { "key_code": "v" },
+                                "to": { "key_code": "v" },
                                 "to_if_held_down": [
-                                    {
-                                        "key_code": "delete_or_backspace"
-                                    },
+                                    { "key_code": "delete_or_backspace" },
                                     {
                                         "key_code": "v",
                                         "modifiers": "left_option"
@@ -573,16 +417,10 @@
                         "description": "long w to W",
                         "manipulators": [
                             {
-                                "from": {
-                                    "key_code": "w"
-                                },
-                                "to": {
-                                    "key_code": "w"
-                                },
+                                "from": { "key_code": "w" },
+                                "to": { "key_code": "w" },
                                 "to_if_held_down": [
-                                    {
-                                        "key_code": "delete_or_backspace"
-                                    },
+                                    { "key_code": "delete_or_backspace" },
                                     {
                                         "key_code": "w",
                                         "modifiers": "left_option"
@@ -596,16 +434,10 @@
                         "description": "long x to X",
                         "manipulators": [
                             {
-                                "from": {
-                                    "key_code": "x"
-                                },
-                                "to": {
-                                    "key_code": "x"
-                                },
+                                "from": { "key_code": "x" },
+                                "to": { "key_code": "x" },
                                 "to_if_held_down": [
-                                    {
-                                        "key_code": "delete_or_backspace"
-                                    },
+                                    { "key_code": "delete_or_backspace" },
                                     {
                                         "key_code": "x",
                                         "modifiers": "left_option"
@@ -619,16 +451,10 @@
                         "description": "long y to Y",
                         "manipulators": [
                             {
-                                "from": {
-                                    "key_code": "y"
-                                },
-                                "to": {
-                                    "key_code": "y"
-                                },
+                                "from": { "key_code": "y" },
+                                "to": { "key_code": "y" },
                                 "to_if_held_down": [
-                                    {
-                                        "key_code": "delete_or_backspace"
-                                    },
+                                    { "key_code": "delete_or_backspace" },
                                     {
                                         "key_code": "y",
                                         "modifiers": "left_option"
@@ -642,16 +468,10 @@
                         "description": "long z to Z",
                         "manipulators": [
                             {
-                                "from": {
-                                    "key_code": "z"
-                                },
-                                "to": {
-                                    "key_code": "z"
-                                },
+                                "from": { "key_code": "z" },
+                                "to": { "key_code": "z" },
                                 "to_if_held_down": [
-                                    {
-                                        "key_code": "delete_or_backspace"
-                                    },
+                                    { "key_code": "delete_or_backspace" },
                                     {
                                         "key_code": "z",
                                         "modifiers": "left_option"
@@ -665,16 +485,10 @@
                         "description": "long б to Б",
                         "manipulators": [
                             {
-                                "from": {
-                                    "key_code": "open_bracket"
-                                },
-                                "to": {
-                                    "key_code": "open_bracket"
-                                },
+                                "from": { "key_code": "open_bracket" },
+                                "to": { "key_code": "open_bracket" },
                                 "to_if_held_down": [
-                                    {
-                                        "key_code": "delete_or_backspace"
-                                    },
+                                    { "key_code": "delete_or_backspace" },
                                     {
                                         "key_code": "open_bracket",
                                         "modifiers": "left_option"
@@ -688,16 +502,10 @@
                         "description": "long х to Х",
                         "manipulators": [
                             {
-                                "from": {
-                                    "key_code": "close_bracket"
-                                },
-                                "to": {
-                                    "key_code": "close_bracket"
-                                },
+                                "from": { "key_code": "close_bracket" },
+                                "to": { "key_code": "close_bracket" },
                                 "to_if_held_down": [
-                                    {
-                                        "key_code": "delete_or_backspace"
-                                    },
+                                    { "key_code": "delete_or_backspace" },
                                     {
                                         "key_code": "close_bracket",
                                         "modifiers": "left_option"
@@ -711,16 +519,10 @@
                         "description": "long ж to Ж",
                         "manipulators": [
                             {
-                                "from": {
-                                    "key_code": "semicolon"
-                                },
-                                "to": {
-                                    "key_code": "semicolon"
-                                },
+                                "from": { "key_code": "semicolon" },
+                                "to": { "key_code": "semicolon" },
                                 "to_if_held_down": [
-                                    {
-                                        "key_code": "delete_or_backspace"
-                                    },
+                                    { "key_code": "delete_or_backspace" },
                                     {
                                         "key_code": "semicolon",
                                         "modifiers": "left_option"
@@ -734,16 +536,10 @@
                         "description": "long э to Э",
                         "manipulators": [
                             {
-                                "from": {
-                                    "key_code": "quote"
-                                },
-                                "to": {
-                                    "key_code": "quote"
-                                },
+                                "from": { "key_code": "quote" },
+                                "to": { "key_code": "quote" },
                                 "to_if_held_down": [
-                                    {
-                                        "key_code": "delete_or_backspace"
-                                    },
+                                    { "key_code": "delete_or_backspace" },
                                     {
                                         "key_code": "quote",
                                         "modifiers": "left_option"
@@ -757,16 +553,10 @@
                         "description": "long ю to Ю",
                         "manipulators": [
                             {
-                                "from": {
-                                    "key_code": "slash"
-                                },
-                                "to": {
-                                    "key_code": "slash"
-                                },
+                                "from": { "key_code": "slash" },
+                                "to": { "key_code": "slash" },
                                 "to_if_held_down": [
-                                    {
-                                        "key_code": "delete_or_backspace"
-                                    },
+                                    { "key_code": "delete_or_backspace" },
                                     {
                                         "key_code": "slash",
                                         "modifiers": "left_option"
@@ -780,16 +570,10 @@
                         "description": "long - to —",
                         "manipulators": [
                             {
-                                "from": {
-                                    "key_code": "backslash"
-                                },
-                                "to": {
-                                    "key_code": "backslash"
-                                },
+                                "from": { "key_code": "backslash" },
+                                "to": { "key_code": "backslash" },
                                 "to_if_held_down": [
-                                    {
-                                        "key_code": "delete_or_backspace"
-                                    },
+                                    { "key_code": "delete_or_backspace" },
                                     {
                                         "key_code": "backslash",
                                         "modifiers": "left_option"
@@ -803,16 +587,10 @@
                         "description": "long ё to Ё",
                         "manipulators": [
                             {
-                                "from": {
-                                    "key_code": "grave_accent_and_tilde"
-                                },
-                                "to": {
-                                    "key_code": "grave_accent_and_tilde"
-                                },
+                                "from": { "key_code": "grave_accent_and_tilde" },
+                                "to": { "key_code": "grave_accent_and_tilde" },
                                 "to_if_held_down": [
-                                    {
-                                        "key_code": "delete_or_backspace"
-                                    },
+                                    { "key_code": "delete_or_backspace" },
                                     {
                                         "key_code": "grave_accent_and_tilde",
                                         "modifiers": "left_option"
@@ -828,11 +606,7 @@
                             {
                                 "from": {
                                     "key_code": "home",
-                                    "modifiers": {
-                                        "optional": [
-                                            "any"
-                                        ]
-                                    }
+                                    "modifiers": { "optional": ["any"] }
                                 },
                                 "to": [
                                     {
@@ -850,11 +624,7 @@
                             {
                                 "from": {
                                     "key_code": "end",
-                                    "modifiers": {
-                                        "optional": [
-                                            "any"
-                                        ]
-                                    }
+                                    "modifiers": { "optional": ["any"] }
                                 },
                                 "to": [
                                     {
@@ -872,11 +642,7 @@
                             {
                                 "from": {
                                     "key_code": "caps_lock",
-                                    "modifiers": {
-                                        "optional": [
-                                            "any"
-                                        ]
-                                    }
+                                    "modifiers": { "optional": ["any"] }
                                 },
                                 "to": [
                                     {
@@ -895,12 +661,8 @@
                                 "from": {
                                     "key_code": "j",
                                     "modifiers": {
-                                        "mandatory": [
-                                            "right_control"
-                                        ],
-                                        "optional": [
-                                            "any"
-                                        ]
+                                        "mandatory": ["right_control"],
+                                        "optional": ["any"]
                                     }
                                 },
                                 "to": [
@@ -915,12 +677,8 @@
                                 "from": {
                                     "key_code": "l",
                                     "modifiers": {
-                                        "mandatory": [
-                                            "right_control"
-                                        ],
-                                        "optional": [
-                                            "any"
-                                        ]
+                                        "mandatory": ["right_control"],
+                                        "optional": ["any"]
                                     }
                                 },
                                 "to": [
@@ -935,12 +693,8 @@
                                 "from": {
                                     "key_code": "k",
                                     "modifiers": {
-                                        "mandatory": [
-                                            "right_control"
-                                        ],
-                                        "optional": [
-                                            "any"
-                                        ]
+                                        "mandatory": ["right_control"],
+                                        "optional": ["any"]
                                     }
                                 },
                                 "to": [
@@ -955,12 +709,8 @@
                                 "from": {
                                     "key_code": "i",
                                     "modifiers": {
-                                        "mandatory": [
-                                            "right_control"
-                                        ],
-                                        "optional": [
-                                            "any"
-                                        ]
+                                        "mandatory": ["right_control"],
+                                        "optional": ["any"]
                                     }
                                 },
                                 "to": [
@@ -975,12 +725,8 @@
                                 "from": {
                                     "key_code": "u",
                                     "modifiers": {
-                                        "mandatory": [
-                                            "right_control"
-                                        ],
-                                        "optional": [
-                                            "any"
-                                        ]
+                                        "mandatory": ["right_control"],
+                                        "optional": ["any"]
                                     }
                                 },
                                 "to": [
@@ -995,12 +741,8 @@
                                 "from": {
                                     "key_code": "o",
                                     "modifiers": {
-                                        "mandatory": [
-                                            "right_control"
-                                        ],
-                                        "optional": [
-                                            "any"
-                                        ]
+                                        "mandatory": ["right_control"],
+                                        "optional": ["any"]
                                     }
                                 },
                                 "to": [
@@ -1015,12 +757,8 @@
                                 "from": {
                                     "key_code": "h",
                                     "modifiers": {
-                                        "mandatory": [
-                                            "right_control"
-                                        ],
-                                        "optional": [
-                                            "any"
-                                        ]
+                                        "mandatory": ["right_control"],
+                                        "optional": ["any"]
                                     }
                                 },
                                 "to": [
@@ -1035,12 +773,8 @@
                                 "from": {
                                     "key_code": "semicolon",
                                     "modifiers": {
-                                        "mandatory": [
-                                            "right_control"
-                                        ],
-                                        "optional": [
-                                            "any"
-                                        ]
+                                        "mandatory": ["right_control"],
+                                        "optional": ["any"]
                                     }
                                 },
                                 "to": [
@@ -1059,19 +793,9 @@
                             {
                                 "from": {
                                     "key_code": "f16",
-                                    "modifiers": {
-                                        "optional": [
-                                            "any"
-                                        ]
-                                    }
+                                    "modifiers": { "optional": ["any"] }
                                 },
-                                "to": [
-                                    {
-                                        "select_input_source": {
-                                            "input_source_id": "^me.mospan.keyboardlayout.mospan.english—mospan$"
-                                        }
-                                    }
-                                ],
+                                "to": [{ "select_input_source": { "input_source_id": "^me.mospan.keyboardlayout.mospan.english—mospan$" } }],
                                 "type": "basic"
                             }
                         ]
@@ -1082,19 +806,9 @@
                             {
                                 "from": {
                                     "key_code": "f17",
-                                    "modifiers": {
-                                        "optional": [
-                                            "any"
-                                        ]
-                                    }
+                                    "modifiers": { "optional": ["any"] }
                                 },
-                                "to": [
-                                    {
-                                        "select_input_source": {
-                                            "input_source_id": "^me.mospan.keyboardlayout.mospan.russian—mospan$"
-                                        }
-                                    }
-                                ],
+                                "to": [{ "select_input_source": { "input_source_id": "^me.mospan.keyboardlayout.mospan.russian—mospan$" } }],
                                 "type": "basic"
                             }
                         ]
@@ -1103,357 +817,67 @@
             },
             "devices": [
                 {
-                    "disable_built_in_keyboard_if_exists": false,
-                    "fn_function_keys": [],
-                    "game_pad_swap_sticks": false,
                     "identifiers": {
-                        "is_game_pad": false,
                         "is_keyboard": true,
-                        "is_pointing_device": false,
-                        "product_id": 834,
-                        "vendor_id": 1452
-                    },
-                    "ignore": false,
-                    "manipulate_caps_lock_led": true,
-                    "mouse_flip_horizontal_wheel": false,
-                    "mouse_flip_vertical_wheel": false,
-                    "mouse_flip_x": false,
-                    "mouse_flip_y": false,
-                    "mouse_swap_wheels": false,
-                    "mouse_swap_xy": false,
-                    "simple_modifications": [],
-                    "treat_as_built_in_keyboard": false
-                },
-                {
-                    "disable_built_in_keyboard_if_exists": false,
-                    "fn_function_keys": [],
-                    "game_pad_swap_sticks": false,
-                    "identifiers": {
-                        "is_game_pad": false,
-                        "is_keyboard": false,
-                        "is_pointing_device": true,
-                        "product_id": 834,
-                        "vendor_id": 1452
-                    },
-                    "ignore": true,
-                    "manipulate_caps_lock_led": false,
-                    "mouse_flip_horizontal_wheel": false,
-                    "mouse_flip_vertical_wheel": false,
-                    "mouse_flip_x": false,
-                    "mouse_flip_y": false,
-                    "mouse_swap_wheels": false,
-                    "mouse_swap_xy": false,
-                    "simple_modifications": [],
-                    "treat_as_built_in_keyboard": false
-                },
-                {
-                    "disable_built_in_keyboard_if_exists": false,
-                    "fn_function_keys": [],
-                    "game_pad_swap_sticks": false,
-                    "identifiers": {
-                        "is_game_pad": false,
-                        "is_keyboard": true,
-                        "is_pointing_device": false,
-                        "product_id": 591,
-                        "vendor_id": 1452
-                    },
-                    "ignore": false,
-                    "manipulate_caps_lock_led": true,
-                    "mouse_flip_horizontal_wheel": false,
-                    "mouse_flip_vertical_wheel": false,
-                    "mouse_flip_x": false,
-                    "mouse_flip_y": false,
-                    "mouse_swap_wheels": false,
-                    "mouse_swap_xy": false,
-                    "simple_modifications": [],
-                    "treat_as_built_in_keyboard": false
-                },
-                {
-                    "disable_built_in_keyboard_if_exists": false,
-                    "fn_function_keys": [],
-                    "game_pad_swap_sticks": false,
-                    "identifiers": {
-                        "is_game_pad": false,
-                        "is_keyboard": false,
-                        "is_pointing_device": true,
-                        "product_id": 781,
-                        "vendor_id": 1452
-                    },
-                    "ignore": true,
-                    "manipulate_caps_lock_led": false,
-                    "mouse_flip_horizontal_wheel": false,
-                    "mouse_flip_vertical_wheel": false,
-                    "mouse_flip_x": false,
-                    "mouse_flip_y": false,
-                    "mouse_swap_wheels": false,
-                    "mouse_swap_xy": false,
-                    "simple_modifications": [],
-                    "treat_as_built_in_keyboard": false
-                },
-                {
-                    "disable_built_in_keyboard_if_exists": false,
-                    "fn_function_keys": [],
-                    "game_pad_swap_sticks": false,
-                    "identifiers": {
-                        "is_game_pad": false,
-                        "is_keyboard": true,
-                        "is_pointing_device": false,
-                        "product_id": 49284,
-                        "vendor_id": 1133
-                    },
-                    "ignore": false,
-                    "manipulate_caps_lock_led": true,
-                    "mouse_flip_horizontal_wheel": false,
-                    "mouse_flip_vertical_wheel": false,
-                    "mouse_flip_x": false,
-                    "mouse_flip_y": false,
-                    "mouse_swap_wheels": false,
-                    "mouse_swap_xy": false,
-                    "simple_modifications": [],
-                    "treat_as_built_in_keyboard": false
-                },
-                {
-                    "disable_built_in_keyboard_if_exists": false,
-                    "fn_function_keys": [],
-                    "game_pad_swap_sticks": false,
-                    "identifiers": {
-                        "is_game_pad": false,
-                        "is_keyboard": false,
-                        "is_pointing_device": true,
-                        "product_id": 49284,
-                        "vendor_id": 1133
-                    },
-                    "ignore": true,
-                    "manipulate_caps_lock_led": false,
-                    "mouse_flip_horizontal_wheel": false,
-                    "mouse_flip_vertical_wheel": false,
-                    "mouse_flip_x": false,
-                    "mouse_flip_y": false,
-                    "mouse_swap_wheels": false,
-                    "mouse_swap_xy": false,
-                    "simple_modifications": [],
-                    "treat_as_built_in_keyboard": false
-                },
-                {
-                    "disable_built_in_keyboard_if_exists": false,
-                    "fn_function_keys": [],
-                    "game_pad_swap_sticks": false,
-                    "identifiers": {
-                        "is_game_pad": false,
-                        "is_keyboard": false,
-                        "is_pointing_device": true,
-                        "product_id": 613,
-                        "vendor_id": 76
-                    },
-                    "ignore": true,
-                    "manipulate_caps_lock_led": false,
-                    "mouse_flip_horizontal_wheel": false,
-                    "mouse_flip_vertical_wheel": false,
-                    "mouse_flip_x": false,
-                    "mouse_flip_y": false,
-                    "mouse_swap_wheels": false,
-                    "mouse_swap_xy": false,
-                    "simple_modifications": [],
-                    "treat_as_built_in_keyboard": false
-                },
-                {
-                    "disable_built_in_keyboard_if_exists": false,
-                    "fn_function_keys": [],
-                    "game_pad_swap_sticks": false,
-                    "identifiers": {
-                        "is_game_pad": false,
-                        "is_keyboard": true,
-                        "is_pointing_device": false,
                         "product_id": 6505,
                         "vendor_id": 12951
                     },
-                    "ignore": false,
-                    "manipulate_caps_lock_led": false,
-                    "mouse_flip_horizontal_wheel": false,
-                    "mouse_flip_vertical_wheel": false,
-                    "mouse_flip_x": false,
-                    "mouse_flip_y": false,
-                    "mouse_swap_wheels": false,
-                    "mouse_swap_xy": false,
-                    "simple_modifications": [],
-                    "treat_as_built_in_keyboard": false
-                },
-                {
-                    "disable_built_in_keyboard_if_exists": false,
-                    "fn_function_keys": [],
-                    "game_pad_swap_sticks": false,
-                    "identifiers": {
-                        "is_game_pad": false,
-                        "is_keyboard": false,
-                        "is_pointing_device": true,
-                        "product_id": 6505,
-                        "vendor_id": 12951
-                    },
-                    "ignore": true,
-                    "manipulate_caps_lock_led": false,
-                    "mouse_flip_horizontal_wheel": false,
-                    "mouse_flip_vertical_wheel": false,
-                    "mouse_flip_x": false,
-                    "mouse_flip_y": false,
-                    "mouse_swap_wheels": false,
-                    "mouse_swap_xy": false,
-                    "simple_modifications": [],
-                    "treat_as_built_in_keyboard": false
+                    "manipulate_caps_lock_led": false
                 }
             ],
             "fn_function_keys": [
                 {
-                    "from": {
-                        "key_code": "f1"
-                    },
-                    "to": [
-                        {
-                            "key_code": "f1"
-                        }
-                    ]
+                    "from": { "key_code": "f1" },
+                    "to": [{ "key_code": "f1" }]
                 },
                 {
-                    "from": {
-                        "key_code": "f2"
-                    },
-                    "to": [
-                        {
-                            "key_code": "f2"
-                        }
-                    ]
+                    "from": { "key_code": "f2" },
+                    "to": [{ "key_code": "f2" }]
                 },
                 {
-                    "from": {
-                        "key_code": "f3"
-                    },
-                    "to": [
-                        {
-                            "key_code": "f3"
-                        }
-                    ]
+                    "from": { "key_code": "f3" },
+                    "to": [{ "key_code": "f3" }]
                 },
                 {
-                    "from": {
-                        "key_code": "f4"
-                    },
-                    "to": [
-                        {
-                            "key_code": "f4"
-                        }
-                    ]
+                    "from": { "key_code": "f4" },
+                    "to": [{ "key_code": "f4" }]
                 },
                 {
-                    "from": {
-                        "key_code": "f5"
-                    },
-                    "to": [
-                        {
-                            "key_code": "f5"
-                        }
-                    ]
+                    "from": { "key_code": "f5" },
+                    "to": [{ "key_code": "f5" }]
                 },
                 {
-                    "from": {
-                        "key_code": "f6"
-                    },
-                    "to": [
-                        {
-                            "key_code": "f6"
-                        }
-                    ]
+                    "from": { "key_code": "f7" },
+                    "to": [{ "key_code": "f7" }]
                 },
                 {
-                    "from": {
-                        "key_code": "f7"
-                    },
-                    "to": [
-                        {
-                            "key_code": "f7"
-                        }
-                    ]
+                    "from": { "key_code": "f8" },
+                    "to": [{ "key_code": "f8" }]
                 },
                 {
-                    "from": {
-                        "key_code": "f8"
-                    },
-                    "to": [
-                        {
-                            "key_code": "f8"
-                        }
-                    ]
+                    "from": { "key_code": "f9" },
+                    "to": [{ "key_code": "f9" }]
                 },
                 {
-                    "from": {
-                        "key_code": "f9"
-                    },
-                    "to": [
-                        {
-                            "key_code": "f9"
-                        }
-                    ]
-                },
-                {
-                    "from": {
-                        "key_code": "f10"
-                    },
-                    "to": [
-                        {
-                            "consumer_key_code": "play_or_pause"
-                        }
-                    ]
-                },
-                {
-                    "from": {
-                        "key_code": "f11"
-                    },
-                    "to": [
-                        {
-                            "consumer_key_code": "volume_decrement"
-                        }
-                    ]
-                },
-                {
-                    "from": {
-                        "key_code": "f12"
-                    },
-                    "to": [
-                        {
-                            "consumer_key_code": "volume_increment"
-                        }
-                    ]
+                    "from": { "key_code": "f10" },
+                    "to": [{ "consumer_key_code": "play_or_pause" }]
                 }
             ],
             "name": "Default profile",
-            "parameters": {
-                "delay_milliseconds_before_open_device": 1000
-            },
             "selected": true,
             "simple_modifications": [
                 {
-                    "from": {
-                        "key_code": "right_command"
-                    },
-                    "to": [
-                        {
-                            "key_code": "f16"
-                        }
-                    ]
+                    "from": { "key_code": "right_command" },
+                    "to": [{ "key_code": "f16" }]
                 },
                 {
-                    "from": {
-                        "key_code": "right_option"
-                    },
-                    "to": [
-                        {
-                            "key_code": "f17"
-                        }
-                    ]
+                    "from": { "key_code": "right_option" },
+                    "to": [{ "key_code": "f17" }]
                 }
             ],
             "virtual_hid_keyboard": {
                 "country_code": 1,
-                "indicate_sticky_modifier_keys_state": true,
-                "mouse_key_xy_scale": 100
+                "keyboard_type_v2": "ansi"
             }
         }
     ]

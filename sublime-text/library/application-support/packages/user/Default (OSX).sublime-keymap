@@ -3,7 +3,7 @@
   { "keys": ["super+v"], "command": "paste_and_indent" },
   { "keys": ["super+e"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
   { "keys": ["super+t"], "command": "show_overlay", "args": {"overlay": "command_palette"} },
-  { "keys": ["super+k"], "command": "find_under_expand" },
+  { "keys": ["super+down"], "command": "find_under_expand" },
   { "keys": ["super+i"], "command": "expand_selection", "args": {"to": "scope"} },
   { "keys": ["super+d"], "command": "duplicate_line" },
   { "keys": ["super+j"], "command": "prev_view" },

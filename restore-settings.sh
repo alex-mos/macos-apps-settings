@@ -30,7 +30,9 @@ cp -R vlc/library/preferences/org.videolan.vlc ~/Library/Preferences/
 
 ### zsh
 cp ./zsh/.zprofile ~/
+cp ./zsh/.zshrc ~/
 source ~/.zprofile
+source ~/.zshrc
 
 ## System preferences
 

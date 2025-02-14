@@ -1,98 +1,117 @@
 {
-  "type" : "group",
   "actions" : [
     {
       "key" : "s",
+      "actions" : [
+        {
+          "value" : "/Applications/Sublime Text.app",
+          "type" : "application",
+          "key" : "t",
+          "label" : ""
+        },
+        {
+          "value" : "/Applications/Sublime Merge.app",
+          "type" : "application",
+          "key" : "m",
+          "label" : ""
+        }
+      ],
+      "type" : "group",
+      "label" : ""
+    },
+    {
+      "key" : "b",
+      "type" : "application",
+      "value" : "/Applications/Brave Browser.app",
+      "label" : ""
+    },
+    {
+      "value" : "/Applications/Obsidian.app",
+      "label" : "",
+      "key" : "o",
+      "type" : "application"
+    },
+    {
+      "type" : "application",
+      "key" : "m",
+      "value" : "/System/Applications/Mail.app",
+      "label" : ""
+    },
+    {
       "type" : "group",
       "label" : "",
       "actions" : [
         {
-          "type" : "application",
-          "key" : "t",
           "label" : "",
-          "value" : "/Applications/Sublime Text.app"
-        },
-        {
-          "value" : "/Applications/Sublime Merge.app",
-          "label" : "",
-          "key" : "m",
-          "type" : "application"
-        }
-      ]
-    },
-    {
-      "value" : "/Applications/Brave Browser.app",
-      "key" : "b",
-      "type" : "application",
-      "label" : null
-    },
-    {
-      "value" : "/Applications/Obsidian.app",
-      "key" : "o",
-      "label" : null,
-      "type" : "application"
-    },
-    {
-      "value" : "/System/Applications/Mail.app",
-      "label" : null,
-      "key" : "m",
-      "type" : "application"
-    },
-    {
-      "label" : null,
-      "key" : "t",
-      "actions" : [
-        {
           "key" : "e",
-          "label" : null,
           "type" : "application",
           "value" : "/Applications/Telegram.app"
         },
         {
           "value" : "/Applications/Transmission.app",
           "key" : "r",
+          "label" : "",
+          "type" : "application"
+        },
+        {
+          "key" : "h",
           "type" : "application",
-          "label" : null
+          "label" : null,
+          "value" : "/Applications/Things3.app"
         }
       ],
-      "type" : "group"
+      "key" : "t"
     },
     {
-      "label" : "",
       "key" : "i",
+      "label" : "",
       "type" : "application",
       "value" : "/Applications/iTerm.app"
     },
     {
+      "type" : "application",
       "key" : "f",
       "value" : "/System/Library/CoreServices/Finder.app",
-      "label" : null,
-      "type" : "application"
+      "label" : ""
     },
     {
-      "actions" : [
-        {
-          "label" : null,
-          "value" : "/Applications/Little Navmap.app",
-          "type" : "application",
-          "key" : "n"
-        }
-      ],
       "key" : "l",
       "type" : "group",
-      "label" : null
+      "label" : "",
+      "actions" : [
+        {
+          "type" : "application",
+          "value" : "/Applications/Little Navmap.app",
+          "label" : "",
+          "key" : "n"
+        }
+      ]
     },
     {
-      "type" : "command",
+      "label" : "",
       "value" : "source ~/.zshrc && ~/scripts/diary",
       "key" : "d",
-      "label" : null
+      "type" : "command"
     },
     {
+      "label" : "",
+      "type" : "application",
       "key" : "g",
+      "value" : "/Applications/Ghostty.app"
+    },
+    {
+      "type" : "group",
+      "actions" : [
+        {
+          "value" : "/Applications/NetNewsWire.app",
+          "key" : "n",
+          "label" : null,
+          "type" : "application"
+        }
+      ],
       "label" : null,
-      "value" : "/Applications/Ghostty.app",
-      "type" : "application"
+      "key" : "n"
     }
-  ]
+  ],
+  "type" : "group"
 }

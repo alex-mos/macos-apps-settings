@@ -3579,7 +3579,7 @@ volume-save=0
 #mouse-hide-timeout=1000
 
 # Video snapshot directory (or filename) (string)
-#snapshot-path=
+snapshot-path=/Users/ugo/screenshots
 
 # Video snapshot file prefix (string)
 #snapshot-prefix=vlcsnap-
@@ -4332,7 +4332,7 @@ key-subtitle-track=
 #global-key-subtitle-toggle=
 
 # Toggle subtitles (string)
-key-subtitle-toggle=s
+key-subtitle-toggle=
 
 # Cycle next program Service ID (string)
 #global-key-program-sid-next=
@@ -4410,7 +4410,7 @@ key-intf-popup-menu=
 #global-key-snapshot=
 
 # Take video snapshot (string)
-key-snapshot=
+key-snapshot=s
 
 # Record (string)
 #global-key-record=
