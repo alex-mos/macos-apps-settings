@@ -1,12 +1,6 @@
 # clear last login message
 clear
 
-# aliases
-alias l='ls -la'
-
-# custom scripts
-export PATH="$PATH:$HOME/scripts/"
-
 # language
 export LANG="en_EN.UTF-8"
 

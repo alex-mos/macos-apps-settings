@@ -6,7 +6,6 @@
 	"installed_packages":
 	[
 		"Alabaster Color Scheme",
-		"INI",
 		"JsPrettier",
 		"LSP",
 		"LSP-clangd",

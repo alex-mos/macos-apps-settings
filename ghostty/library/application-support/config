@@ -61,5 +61,4 @@ window-width = 300
 
 mouse-hide-while-typing
 title = " "
-maximize = true
 resize-overlay = never

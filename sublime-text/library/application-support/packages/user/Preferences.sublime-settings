@@ -15,8 +15,6 @@
 	"tab_size": 2,
 	"font_options": ["no_clig", "no_liga", "no_calt"],
 	"translate_tabs_to_spaces": true,
-	"ignored_packages": ["Vintage",
-	],
 	"index_files": false,
 	"color_scheme": "Alabaster Dark.sublime-color-scheme",
 	"theme": "auto",

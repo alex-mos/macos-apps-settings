@@ -1,0 +1,8 @@
+<snippet>
+  <scope>source.html, source.jsx</scope>
+  <tabTrigger>span</tabTrigger>
+  <content>
+    <![CDATA[
+<span>${1}</span>]]>
+  </content>
+</snippet>
