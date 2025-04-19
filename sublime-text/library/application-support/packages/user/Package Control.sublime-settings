@@ -9,9 +9,12 @@
 		"JsPrettier",
 		"LSP",
 		"LSP-clangd",
+		"LSP-css",
 		"LSP-eslint",
+		"LSP-html",
 		"LSP-json",
 		"LSP-typescript",
 		"Package Control",
+		"SideBarTools",
 	],
 }

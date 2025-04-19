@@ -50,7 +50,7 @@ keybind = cmd+l=goto_split:right
 keybind = cmd+i=goto_split:up
 keybind = cmd+k=goto_split:down
 
-theme = dark:molokai,light:molokai
+theme = dark:molokai, light:github-light-default
 window-padding-x = 6
 font-size = 15
 unfocused-split-fill = #999

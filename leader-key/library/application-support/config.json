@@ -1,97 +1,91 @@
 {
   "actions" : [
     {
+      "key" : "s",
       "actions" : [
         {
-          "value" : "/Applications/Sublime Text.app",
+          "label" : "",
           "type" : "application",
-          "key" : "t",
-          "label" : ""
+          "value" : "/Applications/Sublime Text.app",
+          "key" : "t"
         },
         {
-          "type" : "application",
-          "label" : "",
           "value" : "/Applications/Sublime Merge.app",
-          "key" : "m"
+          "key" : "m",
+          "label" : "",
+          "type" : "application"
         }
       ],
       "type" : "group",
-      "key" : "s",
       "label" : ""
     },
     {
-      "value" : "/Applications/Brave Browser.app",
       "type" : "application",
-      "key" : "b",
-      "label" : ""
+      "value" : "/Applications/Brave Browser.app",
+      "label" : "",
+      "key" : "b"
     },
     {
       "value" : "/Applications/Obsidian.app",
-      "key" : "o",
+      "type" : "application",
       "label" : "",
-      "type" : "application"
+      "key" : "o"
     },
     {
-      "key" : "m",
-      "label" : "",
-      "value" : "/System/Applications/Mail.app",
-      "type" : "application"
-    },
-    {
-      "type" : "group",
       "key" : "t",
-      "label" : "",
       "actions" : [
         {
+          "label" : "",
           "type" : "application",
           "key" : "e",
-          "label" : "",
           "value" : "/Applications/Telegram.app"
         },
         {
-          "value" : "/Applications/Transmission.app",
-          "type" : "application",
           "key" : "r",
-          "label" : ""
+          "label" : "",
+          "value" : "/Applications/Transmission.app",
+          "type" : "application"
         },
         {
-          "key" : "h",
-          "value" : "/Applications/Things3.app",
           "type" : "application",
+          "value" : "/Applications/Things3.app",
+          "key" : "h",
           "label" : ""
         }
-      ]
+      ],
+      "type" : "group",
+      "label" : ""
     },
     {
-      "key" : "i",
       "type" : "application",
       "label" : "",
+      "key" : "i",
       "value" : "/Applications/iTerm.app"
     },
     {
-      "label" : "",
-      "value" : "/System/Library/CoreServices/Finder.app",
       "key" : "f",
-      "type" : "application"
+      "label" : "",
+      "type" : "application",
+      "value" : "/System/Library/CoreServices/Finder.app"
     },
     {
       "actions" : [
         {
+          "key" : "n",
           "label" : "",
-          "type" : "application",
           "value" : "/Applications/Little Navmap.app",
-          "key" : "n"
+          "type" : "application"
         }
       ],
-      "type" : "group",
+      "key" : "l",
       "label" : "",
-      "key" : "l"
+      "type" : "group"
     },
     {
       "value" : "source ~/.zprofile && ~/scripts/diary",
       "label" : "",
-      "key" : "d",
-      "type" : "command"
+      "type" : "command",
+      "key" : "d"
     },
     {
       "label" : "",
@@ -100,9 +94,7 @@
       "key" : "g"
     },
     {
-      "type" : "group",
       "label" : "",
-      "key" : "n",
       "actions" : [
         {
           "key" : "n",
@@ -110,13 +102,34 @@
           "value" : "/Applications/NetNewsWire.app",
           "type" : "application"
         }
-      ]
+      ],
+      "key" : "n",
+      "type" : "group"
     },
     {
-      "key" : "c",
+      "label" : "",
+      "value" : "/System/Applications/Calendar.app",
       "type" : "application",
+      "key" : "c"
+    },
+    {
+      "type" : "group",
+      "actions" : [
+        {
+          "type" : "application",
+          "value" : "/System/Applications/Mail.app",
+          "key" : "a",
+          "label" : null
+        },
+        {
+          "value" : "/System/Applications/Music.app",
+          "type" : "application",
+          "key" : "u",
+          "label" : null
+        }
+      ],
       "label" : null,
-      "value" : "/System/Applications/Calendar.app"
+      "key" : "m"
     }
   ],
   "type" : "group"

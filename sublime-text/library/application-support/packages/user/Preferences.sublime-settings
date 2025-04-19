@@ -1,9 +1,5 @@
 {
-	"auto_complete": false,
-	"tab_completion": false,
-	"auto_complete_include_snippets": false,
-	"auto_complete_include_snippets_when_typing": false,
-	"ignored_snippets": ["JavaScript/*"],
+	"ignored_snippets": [],
 	"auto_match_enabled": false,
 	"fold_buttons": false,
 	"folder_exclude_patterns": [".git"],
@@ -16,8 +12,85 @@
 	"font_options": ["no_clig", "no_liga", "no_calt"],
 	"translate_tabs_to_spaces": true,
 	"index_files": false,
-	"color_scheme": "Alabaster Dark.sublime-color-scheme",
+	"color_scheme": "auto",
+	"dark_color_scheme": "Mariana.sublime-color-scheme",
+	"light_color_scheme": "Alabaster.sublime-color-scheme",
 	"theme": "auto",
-	"dark_theme": "Adaptive.sublime-theme",
-	"light_theme": "Adaptive.sublime-theme",
+	"dark_theme": "Default Dark.sublime-theme",
+	"light_theme": "Default.sublime-theme",
+
+	// Completion
+
+	// When enabled, pressing tab will insert the best matching completion.
+	// When disabled, tab will only trigger snippets or insert a tab.
+	// Shift+tab can be used to insert an explicit tab when tab_completion is
+	// enabled.
+	"tab_completion": true,
+
+	// Enable auto complete to be triggered automatically when typing.
+	"auto_complete": false,
+
+	// Controls what scopes auto complete will be triggered in
+	"auto_complete_selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+
+	// Additional situations to trigger auto complete
+	// "auto_complete_triggers":
+	// [
+	//   {"selector": "text.html, text.xml", "characters": "<",},
+	// ],
+
+	// By default, auto complete will commit the current completion on enter.
+	// This setting can be used to make it complete on tab instead.
+	// Completing on tab is generally a superior option, as it removes
+	// ambiguity between committing the completion and inserting a newline.
+	"auto_complete_commit_on_tab": false,
+
+	// Controls if auto complete is shown when snippet fields are active.
+	// Only relevant if auto_complete_commit_on_tab is true.
+	// "auto_complete_with_fields": true,
+
+	// Controls what happens when pressing the up key while the first item in
+	// the auto complete window is selected: if false, the window is hidden,
+	// otherwise the last item in the window is selected. Likewise for the
+	// down key when the last item is selected.
+	"auto_complete_cycle": false,
+
+	// Auto complete will used indexed data to provide completions from other
+	// files when this is enabled
+	"auto_complete_use_index": true,
+
+	// If previously-selected completions should be automatically selected
+	"auto_complete_use_history": false,
+
+	// Controls how the auto complete results are reordered when typing:
+	// - "none" will fully reorder the results according to how well the
+	//   completion matches the typed text.
+	// - "some" will partially reorder the results, taking into account how
+	//   well the completion matches whats typed, and likelihood of the
+	//   completion.
+	// - "strict" will never reorder the results.
+	"auto_complete_preserve_order": "some",
+
+	// Add trailing symbols (e.g., '.', '()') if the auto complete engine
+	// thinks they're likely enough
+	"auto_complete_trailing_symbols": false,
+
+	// Add a space after completions if the auto complete engine thinks
+	// they're likely enough
+	"auto_complete_trailing_spaces": true,
+
+	// Snippets will not be included in the auto complete when this is
+	// false. They can still be triggered by typing their tab trigger in, and
+	// pressing tab when auto complete is not showing.
+	"auto_complete_include_snippets": false,
+
+	// When this is set to false, snippets won't be present in the auto
+	// complete dialog when typing, instead they'll only be shown in the auto
+	// complete dialog when it's explicitly triggered
+	"auto_complete_include_snippets_when_typing": false,
+
+	"ignored_packages":
+	[
+		"Vintage",
+	],
 }
