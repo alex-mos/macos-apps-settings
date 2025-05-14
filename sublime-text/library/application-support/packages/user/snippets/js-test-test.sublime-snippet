@@ -1,5 +1,5 @@
 <snippet>
-	<scope>source.js</scope>
+	<scope>source.js, source.ts</scope>
 	<tabTrigger>test</tabTrigger>
 	<content>
 test("${1}", () => {

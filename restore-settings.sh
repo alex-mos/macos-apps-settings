@@ -59,3 +59,11 @@ git clone git@github.com:alex-mos/mospan-keyboard-layout.git
 
 ## macOS user dictionary
 cp LocalDictionary ~/Library/Spelling/
+
+## hide unused folders
+chflags hidden ~/Desktop
+chflags hidden ~/Documents
+chflags hidden ~/Movies
+chflags hidden ~/Music
+chflags hidden ~/Public
+chflags hidden ~/Pictures
