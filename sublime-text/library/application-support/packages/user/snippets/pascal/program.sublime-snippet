@@ -1,0 +1,14 @@
+<snippet>
+	<scope>source.pascal</scope>
+	<tabTrigger>program</tabTrigger>
+	<content>
+program ${1};
+
+var
+	${2}: ${3} = ${4};
+
+begin
+	${5}
+end.
+	</content>
+</snippet>

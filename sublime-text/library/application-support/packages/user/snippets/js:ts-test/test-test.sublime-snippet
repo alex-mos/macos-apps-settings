@@ -1,0 +1,9 @@
+<snippet>
+	<scope>source.js, source.ts</scope>
+	<tabTrigger>test</tabTrigger>
+	<content>
+test("${1}", () => {
+  ${2}
+})
+	</content>
+</snippet>
