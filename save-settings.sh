@@ -20,6 +20,8 @@ mkdir -p leader-key/library/application-support/
 cp /Users/ugo/Library/Application\ Support/Leader\ Key/config.json leader-key/library/application-support/
 
 ### Sublime Text
+rm -rf ./sublime-text/library/application-support/packages/user
+rm -rf ./sublime-text/library/application-support/installed-packages/
 mkdir -p sublime-text/library/application-support/packages/user
 mkdir -p sublime-text/library/application-support/installed-packages/
 cp -R ~/Library/Application\ Support/Sublime\ Text/Packages/User/ sublime-text/library/application-support/packages/user/

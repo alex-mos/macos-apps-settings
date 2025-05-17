@@ -1,5 +1,0 @@
-<snippet>
-	<scope>source.jsx</scope>
-	<tabTrigger>c</tabTrigger>
-	<content>className=${1}</content>
-</snippet>

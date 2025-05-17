@@ -1,9 +1,0 @@
-<snippet>
-	<scope>source.js, source.jsx</scope>
-	<tabTrigger>af</tabTrigger>
-	<content>
-const ${1} = (${2}) => {
-  ${3}
-}
-	</content>
-</snippet>

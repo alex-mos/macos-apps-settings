@@ -1,5 +1,0 @@
-<snippet>
-	<scope>source.jsx, text.html</scope>
-	<tabTrigger>div</tabTrigger>
-	<content><![CDATA[<div>${1}</div>]]></content>
-</snippet>

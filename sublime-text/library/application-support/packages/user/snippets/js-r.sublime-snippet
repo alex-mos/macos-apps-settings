@@ -1,5 +1,0 @@
-<snippet>
-	<scope>source.js</scope>
-	<tabTrigger>r</tabTrigger>
-	<content>const ${1} = require("${2}")</content>
-</snippet>

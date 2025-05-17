@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"Alabaster Color Scheme",
+		"Emmet",
 		"JsPrettier",
 		"LSP",
 		"LSP-clangd",
@@ -15,6 +16,7 @@
 		"LSP-json",
 		"LSP-typescript",
 		"Package Control",
+		"ScopeAlways",
 		"SideBarTools",
 	],
 }

@@ -1,7 +1,0 @@
-<snippet>
-	<scope>source.js, source.jsx, source.ts, source.tsx</scope>
-	<tabTrigger>i</tabTrigger>
-	<content>
-import ${1} from "${2}"
-	</content>
-</snippet>

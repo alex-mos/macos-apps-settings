@@ -1,15 +1,70 @@
 [
-  { "keys": ["super+shift+v"], "command": "paste" },
-  { "keys": ["super+v"], "command": "paste_and_indent" },
+  // Clear
+  { "keys": ["super+k"], "command": "noop" },
+  { "keys": ["super+k", "super+b"], "command": "noop" },
+  { "keys": ["super+k", "super+v"], "command": "noop" },
+  { "keys": ["super+k", "super+]"], "command": "noop" },
+  { "keys": ["super+k", "super+d"], "command": "noop" },
+  { "keys": ["super+k", "super+u"], "command": "noop" },
+  { "keys": ["super+k", "super+l"], "command": "noop" },
+  { "keys": ["super+k", "super+z"], "command": "noop" },
+  { "keys": ["super+k", "super+shift+z"], "command": "noop" },
+  { "keys": ["super+k", "super+forward_slash"], "command": "noop" },
+  { "keys": ["super+k", "super+;"], "command": "noop" },
+  { "keys": ["super+k", "super+up"], "command": "noop" },
+  { "keys": ["super+k", "super+shift+up"], "command": "noop" },
+  { "keys": ["super+k", "super+down"], "command": "noop" },
+  { "keys": ["super+k", "super+left"], "command": "noop" },
+  { "keys": ["super+k", "super+right"], "command": "noop" },
+  { "keys": ["super+k", "super+shift+left"], "command": "noop" },
+  { "keys": ["super+k", "super+shift+right"], "command": "noop" },
+  { "keys": ["super+k", "super+u"], "command": "noop" },
+  { "keys": ["super+k", "super+l"], "command": "noop" },
+  { "keys": ["super+k", "super+m"], "command": "noop" },
+  { "keys": ["super+k", "super+a"], "command": "noop" },
+  { "keys": ["super+k", "super+w"], "command": "noop" },
+  { "keys": ["super+k", "super+x"], "command": "noop" },
+  { "keys": ["super+k", "super+g"], "command": "noop" },
+  { "keys": ["super+k", "super+1"], "command": "noop" },
+  { "keys": ["super+k", "super+2"], "command": "noop" },
+  { "keys": ["super+k", "super+3"], "command": "noop" },
+  { "keys": ["super+k", "super+4"], "command": "noop" },
+  { "keys": ["super+k", "super+5"], "command": "noop" },
+  { "keys": ["super+k", "super+6"], "command": "noop" },
+  { "keys": ["super+k", "super+7"], "command": "noop" },
+  { "keys": ["super+k", "super+8"], "command": "noop" },
+  { "keys": ["super+k", "super+9"], "command": "noop" },
+  { "keys": ["super+k", "super+0"], "command": "noop" },
+  { "keys": ["super+k", "super+j"], "command": "noop" },
+  { "keys": ["super+k", "super+t"], "command": "noop" },
+  { "keys": ["super+k", "super+y"], "command": "noop" },
+  { "keys": ["super+k", "super+k"], "command": "noop" },
+  { "keys": ["super+k", "super+backspace"], "command": "noop" },
+  { "keys": ["super+k", "super+c"], "command": "noop" },
+
+  // General
   { "keys": ["super+e"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
-  { "keys": ["super+t"], "command": "show_overlay", "args": {"overlay": "command_palette"} },
-  { "keys": ["super+down"], "command": "find_under_expand" },
-  { "keys": ["super+i"], "command": "expand_selection", "args": {"to": "scope"} },
+  { "keys": ["super+p"], "command": "show_overlay", "args": {"overlay": "command_palette"} },
+  {
+    "keys": ["super+r"],
+    "command": "lsp_symbol_rename",
+    "context": [{"key": "lsp.session_with_capability", "operand": "renameProvider"}]
+  },
+  { "keys": ["super+t"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"} },
+
+  { "keys": ["super+i"], "command": "expand_selection", "args": {"to": "smart"} },
+  { "keys": ["super+k"], "command": "find_under_expand" },
+
   { "keys": ["super+d"], "command": "duplicate_line" },
+
   { "keys": ["super+j"], "command": "prev_view" },
   { "keys": ["super+l"], "command": "next_view" },
-  { "keys": ["super+p"], "command": "js_prettier" },
+
+  { "keys": ["super+semicolon"], "command": "js_prettier" },
+
   { "keys": ["super+-"], "command": "toggle_comment", "args": { "block": false } },
+  { "keys": ["super+v"], "command": "paste_and_indent" },
+
   // Goto Definition
   {
       "keys": ["super+enter"],
@@ -20,7 +75,4 @@
           {"key": "auto_complete_visible", "operand": false}
       ]
   },
-  // Clear
-  { "keys": ["super+k", "super+u"], "command": "" },
-  { "keys": ["super+k", "super+l"], "command": "" },
 ]

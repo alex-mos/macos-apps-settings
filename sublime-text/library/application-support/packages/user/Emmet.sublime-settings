@@ -1,0 +1,8 @@
+{
+	"telemetry": false,
+	"uid": "240eae58-e2c0-4101-8e1d-348fad05c225",
+	"syntax_scopes": {
+		"jsx": "meta.jsx.js",
+	},
+	"jsx_prefix": false,
+}
