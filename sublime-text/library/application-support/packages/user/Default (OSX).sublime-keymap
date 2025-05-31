@@ -41,6 +41,10 @@
   { "keys": ["super+k", "super+k"], "command": "noop" },
   { "keys": ["super+k", "super+backspace"], "command": "noop" },
   { "keys": ["super+k", "super+c"], "command": "noop" },
+  { "keys": ["super+b"], "command": "noop" },
+  { "keys": ["f7"], "command": "noop" },
+  { "keys": ["super+g"], "command": "noop" },
+  { "keys": ["super+shift+g"], "command": "noop" },
 
   // General
   { "keys": ["super+e"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
@@ -51,19 +55,21 @@
     "context": [{"key": "lsp.session_with_capability", "operand": "renameProvider"}]
   },
   { "keys": ["super+t"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"} },
-
   { "keys": ["super+i"], "command": "expand_selection", "args": {"to": "smart"} },
   { "keys": ["super+k"], "command": "find_under_expand" },
-
   { "keys": ["super+d"], "command": "duplicate_line" },
-
   { "keys": ["super+j"], "command": "prev_view" },
   { "keys": ["super+l"], "command": "next_view" },
-
   { "keys": ["super+semicolon"], "command": "js_prettier" },
-
   { "keys": ["super+-"], "command": "toggle_comment", "args": { "block": false } },
   { "keys": ["super+v"], "command": "paste_and_indent" },
+  {
+    "keys": ["super+b"], 
+    "command": "focus_side_bar"
+  },
+  { "keys": ["enter"], "command": "prev_result",
+    "context": [{"key": "selector", "operator": "equal", "operand": "text.find-in-files" }]
+  },
 
   // Goto Definition
   {

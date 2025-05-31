@@ -18,6 +18,7 @@
 	"theme": "auto",
 	"dark_theme": "Default Dark.sublime-theme",
 	"light_theme": "Default.sublime-theme",
+	"close_windows_when_empty": false,
 
 	// Completion
 

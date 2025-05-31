@@ -1,7 +1,5 @@
 <snippet>
 	<scope>source.js, source.jsx, source.ts, source.tsx</scope>
-	<tabTrigger>l</tabTrigger>
-	<content>
-console.log("${1}:", ${1})
-</content>
+	<tabTrigger>e</tabTrigger>
+	<content>export ${1} from "${2}"</content>
 </snippet>

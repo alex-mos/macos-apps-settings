@@ -4,5 +4,5 @@
 	"syntax_scopes": {
 		"jsx": "meta.jsx.js",
 	},
-	"jsx_prefix": false,
+	"abbreviation_preview": false,
 }

@@ -5,5 +5,5 @@
 		<![CDATA[
 #include <${1}.h>
 		]]>
-	</content>
+</content>
 </snippet>

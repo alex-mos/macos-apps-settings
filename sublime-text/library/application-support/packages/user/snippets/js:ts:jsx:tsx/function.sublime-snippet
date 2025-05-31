@@ -1,9 +1,9 @@
 <snippet>
 	<scope>source.js, source.jsx, source.ts, source.tsx</scope>
 	<tabTrigger>f</tabTrigger>
-	<content>
+<content>
 function ${1}(${2}) {
   ${3}
 }
-	</content>
+</content>
 </snippet>
