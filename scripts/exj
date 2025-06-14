@@ -1,0 +1,32 @@
+#!/bin/bash
+
+# Проверка на аргумент
+if [ -z "$1" ]; then
+  echo "❌ Укажите имя функции в CamelCase"
+  exit 1
+fi
+
+CAMEL="$1"
+
+# Преобразование CamelCase → kebab-case
+KEBAB=$(echo "$CAMEL" | sed 's/\([^A-Z]\)\([A-Z]\)/\1-\2/g' | tr '[:upper:]' '[:lower:]')
+
+# Файл задачи
+cat <<EOF > "$KEBAB.js"
+export function $CAMEL() {
+
+}
+EOF
+
+# Файл теста
+cat <<EOF > "__test__/$KEBAB.test.js"
+import { $CAMEL } from "../$KEBAB"
+
+describe("$KEBAB", () => {
+  test("main", () => {
+    expect().toBe()
+  })
+})
+EOF
+
+echo "✅ Создана задача '$CAMEL'"
