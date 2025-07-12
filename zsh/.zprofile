@@ -3,6 +3,7 @@ clear
 
 # language
 export LANG="en_EN.UTF-8"
+export LC_ALL="ru_RU.UTF-8"
 
 # homebrew
 eval "$(/opt/homebrew/bin/brew shellenv)"

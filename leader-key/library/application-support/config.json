@@ -1,162 +1,137 @@
 {
-  "type" : "group",
   "actions" : [
     {
       "actions" : [
         {
-          "value" : "/Applications/Sublime Text.app",
           "key" : "t",
           "type" : "application",
-          "label" : ""
+          "value" : "/Applications/Sublime Text.app"
         },
         {
           "key" : "m",
           "type" : "application",
-          "value" : "/Applications/Sublime Merge.app",
-          "label" : ""
+          "value" : "/Applications/Sublime Merge.app"
         }
       ],
       "key" : "s",
-      "type" : "group",
-      "label" : ""
+      "type" : "group"
     },
     {
       "key" : "b",
-      "value" : "/Applications/Brave Browser.app",
       "type" : "application",
-      "label" : ""
+      "value" : "/Applications/Brave Browser.app"
     },
     {
-      "type" : "application",
       "key" : "o",
-      "label" : "",
+      "type" : "application",
       "value" : "/Applications/Obsidian.app"
     },
     {
-      "type" : "group",
-      "key" : "t",
-      "label" : "",
       "actions" : [
         {
+          "key" : "e",
           "type" : "application",
-          "label" : "",
-          "value" : "/Applications/Telegram.app",
-          "key" : "e"
+          "value" : "/Applications/Telegram.app"
         },
         {
+          "key" : "r",
           "type" : "application",
-          "label" : "",
-          "value" : "/Applications/Transmission.app",
-          "key" : "r"
+          "value" : "/Applications/Transmission.app"
         },
         {
+          "key" : "h",
           "type" : "application",
-          "label" : "",
-          "value" : "/Applications/Things3.app",
-          "key" : "h"
+          "value" : "/Applications/Things3.app"
         }
-      ]
+      ],
+      "key" : "t",
+      "type" : "group"
     },
     {
-      "type" : "application",
       "key" : "i",
-      "label" : "",
+      "type" : "application",
       "value" : "/Applications/iTerm.app"
     },
     {
-      "type" : "application",
       "key" : "f",
-      "label" : "",
+      "type" : "application",
       "value" : "/System/Library/CoreServices/Finder.app"
     },
     {
-      "type" : "group",
-      "key" : "l",
-      "label" : "",
       "actions" : [
         {
           "key" : "n",
-          "value" : "/Applications/Little Navmap.app",
           "type" : "application",
-          "label" : ""
+          "value" : "/Applications/Little Navmap.app"
         }
-      ]
+      ],
+      "key" : "l",
+      "type" : "group"
     },
     {
-      "type" : "application",
       "key" : "g",
-      "label" : "",
+      "type" : "application",
       "value" : "/Applications/Ghostty.app"
     },
     {
-      "type" : "group",
-      "key" : "n",
-      "label" : "",
       "actions" : [
         {
-          "label" : "",
           "key" : "n",
           "type" : "application",
           "value" : "/Applications/NetNewsWire.app"
         },
         {
-          "label" : "",
           "key" : "u",
           "type" : "application",
           "value" : "/Applications/Numi.app"
         }
-      ]
+      ],
+      "key" : "n",
+      "type" : "group"
     },
     {
-      "type" : "application",
       "key" : "c",
-      "label" : "",
+      "type" : "application",
       "value" : "/System/Applications/Calendar.app"
     },
     {
-      "type" : "group",
-      "key" : "m",
-      "label" : "",
       "actions" : [
         {
+          "key" : "a",
           "type" : "application",
-          "value" : "/System/Applications/Mail.app",
-          "label" : "",
-          "key" : "a"
+          "value" : "/System/Applications/Mail.app"
         },
         {
+          "key" : "u",
           "type" : "application",
-          "value" : "/System/Applications/Music.app",
-          "label" : "",
-          "key" : "u"
+          "value" : "/System/Applications/Music.app"
         }
-      ]
+      ],
+      "key" : "m",
+      "type" : "group"
     },
     {
-      "type" : "group",
-      "key" : "d",
-      "label" : "",
       "actions" : [
         {
           "actions" : [
             {
-              "value" : "/System/Applications/Dictionary.app",
-              "type" : "application",
               "key" : "c",
-              "label" : ""
+              "type" : "application",
+              "value" : "/System/Applications/Dictionary.app"
             },
             {
-              "value" : "source ~/.zprofile && ~/scripts/diary",
-              "type" : "command",
               "key" : "a",
-              "label" : ""
+              "type" : "command",
+              "value" : "source ~/.zprofile && ~/scripts/diary"
             }
           ],
-          "type" : "group",
           "key" : "i",
-          "label" : ""
+          "type" : "group"
         }
-      ]
+      ],
+      "key" : "d",
+      "type" : "group"
     }
-  ]
+  ],
+  "type" : "group"
 }
