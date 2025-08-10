@@ -4,9 +4,6 @@
 mkdir -p alt-tab/library/preferences/
 cp -R ~/Library/Preferences/com.lwouis.alt-tab-macos.plist alt-tab/Library/Preferences/ alt-tab/library/preferences/
 
-### Brave browser
-
-
 ### Ghostty
 mkdir -p ghostty/library/application-support/
 cp -R /Users/ugo/Library/Application\ Support/com.mitchellh.ghostty/ ghostty/library/application-support/
@@ -49,3 +46,13 @@ cp -R ~/scripts .
 
 ## macOS user dictionary
 cp ~/Library/Spelling/LocalDictionary .
+
+## App shortcuts
+mkdir -p ./app_shortcuts
+
+defaults read -g NSUserKeyEquivalents > ./app_shortcuts/all_apps.plist
+
+grep -lR "NSUserKeyEquivalents" ~/Library/Preferences/*.plist | while read file; do
+  app_name=$(basename "$file")
+  defaults read "${file%.*}" NSUserKeyEquivalents > ./app_shortcuts/"$app_name".plist 2>/dev/null
+done

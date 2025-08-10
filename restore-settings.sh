@@ -67,3 +67,12 @@ chflags hidden ~/Movies
 chflags hidden ~/Music
 chflags hidden ~/Public
 chflags hidden ~/Pictures
+
+## App shortcuts
+defaults import -g ./app_shortcuts/all_apps.plist
+
+for file in ./app_shortcuts/*.plist; do
+  app_id="${file##*/}"
+  app_id="${app_id%.*}"
+  defaults import "${app_id%.*}" "$file"
+done
