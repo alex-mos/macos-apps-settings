@@ -1,3 +1,5 @@
 {
+    Clear = "@~^$r";
+    "Hide Things" = "@~^$h";
     "Move..." = "@m";
 }
