@@ -6,7 +6,7 @@ cp -R ~/Library/Preferences/com.lwouis.alt-tab-macos.plist alt-tab/Library/Prefe
 
 ### Ghostty
 mkdir -p ghostty/library/application-support/
-cp -R /Users/ugo/Library/Application\ Support/com.mitchellh.ghostty/ ghostty/library/application-support/
+cp -R ~/Library/Application\ Support/com.mitchellh.ghostty/ ghostty/library/application-support/
 
 ### Karabiner Elements
 mkdir -p karabiner/config/
@@ -14,7 +14,11 @@ cp ~/.config/karabiner/karabiner.json karabiner/config/
 
 ### Leader Key
 mkdir -p leader-key/library/application-support/
-cp /Users/ugo/Library/Application\ Support/Leader\ Key/config.json leader-key/library/application-support/
+cp ~/Library/Application\ Support/Leader\ Key/config.json leader-key/library/application-support/
+
+### Hammerspoon
+mkdir -p hammerspoon
+cp -R ~/.hammerspoon/* hammerspoon
 
 ### Sublime Text
 rm -rf ./sublime-text/library/application-support/packages/user
