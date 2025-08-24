@@ -26,6 +26,7 @@ brew install alt-tab
 brew install dropbox
 brew install brave-browser
 brew install foobar2000
+brew install skim
 brew install ghostty
 brew install hiddenbar
 brew install karabiner-elements
