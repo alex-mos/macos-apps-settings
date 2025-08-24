@@ -51,12 +51,6 @@ cp -R ~/scripts .
 ## macOS user dictionary
 cp ~/Library/Spelling/LocalDictionary .
 
-## App shortcuts
-mkdir -p ./app_shortcuts
-
-defaults read -g NSUserKeyEquivalents > ./app_shortcuts/all_apps.plist
-
-grep -lR "NSUserKeyEquivalents" ~/Library/Preferences/*.plist | while read file; do
-  app_name=$(basename "$file")
-  defaults read "${file%.*}" NSUserKeyEquivalents > ./app_shortcuts/"$app_name".plist 2>/dev/null
-done
+## App shortcuts (via https://github.com/alberti42/macOS-hotkeys-manager)
+chmod +x ./app_shortcuts/hotkeys-manager.py
+./app_shortcuts/hotkeys-manager.py --export ./app_shortcuts/shortcuts.json
