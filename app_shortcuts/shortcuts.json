@@ -1,0 +1,38 @@
+{
+  "com.culturedcode.ThingsMac": {
+    "Clear": "@~^$r",
+    "Hide Things": "@~^$h",
+    "Move...": "@m"
+  },
+  "com.sublimemerge": {
+    "Hide Sublime Merge": "@~^$h"
+  },
+  "ru.keepcoder.Telegram": {
+    "Quick Search": "@e"
+  },
+  "com.sublimetext.4": {
+    "Hide Sublime Text": "@~^$h"
+  },
+  "net.sourceforge.skim-app.skim": {
+    "Previous": "\\U2190",
+    "Next": "\\U2192"
+  },
+  "com.brave.Browser": {
+    "Select Next Tab": "@l",
+    "Bookmark This Tab...": "@~^$d",
+    "Select Previous Tab": "@j",
+    "Developer Tools": "@i",
+    "Open Location...": "@d",
+    "Search Tabs...": "@e"
+  },
+  "com.apple.mail": {
+    "Archive": "@a"
+  },
+  "NSGlobalDomain": {
+    "Minimize": "@~^$m",
+    "Minimise": "@~^$m"
+  },
+  "com.foobar2000.mac": {
+    "Add Files...": "@o"
+  }
+}
