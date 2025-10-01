@@ -6,11 +6,11 @@
                 "parameters": { "basic.to_if_held_down_threshold_milliseconds": 250 },
                 "rules": [
                     {
-                        "description": "long a to A",
+                        "description": "long key -> backspace + Option+key",
                         "manipulators": [
                             {
                                 "from": { "key_code": "a" },
-                                "to": { "key_code": "a" },
+                                "to": [{ "key_code": "a" }],
                                 "to_if_held_down": [
                                     { "key_code": "delete_or_backspace" },
                                     {
@@ -19,15 +19,10 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "long b to B",
-                        "manipulators": [
+                            },
                             {
                                 "from": { "key_code": "b" },
-                                "to": { "key_code": "b" },
+                                "to": [{ "key_code": "b" }],
                                 "to_if_held_down": [
                                     { "key_code": "delete_or_backspace" },
                                     {
@@ -36,15 +31,10 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "long c to C",
-                        "manipulators": [
+                            },
                             {
                                 "from": { "key_code": "c" },
-                                "to": { "key_code": "c" },
+                                "to": [{ "key_code": "c" }],
                                 "to_if_held_down": [
                                     { "key_code": "delete_or_backspace" },
                                     {
@@ -53,15 +43,10 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "long d to D",
-                        "manipulators": [
+                            },
                             {
                                 "from": { "key_code": "d" },
-                                "to": { "key_code": "d" },
+                                "to": [{ "key_code": "d" }],
                                 "to_if_held_down": [
                                     { "key_code": "delete_or_backspace" },
                                     {
@@ -70,15 +55,10 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "long e to E",
-                        "manipulators": [
+                            },
                             {
                                 "from": { "key_code": "e" },
-                                "to": { "key_code": "e" },
+                                "to": [{ "key_code": "e" }],
                                 "to_if_held_down": [
                                     { "key_code": "delete_or_backspace" },
                                     {
@@ -87,49 +67,10 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "long f to F",
-                        "manipulators": [
-                            {
-                                "from": { "key_code": "g" },
-                                "to": { "key_code": "g" },
-                                "to_if_held_down": [
-                                    { "key_code": "delete_or_backspace" },
-                                    {
-                                        "key_code": "g",
-                                        "modifiers": "left_option"
-                                    }
-                                ],
-                                "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "long e to E",
-                        "manipulators": [
-                            {
-                                "from": { "key_code": "e" },
-                                "to": { "key_code": "e" },
-                                "to_if_held_down": [
-                                    { "key_code": "delete_or_backspace" },
-                                    {
-                                        "key_code": "e",
-                                        "modifiers": "left_option"
-                                    }
-                                ],
-                                "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "long f to F",
-                        "manipulators": [
+                            },
                             {
                                 "from": { "key_code": "f" },
-                                "to": { "key_code": "f" },
+                                "to": [{ "key_code": "f" }],
                                 "to_if_held_down": [
                                     { "key_code": "delete_or_backspace" },
                                     {
@@ -138,15 +79,10 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "long g to G",
-                        "manipulators": [
+                            },
                             {
                                 "from": { "key_code": "g" },
-                                "to": { "key_code": "g" },
+                                "to": [{ "key_code": "g" }],
                                 "to_if_held_down": [
                                     { "key_code": "delete_or_backspace" },
                                     {
@@ -155,15 +91,10 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "long h to H",
-                        "manipulators": [
+                            },
                             {
                                 "from": { "key_code": "h" },
-                                "to": { "key_code": "h" },
+                                "to": [{ "key_code": "h" }],
                                 "to_if_held_down": [
                                     { "key_code": "delete_or_backspace" },
                                     {
@@ -172,15 +103,10 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "long i to I",
-                        "manipulators": [
+                            },
                             {
                                 "from": { "key_code": "i" },
-                                "to": { "key_code": "i" },
+                                "to": [{ "key_code": "i" }],
                                 "to_if_held_down": [
                                     { "key_code": "delete_or_backspace" },
                                     {
@@ -189,15 +115,10 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "long j to J",
-                        "manipulators": [
+                            },
                             {
                                 "from": { "key_code": "j" },
-                                "to": { "key_code": "j" },
+                                "to": [{ "key_code": "j" }],
                                 "to_if_held_down": [
                                     { "key_code": "delete_or_backspace" },
                                     {
@@ -206,15 +127,10 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "long k to K",
-                        "manipulators": [
+                            },
                             {
                                 "from": { "key_code": "k" },
-                                "to": { "key_code": "k" },
+                                "to": [{ "key_code": "k" }],
                                 "to_if_held_down": [
                                     { "key_code": "delete_or_backspace" },
                                     {
@@ -223,15 +139,10 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "long l to L",
-                        "manipulators": [
+                            },
                             {
                                 "from": { "key_code": "l" },
-                                "to": { "key_code": "l" },
+                                "to": [{ "key_code": "l" }],
                                 "to_if_held_down": [
                                     { "key_code": "delete_or_backspace" },
                                     {
@@ -240,15 +151,10 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "long m to M",
-                        "manipulators": [
+                            },
                             {
                                 "from": { "key_code": "m" },
-                                "to": { "key_code": "m" },
+                                "to": [{ "key_code": "m" }],
                                 "to_if_held_down": [
                                     { "key_code": "delete_or_backspace" },
                                     {
@@ -257,15 +163,10 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "long n to N",
-                        "manipulators": [
+                            },
                             {
                                 "from": { "key_code": "n" },
-                                "to": { "key_code": "n" },
+                                "to": [{ "key_code": "n" }],
                                 "to_if_held_down": [
                                     { "key_code": "delete_or_backspace" },
                                     {
@@ -274,15 +175,10 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "long o to O",
-                        "manipulators": [
+                            },
                             {
                                 "from": { "key_code": "o" },
-                                "to": { "key_code": "o" },
+                                "to": [{ "key_code": "o" }],
                                 "to_if_held_down": [
                                     { "key_code": "delete_or_backspace" },
                                     {
@@ -291,15 +187,10 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "long p to P",
-                        "manipulators": [
+                            },
                             {
                                 "from": { "key_code": "p" },
-                                "to": { "key_code": "p" },
+                                "to": [{ "key_code": "p" }],
                                 "to_if_held_down": [
                                     { "key_code": "delete_or_backspace" },
                                     {
@@ -308,15 +199,10 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "long q to Q",
-                        "manipulators": [
+                            },
                             {
                                 "from": { "key_code": "q" },
-                                "to": { "key_code": "q" },
+                                "to": [{ "key_code": "q" }],
                                 "to_if_held_down": [
                                     { "key_code": "delete_or_backspace" },
                                     {
@@ -325,15 +211,10 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "long r to R",
-                        "manipulators": [
+                            },
                             {
                                 "from": { "key_code": "r" },
-                                "to": { "key_code": "r" },
+                                "to": [{ "key_code": "r" }],
                                 "to_if_held_down": [
                                     { "key_code": "delete_or_backspace" },
                                     {
@@ -342,15 +223,10 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "long s to S",
-                        "manipulators": [
+                            },
                             {
                                 "from": { "key_code": "s" },
-                                "to": { "key_code": "s" },
+                                "to": [{ "key_code": "s" }],
                                 "to_if_held_down": [
                                     { "key_code": "delete_or_backspace" },
                                     {
@@ -359,15 +235,10 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "long t to T",
-                        "manipulators": [
+                            },
                             {
                                 "from": { "key_code": "t" },
-                                "to": { "key_code": "t" },
+                                "to": [{ "key_code": "t" }],
                                 "to_if_held_down": [
                                     { "key_code": "delete_or_backspace" },
                                     {
@@ -376,15 +247,10 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "long u to U",
-                        "manipulators": [
+                            },
                             {
                                 "from": { "key_code": "u" },
-                                "to": { "key_code": "u" },
+                                "to": [{ "key_code": "u" }],
                                 "to_if_held_down": [
                                     { "key_code": "delete_or_backspace" },
                                     {
@@ -393,15 +259,10 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "long v to V",
-                        "manipulators": [
+                            },
                             {
                                 "from": { "key_code": "v" },
-                                "to": { "key_code": "v" },
+                                "to": [{ "key_code": "v" }],
                                 "to_if_held_down": [
                                     { "key_code": "delete_or_backspace" },
                                     {
@@ -410,15 +271,10 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "long w to W",
-                        "manipulators": [
+                            },
                             {
                                 "from": { "key_code": "w" },
-                                "to": { "key_code": "w" },
+                                "to": [{ "key_code": "w" }],
                                 "to_if_held_down": [
                                     { "key_code": "delete_or_backspace" },
                                     {
@@ -427,15 +283,10 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "long x to X",
-                        "manipulators": [
+                            },
                             {
                                 "from": { "key_code": "x" },
-                                "to": { "key_code": "x" },
+                                "to": [{ "key_code": "x" }],
                                 "to_if_held_down": [
                                     { "key_code": "delete_or_backspace" },
                                     {
@@ -444,15 +295,10 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "long y to Y",
-                        "manipulators": [
+                            },
                             {
                                 "from": { "key_code": "y" },
-                                "to": { "key_code": "y" },
+                                "to": [{ "key_code": "y" }],
                                 "to_if_held_down": [
                                     { "key_code": "delete_or_backspace" },
                                     {
@@ -461,15 +307,10 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "long z to Z",
-                        "manipulators": [
+                            },
                             {
                                 "from": { "key_code": "z" },
-                                "to": { "key_code": "z" },
+                                "to": [{ "key_code": "z" }],
                                 "to_if_held_down": [
                                     { "key_code": "delete_or_backspace" },
                                     {
@@ -478,15 +319,10 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "long б to Б",
-                        "manipulators": [
+                            },
                             {
                                 "from": { "key_code": "open_bracket" },
-                                "to": { "key_code": "open_bracket" },
+                                "to": [{ "key_code": "open_bracket" }],
                                 "to_if_held_down": [
                                     { "key_code": "delete_or_backspace" },
                                     {
@@ -495,15 +331,10 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "long х to Х",
-                        "manipulators": [
+                            },
                             {
                                 "from": { "key_code": "close_bracket" },
-                                "to": { "key_code": "close_bracket" },
+                                "to": [{ "key_code": "close_bracket" }],
                                 "to_if_held_down": [
                                     { "key_code": "delete_or_backspace" },
                                     {
@@ -512,15 +343,10 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "long ж to Ж",
-                        "manipulators": [
+                            },
                             {
                                 "from": { "key_code": "semicolon" },
-                                "to": { "key_code": "semicolon" },
+                                "to": [{ "key_code": "semicolon" }],
                                 "to_if_held_down": [
                                     { "key_code": "delete_or_backspace" },
                                     {
@@ -529,15 +355,10 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "long э to Э",
-                        "manipulators": [
+                            },
                             {
                                 "from": { "key_code": "quote" },
-                                "to": { "key_code": "quote" },
+                                "to": [{ "key_code": "quote" }],
                                 "to_if_held_down": [
                                     { "key_code": "delete_or_backspace" },
                                     {
@@ -546,15 +367,10 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "long ю to Ю",
-                        "manipulators": [
+                            },
                             {
                                 "from": { "key_code": "slash" },
-                                "to": { "key_code": "slash" },
+                                "to": [{ "key_code": "slash" }],
                                 "to_if_held_down": [
                                     { "key_code": "delete_or_backspace" },
                                     {
@@ -563,15 +379,10 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "long - to —",
-                        "manipulators": [
+                            },
                             {
                                 "from": { "key_code": "backslash" },
-                                "to": { "key_code": "backslash" },
+                                "to": [{ "key_code": "backslash" }],
                                 "to_if_held_down": [
                                     { "key_code": "delete_or_backspace" },
                                     {
@@ -580,15 +391,10 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "long ё to Ё",
-                        "manipulators": [
+                            },
                             {
                                 "from": { "key_code": "grave_accent_and_tilde" },
-                                "to": { "key_code": "grave_accent_and_tilde" },
+                                "to": [{ "key_code": "grave_accent_and_tilde" }],
                                 "to_if_held_down": [
                                     { "key_code": "delete_or_backspace" },
                                     {
@@ -601,7 +407,28 @@
                         ]
                     },
                     {
-                        "description": "Home to Command + Left",
+                        "description": "language select",
+                        "manipulators": [
+                            {
+                                "from": {
+                                    "key_code": "f16",
+                                    "modifiers": { "optional": ["any"] }
+                                },
+                                "to": [{ "select_input_source": { "input_source_id": "^me.mospan.keyboardlayout.mospan.english—mospan$" } }],
+                                "type": "basic"
+                            },
+                            {
+                                "from": {
+                                    "key_code": "f17",
+                                    "modifiers": { "optional": ["any"] }
+                                },
+                                "to": [{ "select_input_source": { "input_source_id": "^me.mospan.keyboardlayout.mospan.russian—mospan$" } }],
+                                "type": "basic"
+                            }
+                        ]
+                    },
+                    {
+                        "description": "home and end buttons text editor behaviour fix",
                         "manipulators": [
                             {
                                 "from": {
@@ -615,12 +442,7 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "End to Command + Right",
-                        "manipulators": [
+                            },
                             {
                                 "from": {
                                     "key_code": "end",
@@ -637,7 +459,7 @@
                         ]
                     },
                     {
-                        "description": "Caps Lock to Right Control",
+                        "description": "Caps Lock (mapped to Right Control) cursor movement",
                         "manipulators": [
                             {
                                 "from": {
@@ -651,12 +473,7 @@
                                     }
                                 ],
                                 "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "Caps Lock (Right Control) cursor movement",
-                        "manipulators": [
+                            },
                             {
                                 "from": {
                                     "key_code": "j",
@@ -783,32 +600,6 @@
                                         "modifiers": "command"
                                     }
                                 ],
-                                "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "F16 -> en",
-                        "manipulators": [
-                            {
-                                "from": {
-                                    "key_code": "f16",
-                                    "modifiers": { "optional": ["any"] }
-                                },
-                                "to": [{ "select_input_source": { "input_source_id": "^me.mospan.keyboardlayout.mospan.english—mospan$" } }],
-                                "type": "basic"
-                            }
-                        ]
-                    },
-                    {
-                        "description": "F17 -> ru",
-                        "manipulators": [
-                            {
-                                "from": {
-                                    "key_code": "f17",
-                                    "modifiers": { "optional": ["any"] }
-                                },
-                                "to": [{ "select_input_source": { "input_source_id": "^me.mospan.keyboardlayout.mospan.russian—mospan$" } }],
                                 "type": "basic"
                             }
                         ]
