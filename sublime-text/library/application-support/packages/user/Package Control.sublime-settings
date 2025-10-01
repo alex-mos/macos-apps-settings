@@ -1,5 +1,6 @@
 {
 	"bootstrapped": true,
+	"install_messages": false,
 	"in_process_packages":
 	[
 	],

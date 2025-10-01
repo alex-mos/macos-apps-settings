@@ -131,6 +131,11 @@
       ],
       "key" : "d",
       "type" : "group"
+    },
+    {
+      "key" : "w",
+      "type" : "application",
+      "value" : "/Applications/WebStorm.app"
     }
   ],
   "type" : "group"
