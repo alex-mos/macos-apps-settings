@@ -44,11 +44,13 @@
 
 auto-update = off
 
-keybind = cmd+f=new_split:down
-keybind = cmd+j=goto_split:left
-keybind = cmd+l=goto_split:right
-keybind = cmd+i=goto_split:up
-keybind = cmd+k=goto_split:down
+#keybind = cmd+f=new_split:down
+#keybind = cmd+j=goto_split:left
+#keybind = cmd+l=goto_split:right
+#keybind = cmd+i=goto_split:up
+#keybind = cmd+k=goto_split:down
+keybind = cmd+j=previous_tab
+keybind = cmd+l=next_tab
 
 theme = dark:molokai, light:github-light-default
 window-padding-x = 6

@@ -25,4 +25,3 @@ export PATH="$PATH:$HOME/scripts/"
 
 # java
 export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"
-k
