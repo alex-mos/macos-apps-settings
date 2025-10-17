@@ -52,7 +52,7 @@ auto-update = off
 keybind = cmd+j=previous_tab
 keybind = cmd+l=next_tab
 
-theme = dark:molokai, light:github-light-default
+theme = dark:Monokai Pro, light:Monokai Pro Light Sun
 window-padding-x = 6
 font-size = 15
 unfocused-split-fill = #999

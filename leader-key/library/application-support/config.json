@@ -3,49 +3,55 @@
     {
       "actions" : [
         {
-          "key" : "t",
+          "key" : "o",
           "type" : "application",
-          "value" : "/Applications/Sublime Text.app"
-        },
-        {
-          "key" : "m",
-          "type" : "application",
-          "value" : "/Applications/Sublime Merge.app"
-        }
-      ],
-      "key" : "s",
-      "type" : "group"
-    },
-    {
-      "key" : "b",
-      "type" : "application",
-      "value" : "/Applications/Brave Browser.app"
-    },
-    {
-      "key" : "o",
-      "type" : "application",
-      "value" : "/Applications/Obsidian.app"
-    },
-    {
-      "actions" : [
-        {
-          "key" : "e",
-          "type" : "application",
-          "value" : "/Applications/Telegram.app"
+          "value" : "/System/Applications/Books.app"
         },
         {
           "key" : "r",
           "type" : "application",
-          "value" : "/Applications/Transmission.app"
-        },
-        {
-          "key" : "h",
-          "type" : "application",
-          "value" : "/Applications/Things3.app"
+          "value" : "/Applications/Brave Browser.app"
         }
       ],
-      "key" : "t",
+      "key" : "b",
       "type" : "group"
+    },
+    {
+      "key" : "c",
+      "type" : "application",
+      "value" : "/System/Applications/Calendar.app"
+    },
+    {
+      "actions" : [
+        {
+          "actions" : [
+            {
+              "key" : "a",
+              "type" : "command",
+              "value" : "source ~/.zprofile && ~/scripts/diary"
+            },
+            {
+              "key" : "c",
+              "type" : "application",
+              "value" : "/System/Applications/Dictionary.app"
+            }
+          ],
+          "key" : "i",
+          "type" : "group"
+        }
+      ],
+      "key" : "d",
+      "type" : "group"
+    },
+    {
+      "key" : "f",
+      "type" : "application",
+      "value" : "/System/Library/CoreServices/Finder.app"
+    },
+    {
+      "key" : "g",
+      "type" : "application",
+      "value" : "/Applications/Ghostty.app"
     },
     {
       "key" : "i",
@@ -53,9 +59,9 @@
       "value" : "/Applications/iTerm.app"
     },
     {
-      "key" : "f",
-      "type" : "application",
-      "value" : "/System/Library/CoreServices/Finder.app"
+      "key" : "k",
+      "type" : "url",
+      "value" : "https://keep.google.com"
     },
     {
       "actions" : [
@@ -67,32 +73,6 @@
       ],
       "key" : "l",
       "type" : "group"
-    },
-    {
-      "key" : "g",
-      "type" : "application",
-      "value" : "/Applications/Ghostty.app"
-    },
-    {
-      "actions" : [
-        {
-          "key" : "n",
-          "type" : "application",
-          "value" : "/Applications/NetNewsWire.app"
-        },
-        {
-          "key" : "u",
-          "type" : "application",
-          "value" : "/Applications/Numi.app"
-        }
-      ],
-      "key" : "n",
-      "type" : "group"
-    },
-    {
-      "key" : "c",
-      "type" : "application",
-      "value" : "/System/Applications/Calendar.app"
     },
     {
       "actions" : [
@@ -113,29 +93,76 @@
     {
       "actions" : [
         {
-          "actions" : [
-            {
-              "key" : "c",
-              "type" : "application",
-              "value" : "/System/Applications/Dictionary.app"
-            },
-            {
-              "key" : "a",
-              "type" : "command",
-              "value" : "source ~/.zprofile && ~/scripts/diary"
-            }
-          ],
-          "key" : "i",
-          "type" : "group"
+          "key" : "n",
+          "type" : "application",
+          "value" : "/Applications/NetNewsWire.app"
+        },
+        {
+          "key" : "u",
+          "type" : "application",
+          "value" : "/Applications/Numi.app"
         }
       ],
-      "key" : "d",
+      "key" : "n",
       "type" : "group"
     },
     {
-      "key" : "w",
+      "key" : "o",
       "type" : "application",
-      "value" : "/Applications/WebStorm.app"
+      "value" : "/Applications/Obsidian.app"
+    },
+    {
+      "actions" : [
+        {
+          "key" : "m",
+          "type" : "application",
+          "value" : "/Applications/Sublime Merge.app"
+        },
+        {
+          "key" : "t",
+          "type" : "application",
+          "value" : "/Applications/Sublime Text.app"
+        }
+      ],
+      "key" : "s",
+      "type" : "group"
+    },
+    {
+      "actions" : [
+        {
+          "key" : "e",
+          "type" : "application",
+          "value" : "/Applications/Telegram.app"
+        },
+        {
+          "key" : "h",
+          "type" : "application",
+          "value" : "/Applications/Things3.app"
+        },
+        {
+          "key" : "r",
+          "type" : "application",
+          "value" : "/Applications/Transmission.app"
+        }
+      ],
+      "key" : "t",
+      "type" : "group"
+    },
+    {
+      "actions" : [
+        {
+          "key" : "e",
+          "type" : "application",
+          "value" : "/Applications/WebStorm.app"
+        },
+        {
+          "key" : "r",
+          "type" : "url",
+          "value" : "https://deepl.com/write"
+        }
+      ],
+      "key" : "w",
+      "type" : "group"
     }
   ],
   "type" : "group"
