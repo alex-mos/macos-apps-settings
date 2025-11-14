@@ -70,6 +70,7 @@ chflags hidden ~/Movies
 chflags hidden ~/Music
 chflags hidden ~/Public
 chflags hidden ~/Pictures
+chflags hidden ~/Sites
 
 ## App shortcuts (via https://github.com/alberti42/macOS-hotkeys-manager)
 chmod +x ./app_shortcuts/hotkeys-manager.py
