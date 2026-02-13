@@ -14,9 +14,6 @@ cp ./karabiner/config/karabiner.json ~/.config/karabiner
 
 ### Leader Key
 
-### Hammerspoon
-mkdir -p ~/.hammerspoon
-cp -R hammerspoon/* ~/.hammerspoon/
 
 ### Sublime Text
 cp -R ./sublime-text/library/application-support/packages/user/ ~/Library/Application\ Support/Sublime\ Text/Packages/User/
