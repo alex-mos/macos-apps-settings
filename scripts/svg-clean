@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+set -e
+
+FILE="$1"
+TMP="${FILE}.tmp.svg"
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+CONFIG="$SCRIPT_DIR/svg-clean.config.js"
+
+# чистим мусор
+svgo --config "$CONFIG" "$FILE" --output "$TMP"
+
+# форматируем с 2 пробелами
+xmllint --format "$TMP" --encode UTF-8 > "$FILE"
+rm "$TMP"
+
+echo "Cleaned and formatted: $FILE"

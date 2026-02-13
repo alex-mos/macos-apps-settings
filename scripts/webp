@@ -1,0 +1,11 @@
+if [ -z "$1" ]; then
+  echo "Usage: $0 <image_file>"
+  exit 1
+fi
+
+input="$1"
+output="${input%.*}.webp"
+
+magick "$input" -quality 90 "$output"
+
+echo "Saved: $output"

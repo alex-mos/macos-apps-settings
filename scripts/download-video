@@ -1,6 +1,7 @@
 # слушать
 mkdir -p ~/video/youtube_listen && cd ~/video/youtube_listen
 yt-dlp \
+--cookies-from-browser "brave" \
 --default-search "ytsearch" \
 --write-sub --sub-lang en \
 --merge-output-format mp4 \
@@ -11,6 +12,7 @@ yt-dlp \
 # отдых
 mkdir -p ~/video/youtube_watch && cd ~/video/youtube_watch
 yt-dlp \
+--cookies-from-browser "brave" \
 --default-search "ytsearch" \
 --write-sub --sub-lang en \
 --merge-output-format mp4 \

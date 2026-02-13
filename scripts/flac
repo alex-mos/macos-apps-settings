@@ -1,0 +1,66 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Рекурсивная конвертация *.webm/*.mp4 → *.flac
+# С метаданными и обложкой (встроенной или внешней)
+
+find . -type f \( -iname '*.webm' -o -iname '*.mp4' \) -print0 |
+while IFS= read -r -d '' file; do
+  base="${file%.*}"
+  out="${base}.flac"
+
+  if [[ -e "$out" ]]; then
+    echo "⏭️  Уже есть, пропускаю: $out"
+    continue
+  fi
+
+  echo "🎧 Конвертирую: $file → $out"
+
+  # Проверяем встроенную обложку
+  has_cover=$(ffprobe -v error -select_streams v \
+    -show_entries stream_tags=handler_name \
+    -of default=noprint_wrappers=1:nokey=1 "$file" | grep -qi "cover" && echo yes || echo no)
+
+  # Ищем внешнюю обложку в той же папке
+  dir=$(dirname "$file")
+  for ext in jpg jpeg png; do
+    if [[ -f "$dir/cover.$ext" ]]; then
+      cover_file="$dir/cover.$ext"
+      break
+    elif [[ -f "$dir/folder.$ext" ]]; then
+      cover_file="$dir/folder.$ext"
+      break
+    fi
+  done
+
+  # Формируем команду ffmpeg
+  if [[ "$has_cover" == "yes" ]]; then
+    ffmpeg -hide_banner -n \
+      -i "$file" \
+      -map_metadata 0 \
+      -map 0:a:0 \
+      -map 0:v \
+      -c:a flac -compression_level 5 \
+      -c:v copy \
+      "$out"
+  elif [[ -n "${cover_file-}" ]]; then
+    ffmpeg -hide_banner -n \
+      -i "$file" \
+      -i "$cover_file" \
+      -map_metadata 0 \
+      -map 0:a:0 \
+      -map 1:0 \
+      -c:a flac -compression_level 5 \
+      -c:v:1 copy \
+      -disposition:v:0 attached_pic \
+      "$out"
+  else
+    ffmpeg -hide_banner -n \
+      -i "$file" \
+      -map_metadata 0 \
+      -map 0:a:0 \
+      -c:a flac -compression_level 5 \
+      "$out"
+  fi
+
+done

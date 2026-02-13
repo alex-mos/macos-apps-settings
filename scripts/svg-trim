@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+
+set -e
+
+FILE="$1"
+
+if [ -z "$FILE" ]; then
+  echo "Usage: ./trim-svg.sh file.svg"
+  exit 1
+fi
+
+if [ ! -f "$FILE" ]; then
+  echo "File not found: $FILE"
+  exit 1
+fi
+
+TMP="${FILE}.tmp.svg"
+
+inkscape "$FILE" \
+  --export-area-drawing \
+  --export-filename="$TMP" >/dev/null 2>&1
+
+mv "$TMP" "$FILE"
+
+echo "Trimmed: $FILE"
