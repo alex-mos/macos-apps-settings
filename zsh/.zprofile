@@ -9,6 +9,7 @@ export LC_ALL="ru_RU.UTF-8"
 eval "$(/opt/homebrew/bin/brew shellenv)"
 export LIBRARY_PATH=/usr/local/lib
 export LIBRARY_PATH=$LIBRARY_PATH:/opt/homebrew/lib
+export HOMEBREW_NO_ENV_HINTS=1
 
 # NVM
 export NVM_DIR="$HOME/.nvm"
