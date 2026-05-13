@@ -1,6 +1,6 @@
 {
 	"ignored_snippets": [],
-	"auto_match_enabled": false,
+	"auto_match_enabled": true,
 	"fold_buttons": false,
 	"folder_exclude_patterns": [".git", ".next", ".idea"],
 	"binary_file_patterns": ["package-lock.json", "coverage", "node_modules/*"],
