@@ -163,6 +163,33 @@
       ],
       "key" : "w",
       "type" : "group"
+    },
+    {
+      "actions" : [
+        {
+          "key" : "h",
+          "type" : "application",
+          "value" : "/Applications/PhpStorm.app"
+        },
+        {
+          "key" : "e",
+          "type" : "application",
+          "value" : "/Applications/Petrichor.app"
+        }
+      ],
+      "key" : "p",
+      "type" : "group"
+    },
+    {
+      "actions" : [
+        {
+          "key" : "e",
+          "type" : "application",
+          "value" : "/Applications/reMarkable.app"
+        }
+      ],
+      "key" : "r",
+      "type" : "group"
     }
   ],
   "type" : "group"

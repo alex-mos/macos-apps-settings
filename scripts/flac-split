@@ -1,0 +1,31 @@
+#!/bin/bash
+
+CUE=$(find . -maxdepth 1 -name "*.cue" | head -1)
+FLAC=$(find . -maxdepth 1 -name "*.flac" | head -1)
+
+if [ -z "$CUE" ]; then
+  echo "Error: .cue file not found"
+  exit 1
+fi
+
+if [ -z "$FLAC" ]; then
+  echo "Error: .flac file not found"
+  exit 1
+fi
+
+echo "CUE:  $CUE"
+echo "FLAC: $FLAC"
+
+shnsplit -f "$CUE" -t "%n - %t" -o flac "$FLAC"
+
+rm -f "00 - pregap.flac"
+
+# Все flac кроме исходного и pregap
+TRACKS=()
+while IFS= read -r -d '' f; do
+  TRACKS+=("$f")
+done < <(find . -maxdepth 1 -name "*.flac" ! -name "$(basename "$FLAC")" ! -name "00 - pregap.flac" -print0 | sort -z)
+
+cuetag.sh "$CUE" "${TRACKS[@]}"
+
+echo "Done"
