@@ -1,3 +1,5 @@
+brew upgrade yt-dlp
+
 # слушать
 mkdir -p ~/video/youtube_listen && cd ~/video/youtube_listen
 yt-dlp \
@@ -11,9 +13,10 @@ yt-dlp \
 # отдых
 mkdir -p ~/video/youtube_watch && cd ~/video/youtube_watch
 yt-dlp \
+-S "res:1080,fps" \
+--merge-output-format mp4 \
 --default-search "ytsearch" \
 --write-sub --sub-lang en \
---merge-output-format mp4 \
 --sponsorblock-remove sponsor \
--S "res:1080" \
+--exec "ffmpeg -i {} -c:v libx264 -preset slow -crf 18 -c:a aac -b:a 192k -movflags +faststart {}.tv.mp4 && rm {} && mv {}.tv.mp4 {}" \
 "https://www.youtube.com/playlist?list=PL7m307ZxtRxob24vkJGH3u_KbsG940y7B"

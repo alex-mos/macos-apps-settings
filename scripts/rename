@@ -1,0 +1,30 @@
+#!/bin/bash
+
+DIR="${1:-.}"
+
+for f in "$DIR"/*.flac "$DIR"/*.mp3 "$DIR"/*.m4a "$DIR"/*.wav; do
+    [ -f "$f" ] || continue
+
+    TRACK=$(ffprobe -v quiet -select_streams a:0 \
+        -show_entries format_tags=track \
+        -of default=noprint_wrappers=1:nokey=1 "$f" 2>/dev/null)
+    TITLE=$(ffprobe -v quiet -select_streams a:0 \
+        -show_entries format_tags=title \
+        -of default=noprint_wrappers=1:nokey=1 "$f" 2>/dev/null)
+
+    # Убираем дробную часть из трека (например "1/12" -> "01")
+    TRACK=$(echo "$TRACK" | sed 's|/.*||' | awk '{printf "%02d", $1}')
+
+    if [ -z "$TRACK" ] || [ -z "$TITLE" ]; then
+        echo "Пропускаю $f — нет тегов track или title"
+        continue
+    fi
+
+    EXT="${f##*.}"
+    NEWNAME="$DIR/$TRACK. $TITLE.$EXT"
+
+    if [ "$f" != "$NEWNAME" ]; then
+        mv "$f" "$NEWNAME"
+        echo "$f -> $NEWNAME"
+    fi
+done
