@@ -25,6 +25,9 @@
     "Open Location...": "@d",
     "Search Tabs...": "@e"
   },
+  "com.apple.mail": {
+    "Archive": "@a"
+  },
   "NSGlobalDomain": {
     "Minimize": "@~^$m",
     "Minimise": "@~^$m"
