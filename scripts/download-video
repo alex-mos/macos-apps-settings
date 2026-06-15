@@ -1,7 +1,7 @@
 brew upgrade yt-dlp
 
 # слушать
-mkdir -p ~/video/youtube_listen && cd ~/video/youtube_listen
+mkdir -p ~/video/youtube_listen && cd ~/audio-phone
 yt-dlp \
 --default-search "ytsearch" \
 --write-sub --sub-lang en \
