@@ -1,0 +1,55 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+DIR="${1:-}"
+
+if [ -z "$DIR" ]; then
+    echo "Usage: rename-dir <directory>" >&2
+    exit 1
+fi
+
+if [ ! -d "$DIR" ]; then
+    echo "Ошибка: $DIR не является директорией" >&2
+    exit 1
+fi
+
+# Первый m4a-файл в директории
+M4A=$(find "$DIR" -maxdepth 1 -type f -iname '*.m4a' -print | head -n1)
+
+if [ -z "$M4A" ]; then
+    echo "Ошибка: в $DIR нет m4a-файлов" >&2
+    exit 1
+fi
+
+ALBUM=$(ffprobe -v quiet -select_streams a:0 \
+    -show_entries format_tags=album \
+    -of default=noprint_wrappers=1:nokey=1 "$M4A" 2>/dev/null)
+
+YEAR=$(ffprobe -v quiet -select_streams a:0 \
+    -show_entries format_tags=date \
+    -of default=noprint_wrappers=1:nokey=1 "$M4A" 2>/dev/null)
+
+if [ -z "$YEAR" ]; then
+    YEAR=$(ffprobe -v quiet -select_streams a:0 \
+        -show_entries format_tags=year \
+        -of default=noprint_wrappers=1:nokey=1 "$M4A" 2>/dev/null)
+fi
+
+if [ -z "$ALBUM" ] || [ -z "$YEAR" ]; then
+    echo "Ошибка: не удалось получить альбом или год из $M4A" >&2
+    exit 1
+fi
+
+# Извлекаем только год из возможной полной даты (2024-01-15 -> 2024)
+YEAR="${YEAR%%-*}"
+
+PARENT=$(dirname "$DIR")
+BASENAME=$(basename "$DIR")
+NEWNAME="$PARENT/$YEAR — $ALBUM"
+
+if [ "$DIR" != "$NEWNAME" ]; then
+    mv "$DIR" "$NEWNAME"
+    echo "$BASENAME -> $YEAR — $ALBUM"
+else
+    echo "Директория уже названа правильно"
+fi
