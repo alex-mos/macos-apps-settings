@@ -13,7 +13,7 @@ yt-dlp \
 "https://www.youtube.com/playlist?list=PL7m307ZxtRxoGtg7DlMTaxnK4X9oN416J"
 
 # отдых
-mkdir -p ~/video/youtube_watch && cd ~/video/youtube_watch
+mkdir -p ~/video/youtube_watch && cd ~/video/youtube-watch
 yt-dlp \
 -S "res:1080,fps" \
 --merge-output-format mp4 \
