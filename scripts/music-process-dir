@@ -1,0 +1,41 @@
+#!/usr/bin/env bash
+# Применить скрипты
+# music-cleanup-tags → music-rename-tracks → music-rename-album → music-clean-dir
+# ко всем директориям внутри указанной
+set -euo pipefail
+
+root="${1:?Usage: $0 <directory>}"
+
+[[ -d "$root" ]] || { echo "Ошибка: $root не является директорией" >&2; exit 1; }
+
+process_dir() {
+    local d="$1"
+    local skip_album="${2:-}"
+    local name
+    name="$(basename "$d")"
+    echo "=== $name ==="
+    if [[ "$name" =~ [Сс]инглы|[Ss]ingles|[Нн]еизданное ]]; then
+        echo "  пропускаю — сингл/неизданное"
+        return
+    fi
+    music-cleanup-tags "$d"   || echo "  music-cleanup-tags: ошибка"
+    music-rename-tracks "$d"  || echo "  music-rename-tracks: ошибка"
+    if [[ -z "$skip_album" ]]; then
+        music-rename-album "$d" || echo "  music-rename-album: ошибка"
+    fi
+    music-clean-dir "$root"   || echo "  music-clean-dir: ошибка"
+}
+
+# Если в корневой директории есть аудиофайлы — обработать её саму
+shopt -s nullglob
+audio_files=("$root"/*.{flac,mp3,m4a,wav})
+shopt -u nullglob
+
+(( ${#audio_files[@]} )) && process_dir "$root" skip_album
+
+# Обработать поддиректории
+for d in "$root"/*/; do
+    [[ -d "$d" ]] && process_dir "$d"
+done
+
+echo "Готово"

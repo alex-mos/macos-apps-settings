@@ -1,0 +1,51 @@
+#!/usr/bin/env bash
+# Очистить теги title и album от мусорных подстрок
+set -euo pipefail
+
+dir="${1:-.}"
+
+# Строки для удаления из тегов
+patterns=(
+    " (2015 Remastered Version)"
+    " (Deluxe Edition)"
+    " (Remastered)"
+    " (2021 Remaster)"
+    " (feat. Оскар Чунтонов)"
+)
+
+strip_patterns() {
+    local value="$1"
+    for pattern in "${patterns[@]}"; do
+        value="${value//"$pattern"/}"
+    done
+    echo "$value"
+}
+
+shopt -s nullglob
+files=("$dir"/*.{flac,mp3,m4a,wav})
+shopt -u nullglob
+
+for f in "${files[@]}"; do
+    title=$(ffprobe -v quiet -select_streams a:0 \
+        -show_entries format_tags=title \
+        -of default=noprint_wrappers=1:nokey=1 "$f" 2>/dev/null)
+    album=$(ffprobe -v quiet -select_streams a:0 \
+        -show_entries format_tags=album \
+        -of default=noprint_wrappers=1:nokey=1 "$f" 2>/dev/null)
+
+    new_title=$(strip_patterns "$title")
+    new_album=$(strip_patterns "$album")
+
+    if [[ "$title" == "$new_title" && "$album" == "$new_album" ]]; then
+        continue
+    fi
+
+    ffmpeg -i "$f" -c copy \
+        -metadata title="$new_title" \
+        -metadata album="$new_album" \
+        -y "${f}.tmp.${f##*.}" &>/dev/null
+    mv "${f}.tmp.${f##*.}" "$f"
+
+    [[ "$title" != "$new_title" ]] && echo "Тэг title очищен: $title -> $new_title"
+    [[ "$album" != "$new_album" ]] && echo "Тэг album очищен: $album -> $new_album"
+done

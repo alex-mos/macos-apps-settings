@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+
+# Удалить файлы download_more_albums.html и .sync-conflict*
+
+set -euo pipefail
+
+root="${1:-.}"
+deleted=0
+
+[[ -d "$root" ]] || { echo "Ошибка: $root не является директорией" >&2; exit 1; }
+
+while IFS= read -r -d '' f; do
+    rm "$f"
+    echo "удалён: $f"
+    (( ++deleted ))
+done < <(find "$root" -type f \( -name 'download_more_albums.html' -o -name '.sync-conflict*' \) -print0)
+
+(( deleted == 0 )) && echo "Нет файлов для удаления" || echo "Удалено файлов: $deleted"

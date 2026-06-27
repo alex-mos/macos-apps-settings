@@ -1,0 +1,51 @@
+#!/usr/bin/env bash
+
+# Переименовать директорию с альбомом в формат
+# YYYY — album-name
+
+set -euo pipefail
+
+dir="${1:?Usage: $0 <directory>}"
+dir="${dir%/}"
+name="$(basename "$dir")"
+
+[[ -d "$dir" ]] || { echo "Ошибка: $dir не является директорией" >&2; exit 1; }
+
+[[ "$name" =~ [Сс]инглы|[Ss]ingles|[Нн]еизданное ]] && {
+    echo "Пропускаю $name — похоже на сингл или неизданное"
+    exit 0
+}
+
+# Первый аудиофайл в директории
+shopt -s nullglob
+audio_files=("$dir"/*.{m4a,mp3,flac,wav})
+shopt -u nullglob
+
+(( ${#audio_files[@]} )) || { echo "Ошибка: в $dir нет аудиофайлов" >&2; exit 1; }
+audio="${audio_files[0]}"
+
+album=$(ffprobe -v quiet -select_streams a:0 \
+    -show_entries format_tags=album \
+    -of default=noprint_wrappers=1:nokey=1 "$audio" 2>/dev/null)
+
+year=$(ffprobe -v quiet -select_streams a:0 \
+    -show_entries format_tags=date \
+    -of default=noprint_wrappers=1:nokey=1 "$audio" 2>/dev/null)
+year="${year:-$(ffprobe -v quiet -select_streams a:0 \
+    -show_entries format_tags=year \
+    -of default=noprint_wrappers=1:nokey=1 "$audio" 2>/dev/null)}"
+
+[[ -n "$album" && -n "$year" ]] || {
+    echo "Ошибка: не удалось получить альбом или год из $audio" >&2
+    exit 1
+}
+
+year="${year%%-*}"
+newname="$(dirname "$dir")/$year — $album"
+
+if [[ "$dir" != "$newname" ]]; then
+    mv "$dir" "$newname"
+    echo "Директория переименована: $name -> $year — $album"
+else
+    echo "Директория уже названа правильно"
+fi

@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+
+# Конвертировать изображение в webp
+
+set -euo pipefail
+
+input="${1:?Usage: $0 <image_file>}"
+
+output="${input%.*}.webp"
+
+magick "$input" -quality 90 "$output"
+
+echo "Saved: $output"
